@@ -1,0 +1,800 @@
+,StudentId,UniversityName,CourseName,PlanType,PaymentDate,State,City,RegisteredDate,SignupSource,StudentClient
+0,29037b0a52c5b576d32ac5842fd5b7e5991c5bef93150ffc6556edfd0da3999d,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 14, 19, 52, 36)",Minas Gerais,Belo Horizonte,"(2012, 10, 30, 17, 2, 8)",Email,
+1,b2bace77d15c3dfaf57bf9916f0e9924d12f89bdc0624cdea099da5182c5df65,CEFET/MG,Engenharia Elétrica,Mensal,"(2017, 11, 8, 11, 52, 9)",Minas Gerais,Coronel Fabriciano,"(2012, 12, 3, 19, 54, 48)",Facebook,
+2,f423d6fe2f8964db634c7806e03b0f6567e992e994f06f203ff18704cf0ea6c9,ESTÁCIO,Direito,Mensal,"(2017, 11, 5, 21, 27, 47)",Espírito Santo,Serra,"(2013, 4, 3, 12, 37, 45)",Email,
+3,55ccbe518d2edbbd527eddca1431c7f7f3a4676bdbee382ea2eb968f993512a0,ESTÁCIO,Direito,Mensal,"(2017, 11, 15, 14, 36, 42)",Rio de Janeiro,Rio de Janeiro,"(2013, 4, 3, 16, 0, 6)",Email,
+4,b1b0f63fe3e4820cb082531af7c8911cd380e5ec8fe82256115a6e01d644d0be,ESTÁCIO,Direito,Mensal,"(2017, 11, 12, 22, 19, 54)",Rio de Janeiro,Saquarema,"(2013, 4, 3, 16, 9, 36)",Facebook,
+5,ed46832f6b716fb2e2f6f11b43965f2e0a3f2f8f8994ce86ad3a5c4ff29915fc,UNIVILLE,Direito,Mensal,"(2017, 11, 22, 1, 3, 9)",Paraná,Curitiba,"(2013, 7, 11, 18, 6, 7)",Facebook,
+6,69b7bee32821cf76b9ffd5deffca1a01c95499cea24a457dee9222c9dbb82ced,UDESC,Engenharia Mecânica,Mensal,"(2017, 11, 24, 19, 3, 49)",Santa Catarina,Joinville,"(2013, 7, 11, 18, 12, 16)",Facebook,
+7,6553923125fe6364e16aacf5656426809bb134b005f1823bc18c8e7ddcabdf2d,ESTÁCIO,Engenharia Mecânica,Mensal,"(2017, 11, 11, 21, 1, 59)",Rio de Janeiro,Rio de Janeiro,"(2013, 7, 17, 20, 7, 49)",Facebook,
+8,3903a334d1af8ce838bc2b7f497f11c40437573c1ad30b893283e86f8b89333c,ESTÁCIO,Segurança da Informação,Mensal,"(2017, 11, 12, 16, 41, 19)",Ceará,Fortaleza,"(2013, 7, 24, 9, 29, 20)",Email,
+9,4487f81a4ea9b3c3cf58aa31ecc21c30d6fb186993af6154d0d4416f1783dc9b,UNIP,Gestão de Comércio / Gestão Comercial,Mensal,"(2017, 11, 21, 11, 52, 55)",Goiás,Goiânia,"(2013, 9, 17, 12, 47, 40)",Facebook,
+10,bde8436a92ab53ce25ba3c3573f2019403170fdd8ca9019807ce30e75346bd23,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 6, 22, 14, 55)",Rio de Janeiro,Rio de Janeiro,"(2013, 9, 21, 12, 26, 45)",Facebook,
+11,3ae094228e1b9324e525adb48f28ad94113711ac85dbfce9d87d5392af89ecb6,ESTÁCIO,Direito,Mensal,"(2017, 11, 17, 19, 30, 27)",Maranhão,Imperatriz,"(2013, 10, 6, 12, 52, 48)",Facebook,
+12,5a0df378119b95d3c283ef169bb5aa34ee950497e10a40e9757f93aa0f037102,ESTÁCIO,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 10, 22, 33, 10)",Rio de Janeiro,Rio de Janeiro,"(2013, 10, 11, 17, 9, 16)",Email,
+13,fed3de568756e019f7d8e7911a432f7fb3ee7986b355139044139fcdbee70b5d,USP-SP,Relações Internacionais,Mensal,"(2017, 11, 8, 22, 6, 51)",Rio de Janeiro,Niterói,"(2013, 11, 15, 15, 59, 46)",Facebook,
+14,68beec3e289e3316e654479a38f060bd133f194d728c6a496be3cc3c9a965cdc,ESTÁCIO EAD,Logística,Mensal,"(2017, 11, 1, 18, 14, 10)",Pernambuco,Recife,"(2013, 11, 17, 15, 46, 3)",Email,
+15,ecb4e29cd9585b0800006fb1f7ff38ddbfdbca1e54216c2ad5cb7df5a70bac45,ESTÁCIO EAD,Engenharia Elétrica,Mensal,"(2017, 11, 10, 15, 22, 35)",Rio de Janeiro,São Gonçalo,"(2013, 11, 22, 23, 20, 45)",Email,
+16,2e34dfda3cca387a72f6f6de1cadcfe1f0cd8a0b38bf34017d6429631a6f9970,ESTÁCIO,Administração,Mensal,"(2017, 11, 9, 1, 10, 33)",Rio de Janeiro,Sao Joao De Meriti,"(2013, 11, 24, 22, 10, 32)",Email,
+17,85529f64c1428b69f7bfa6823c4595c254965ca204b8d1f15e6000398fb4fb27,ESTÁCIO,Sistemas de Informação / Informática,Mensal,"(2017, 11, 8, 0, 41, 29)",Rio de Janeiro,Rio de Janeiro,"(2013, 11, 27, 17, 21, 38)",Facebook,
+18,a189c626b75ca992587167cfbf5e0d183e5c09ce89bc6950c6e7bd893fa242d3,FALS,Direito,Mensal,"(2017, 11, 30, 12, 57, 33)",Ceará,Fortaleza,"(2013, 12, 2, 13, 45, 18)",Facebook,
+19,fe9f61ef8539dfbdbc8f5bb42f95e45768aeabb6fd6f8aef59b6a31ecd812572,UNIC,Direito,Mensal,"(2017, 11, 13, 12, 20, 52)",Mato Grosso,Rondonópolis,"(2013, 12, 3, 1, 12, 45)",Email,
+20,88eb1838ab7abfa6b50ea85483b39c0d0299d7d78d1b878714d5528e2d24085f,ESTÁCIO EAD,Engenharia de Produção,Mensal,"(2017, 11, 21, 9, 51, 53)",Pernambuco,Paulista,"(2013, 12, 11, 17, 27, 8)",Email,
+21,759dd1860ef162abcf4e8677d15038cfc65fb715fc81436c18902ac615d7e7bf,UFSC,Engenharia Elétrica,Mensal,"(2017, 11, 6, 13, 0, 44)",Santa Catarina,Lages,"(2013, 12, 12, 8, 47, 30)",Facebook,
+22,5957ace83bc5fdc5450ee4e883ba9a266c13496c70fffd294f402556c0eb1434,ESTÁCIO EAD,Logística,Mensal,"(2017, 11, 13, 14, 27, 10)",Espírito Santo,Vitória,"(2013, 12, 13, 18, 39, 41)",Email,
+23,040d32351fdc54c8fa5bb2d029a3d7ee2ec376a107a623bac5e369a6a4909a4a,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 2, 18, 30, 39)",Rio de Janeiro,Rio de Janeiro,"(2013, 12, 14, 8, 18, 50)",Facebook,
+24,b25bb52a1e2aea994877fafa8a5240fae1a4b892588cb7749e3f194b052f4648,ESTÁCIO,Administração,Mensal,"(2017, 11, 13, 22, 0, 0)",Rio de Janeiro,Rio de Janeiro,"(2013, 12, 16, 22, 51, 10)",Facebook,
+25,9d24f1bc7da8e7640e8b2edebf64c969467f4f84288fa1219a6976fe3ca68d6c,USP-SP,Odontologia,Anual,"(2017, 11, 1, 15, 45, 44)",São Paulo,São Paulo,"(2013, 12, 20, 14, 33, 23)",Facebook,
+26,0f7f95affa6bddc08e1652e4d998be0159d01dfce91733a267f65919990e794a,UFPA,Odontologia,Mensal,"(2017, 11, 15, 12, 36, 19)",São Paulo,Bauru,"(2014, 1, 31, 12, 52, 14)",Email,
+27,4db9e60fbaa0f0fea37a2fe65c9e89b376be7328ad68d1a68007cee68ea616b6,FIO,Farmácia / Ciências Farmacêuticas,Mensal,"(2017, 11, 29, 0, 31, 53)",São Paulo,São Paulo,"(2014, 2, 4, 0, 39, 35)",Email,
+28,b98b67e8db6e12d47199596b3958a81dc7580257d64e3812b34aef613f7de76a,UFRRJ,Engenharia Química,Mensal,"(2017, 11, 3, 13, 20, 12)",Rio de Janeiro,Tangua,"(2014, 2, 6, 8, 36, 11)",Facebook,Website
+29,a9cdf282562db4fab32d49f86adaf3814717d26fbaff021bd404c6e9055d448e,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 17, 10, 18, 47)",Minas Gerais,Belo Horizonte,"(2014, 2, 21, 16, 48, 26)",Facebook,Website
+30,4ccb36465bdcf45cb71a1326fdecd52a57adbba7d9eb2579ab232c7b66d3e6e9,ESTÁCIO EAD,Serviço Social,Mensal,"(2017, 11, 5, 13, 54, 50)",Rio de Janeiro,Rio de Janeiro,"(2014, 3, 1, 17, 7, 40)",Facebook,
+31,e574a0b44f0a00d23dd6ef42632cab55f1a22114eeeebc9f81c8b6bb43087ee4,ESTÁCIO,Direito,Mensal,"(2017, 11, 16, 16, 3, 41)",Rio de Janeiro,Petrópolis,"(2014, 3, 7, 15, 0, 2)",Email,Website
+32,be913f6437e9e874396224a2f53a719b08dbe7a4c4e7b2e29a6606532c426288,MACKENZIE,Direito,Mensal,"(2017, 11, 8, 11, 56, 17)",São Paulo,Catanduva,"(2014, 3, 12, 13, 8, 15)",Facebook,Website
+33,3e28a672cb80443d34c3e07dd335b6ea5424d684dda578f178c37620dc60a020,UNIDERP - ANHANGUERA,Tecnologia em Desenvolvimento de Softwares,Mensal,"(2017, 11, 15, 22, 0, 41)",Minas Gerais,Belo Horizonte,"(2014, 3, 13, 0, 31, 45)",Email,Website
+34,a3e20c60acceec95d46b659b6a1cb54f3e1ea30aa9075a122ec89e28da05eb52,UFBA,Engenharia Elétrica,Mensal,"(2017, 11, 12, 20, 34, 55)",Bahia,Salvador,"(2014, 3, 17, 21, 52, 42)",Email,Website
+35,a5fe99394c63fdcf0a1b32c5338c0192a6b1a044bc415a1a9a1f15a0354aa9e8,IPESU,Direito,Mensal,"(2017, 11, 16, 14, 49, 36)",,,"(2014, 3, 28, 16, 6, 16)",Facebook,Website
+36,03010d4b33430a15729969c4f705b2a80a13ede09b2bfa1cbb3ff11f327fde12,UNINASSAU CAMPINA GRANDE,Enfermagem,Mensal,"(2017, 11, 10, 22, 2, 41)",Ceará,Juazeiro do Norte,"(2014, 3, 29, 11, 28, 30)",Email,Website
+37,a27777b41a58f259ae2e3712c1b1c7b23e4459cff9d971937b7e552c06f9e6ac,ESTÁCIO,Engenharia Elétrica,Mensal,"(2017, 11, 15, 11, 16, 17)",Rio de Janeiro,Rio de Janeiro,"(2014, 4, 1, 0, 57, 33)",Email,Website
+38,4da01225a79c01a6f239bd578e4400f1d7a39a40d2c982d314d052ec1fecc1c3,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 7, 13, 30, 23)",Rio de Janeiro,Rio de Janeiro,"(2014, 4, 1, 15, 53, 51)",Email,
+39,0a11b0ac5b752ebc8abb73a0f6d8eac780406f35556b1c7ffadc12c9d911cef5,UNIPB,Ciência da Computação,Anual,"(2017, 11, 9, 12, 40, 45)",,,"(2014, 4, 3, 15, 50, 22)",Email,Website
+40,829054216da02d2f1f42fe9cceb139ccb054fccf27a4b6984af5e8f64fe54109,ESTÁCIO,Direito,Mensal,"(2017, 11, 5, 21, 59, 24)",Ceará,Fortaleza,"(2014, 4, 6, 15, 33, 23)",Email,Website
+41,15cac0b4db92d5860b58905347e25358cb9e71f3acbccc332c627f96924fca3a,UNISUL,Engenharia Civil,Mensal,"(2017, 11, 5, 16, 17, 2)",Santa Catarina,Florianópolis,"(2014, 4, 8, 18, 39, 36)",Email,iOS | 7.1
+42,235399080e00a71d61bf0c5d31d7cca47705d7ce0f606d105cdc52a4e1038e20,ESTÁCIO,Direito,Mensal,"(2017, 11, 6, 15, 30, 41)",São Paulo,São Paulo,"(2014, 4, 14, 23, 41, 20)",Email,Website
+43,cadefe7564c99863858ff13166c19a4e22cddf55a1d73426315da52b5277cc61,UFES,Economia Doméstica,Anual,"(2017, 11, 5, 18, 43, 58)",Espírito Santo,Vitória,"(2014, 4, 15, 16, 4, 57)",Email,
+44,bdb9d3146f092f69dae043b601333c85eff99ccf453e7307ec1d275bb8ea3d42,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 19, 14, 0, 55)",Rio de Janeiro,Belford Roxo,"(2014, 5, 4, 11, 10, 27)",Facebook,
+45,ad542d74277aadd37535f433fd7a2738574be0ab7c089f1b733a6a8304d70b1d,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 26, 22, 58, 7)",Pará,Belém,"(2014, 5, 7, 9, 41, 15)",Email,Website
+46,be72ace21cc977cb9c16bb4add931c5e320a04aa7c67b28203633b23982560a2,UNB,Engenharia Elétrica,Mensal,"(2017, 11, 22, 4, 4, 38)",Distrito Federal,Brasília,"(2014, 5, 10, 21, 24, 24)",Facebook,Website
+47,edde10af02084dd362bd18ff9e3547a153e530afe15514005b2d40869fe95ee3,ESTÁCIO,Administração,Mensal,"(2017, 11, 2, 12, 48, 0)",Rio de Janeiro,Niterói,"(2014, 5, 16, 12, 22, 50)",Email,Website
+48,cc550425070f2765f4b4d25369322537e718ff5491e5793fe50068b7ee540585,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 2, 14, 23, 8)",Rio de Janeiro,Rio de Janeiro,"(2014, 5, 21, 21, 40, 3)",Email,Website
+49,f16bdb3d680af148ca6d38e7ad94932ad6584828b4fbb3cb6f8c006157eff735,UEMG,Direito,Mensal,"(2017, 11, 22, 10, 20, 7)",Minas Gerais,Belo Horizonte,"(2014, 5, 31, 23, 0, 25)",Email,Website
+50,e2f1d06ece8aef6c8caeea96ef39bf96957161f69f2014946903b6088590547e,ESTÁCIO,Engenharia Elétrica,Mensal,"(2017, 11, 11, 12, 5, 34)",Rio de Janeiro,Rio de Janeiro,"(2014, 6, 2, 17, 41, 21)",Email,Website
+51,7a4a05f457323eab5bced0c29cc8f416939cae884e6ff1e1ed8ec72c0b985b78,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 20, 21, 45, 15)",Rio de Janeiro,Nova Friburgo,"(2014, 6, 4, 10, 24, 19)",Facebook,Website
+52,3a9d71390da527e5ad89583454c5dfc9f02ef55c1ed7ab5c08a28ac8dfdf3005,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 2, 20, 15, 55)",Rio de Janeiro,Rio de Janeiro,"(2014, 6, 8, 18, 27, 3)",Facebook,Website
+53,e5edd5010adcf68d5a68ef3153f00a3fcc663b9f0d9e2cc14b5549eafea80bfc,ESTÁCIO,Fisioterapia,Mensal,"(2017, 11, 14, 11, 34, 6)",Sergipe,Aracaju,"(2014, 6, 22, 17, 49, 57)",Email,Website
+54,c71b643fccd6291b4707ae6459e47f2064b9ebfe245487976c63692df3eef834,IFMT,Engenharia de materiais,Mensal,"(2017, 11, 13, 23, 53, 18)",Pará,Belém,"(2014, 6, 27, 8, 14, 42)",Email,Website
+55,4ca811cb2e6ba601507a41646851895e435d11919ae2da9b51b64ac7e79f8b86,FACIPLAC,Farmácia / Ciências Farmacêuticas,Mensal,"(2017, 11, 27, 11, 30, 54)",Distrito Federal,Brasília,"(2014, 6, 28, 19, 13, 8)",Email,
+56,2d60273c679db256111ad0af752636630e2b195d77ad53c947c15fbd046039c6,UFES,Engenharia Ambiental,Mensal,"(2017, 11, 28, 13, 18, 48)",Espírito Santo,Vitória,"(2014, 6, 30, 20, 24, 57)",Email,
+57,cdacfe8afbeab31a808dfb6870fd11aa9a540e10a9791fd4056308ddab397f99,ESTÁCIO,Engenharia de Petróleo e Gás,Mensal,"(2017, 11, 6, 21, 3, 25)",Rio de Janeiro,Rio de Janeiro,"(2014, 7, 1, 14, 8, 8)",Email,Website
+58,bee8a35d2f356af765102372701c202aeba11ecab3fb68571192ca391673b602,UFMS,Economia / Ciências Econômicas,Mensal,"(2017, 11, 6, 12, 9, 59)",Mato Grosso do Sul,Campo Grande,"(2014, 7, 2, 10, 1, 46)",Facebook,
+59,af5853046cd484d1295ab5d3bf9ca56ee341c49663823c51b6eb4eee7905329f,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 24, 19, 57, 34)",São Paulo,Mauá,"(2014, 7, 3, 11, 37, 0)",Facebook,
+60,8a48dd4bc68532ef504eb03c36616b3d4f387d560c15d5331987f142b8d5aa7b,UNCISAL,Enfermagem,Mensal,"(2017, 11, 21, 22, 0, 7)",,,"(2014, 7, 19, 9, 7, 50)",Facebook,Android | 4.1.2 | sdk 16
+61,77e9a10b720c9e90084392e663d877ff4f7311352c41baae0160ddb628d4af84,UERJ,Pedagogia,Mensal,"(2017, 11, 13, 13, 9, 2)",Rio de Janeiro,Rio de Janeiro,"(2014, 8, 5, 0, 20, 7)",Facebook,
+62,534186cfa1feeda196a259f6ed4b7fc5ac92c904eb59652e1d1373938918e611,FAMA,Enfermagem,Mensal,"(2017, 11, 5, 14, 12, 8)",Amapá,Macapá,"(2014, 8, 13, 13, 56, 36)",Facebook,Website
+63,9b725cd7520b8a9fb45ff8415a4c6b24b13ad15b20447c2600fec2fca3d49ce5,UNICEUB,Direito,Mensal,"(2017, 11, 6, 19, 56, 30)",Distrito Federal,Brasília,"(2014, 8, 14, 10, 22, 45)",Facebook,
+64,eb14d2506b086dcd802f6d9f0645e1f01d392fdd9ea856079c1c68c628ec21ea,UNIVEL,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 29, 15, 29, 5)",,,"(2014, 8, 14, 13, 53, 4)",Facebook,Website
+65,d70d842713afce978d61d91f712564228c21fe1dfcc832aaa466d3029601cedd,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 5, 18, 55, 12)",Pará,Belém,"(2014, 8, 14, 15, 7, 10)",Email,Android | 4.4.4 | sdk 19
+66,38d58a44e2f233e2f5da78656115707cffd81969ddb1d5dad34091991c253383,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 28, 20, 25, 35)",Espírito Santo,Serra,"(2014, 8, 18, 17, 12, 39)",Email,
+67,5740d0757fb943c034a6fb4380eff5524e35ada2b4c68c4ab56ba04b6f675bfb,ULBRA,Medicina,Mensal,"(2017, 11, 1, 20, 19, 39)",Rio de Janeiro,Rio de Janeiro,"(2014, 8, 19, 2, 19, 45)",Email,
+68,cc9a17cfd75667ceed514007a5956a91b7e17c008e55a9e1d7e75ca48ab8ca4e,UCAM,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 15, 20, 38, 4)",Rio de Janeiro,Nova Friburgo,"(2014, 8, 19, 9, 20, 47)",Facebook,
+69,b4f285453bdba01d1031064c140be6d5db36e63032436dbeb4b81885042c07d0,ESTÁCIO,Enfermagem,Mensal,"(2017, 11, 5, 23, 40, 27)",Minas Gerais,Ribeirão das Neves,"(2014, 8, 20, 7, 46, 23)",Facebook,Android | 4.0.3 | sdk 15
+70,292fb7c6f479e5b65304fdabea392b9c8722a2fc58a77f8b4b3d3d31d45c6cfa,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 9, 11, 25, 51)",Rio de Janeiro,Rio de Janeiro,"(2014, 8, 28, 13, 39, 51)",Email,Website
+71,ffba7fc0600d68cdd10c9f12681f77f77bb66e3c1a8cd15d51f9e88668311b06,ESTÁCIO EAD,Gestão de Recursos Humanos,Mensal,"(2017, 11, 13, 18, 26, 29)",Rio de Janeiro,Rio de Janeiro,"(2014, 9, 1, 20, 39, 51)",Email,Website
+72,073748d73387eb57cecca3987ea4c0ef20a3e4c8af38e31c257615086cec3a5f,ESTÁCIO,Psicologia,Mensal,"(2017, 11, 11, 10, 29, 28)",Rio de Janeiro,Duque de Caxias,"(2014, 9, 2, 12, 2, 6)",Email,Website
+73,3d337f02a5fdc114a68bf395fbc9bd8480ef8ba9fbb1a0719c76de1ea93b5d0c,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 19, 11, 28, 13)",Rio de Janeiro,Rio de Janeiro,"(2014, 9, 4, 20, 29, 24)",Email,
+74,c8b66537b382f6e454b66971ab010e2f7394661338a86dbaf873c0b7ca1c66ee,UMESP,Odontologia,Mensal,"(2017, 11, 27, 18, 13, 16)",São Paulo,São Bernardo do Campo,"(2014, 9, 4, 20, 39, 4)",Facebook,Website
+75,e1620d5df3cdc97c3c7e05da275253fe5a29ae1a029fc2b142a562e9d7d784ec,ESTÁCIO,Direito,Mensal,"(2017, 11, 13, 0, 53, 53)",Rio de Janeiro,Aperibe,"(2014, 9, 5, 18, 18, 24)",Email,Website
+76,d55a53db1b8193abf5ea7c876f0dd5613730c8852b495a26850e0a50fc762e03,UNA,Engenharia Mecânica,Mensal,"(2017, 11, 17, 14, 34, 29)",Minas Gerais,Lavras,"(2014, 9, 7, 10, 46, 31)",Facebook,
+77,8edf9757221184edc8e5530bd477c32aba84fda15817ba12aa9f5d8e4821fab8,UFRR,Medicina,Mensal,"(2017, 11, 20, 19, 56, 42)",Roraima,Boa Vista,"(2014, 9, 21, 21, 20, 57)",Facebook,Android | 2.3.6 | sdk 10
+78,0d16f6f9cdd4b9b75c24919ef4d9f7abb197e85d9de9ece12e98627ebdc6234e,ESTÁCIO,Direito,Mensal,"(2017, 11, 20, 11, 25, 45)",Pernambuco,Recife,"(2014, 9, 23, 15, 48, 4)",Facebook,Website
+79,a913a803bb1a5f61881c14ec0b0f2ff7d218a4e8ccdc52322edcc0843058e205,ESTÁCIO EAD,Farmácia / Ciências Farmacêuticas,Anual,"(2017, 11, 6, 21, 27, 15)",Rio de Janeiro,Petrópolis,"(2014, 9, 26, 17, 51, 10)",Facebook,Website
+80,481f4980424a21389c3f9be51870bcd8cdad54a936e18d497ddea506e65fb9f0,ESTÁCIO,Direito,Mensal,"(2017, 11, 16, 15, 25, 52)",Rio de Janeiro,Rio de Janeiro,"(2014, 9, 27, 10, 48, 17)",Email,
+81,4dd3b06e038c0639c7e49f990a5fa8b938586a6c13279e8edb659f75152c2989,ESTÁCIO,Direito,Mensal,"(2017, 11, 15, 17, 59, 40)",Ceará,Fortaleza,"(2014, 10, 1, 10, 35, 6)",Facebook,Android | 4.0.4 | sdk 15
+82,55b7767c41f9877ea3651bac84f282a4db506bb7ac5f882b8cf1564a71e3e962,ESTÁCIO,Direito,Mensal,"(2017, 11, 3, 22, 5, 40)",Rio de Janeiro,São Gonçalo,"(2014, 10, 6, 21, 58, 7)",Email,Android | 4.1.2 | sdk 16
+83,0d4efb982bdef1e95959b9967196c4bb206289a81b70d59fc6fe9138e2def639,ESTÁCIO,Engenharia Mecânica,Mensal,"(2017, 11, 14, 19, 35, 45)",Rio de Janeiro,Rio de Janeiro,"(2014, 10, 8, 14, 42, 12)",Email,Website
+84,87a492b926aeb2f26e67cdce6e7338e08fa8b0c9ac278897be155265b3d0eb93,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 2, 17, 43, 40)",Rio de Janeiro,Niterói,"(2014, 10, 9, 16, 27, 7)",Email,Website
+85,0360912b0753b43d2bf3abd72179361ecdd494b1b474aabd6389ee7f58f68858,ESTÁCIO,Nutrição,Mensal,"(2017, 11, 18, 17, 23, 9)",Rio de Janeiro,Itatiaia,"(2014, 10, 12, 15, 29, 2)",Email,Website
+86,2e92c9031022db845d9a9911bf41082e7cb920fc1aa7b5d9eed6a19de048a46e,ESTÁCIO EAD,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 16, 9, 18, 27)",Rio de Janeiro,Rio de Janeiro,"(2014, 10, 13, 15, 39, 34)",Email,Website
+87,b95e792329d718b2648233fc51e422876a98ca08a7ae7463e9dc35607b414565,UFMA,Ciências Naturais,Mensal,"(2017, 11, 8, 18, 27, 11)",Maranhão,Imperatriz,"(2014, 10, 18, 22, 47, 42)",Email,Website
+88,9379ba4a99891d022643aa0e7a60494834f5fe15f65918b168c39f27bc647430,UERJ,Engenharia Mecânica,Mensal,"(2017, 11, 20, 22, 19, 44)",Rio de Janeiro,Rio de Janeiro,"(2014, 10, 19, 17, 20, 50)",Email,Website
+89,1023d67b551c34e7ae79a3d85dfb7547cdce4f81df6e42640a1580bf413c1dd9,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 14, 21, 0, 49)",Rio de Janeiro,Rio de Janeiro,"(2014, 10, 23, 15, 59, 34)",Facebook,
+90,6a207df5bcca6a1276f70415528872e171d4a0834f2d506204167f447d212d39,ESTÁCIO,Administração,Mensal,"(2017, 11, 12, 17, 45, 7)",Rio de Janeiro,Rio de Janeiro,"(2014, 11, 12, 14, 0, 7)",Facebook,
+91,e8578c577e19bc8d583a9c589ad609bc9a2da73d0e98b786615125bdcd84de35,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 5, 11, 48, 41)",São Paulo,São Paulo,"(2014, 11, 17, 21, 15, 34)",Email,Website
+92,8f322dde197474c07a3ce65839e6a34d380ba3709f3ef44320d6588b2d3ef007,ESTÁCIO,Administração,Mensal,"(2017, 11, 7, 0, 24, 43)",Rio de Janeiro,Rio de Janeiro,"(2014, 11, 21, 12, 52, 50)",Facebook,Website
+93,78818b9de39f73b4712314717a96db81b59b77d526d99b8c7a3eb39d5a9c822f,ESTÁCIO EAD,Direito,Mensal,"(2017, 11, 15, 17, 21, 50)",Rio de Janeiro,Rio de Janeiro,"(2014, 11, 24, 15, 37, 3)",Email,Website
+94,064ea8209a3586f72787edd9c59409b02b8f6f3c85281e4368a0e7240241477b,FAL,Educação Física,Mensal,"(2017, 11, 21, 2, 17, 23)",,,"(2014, 11, 25, 11, 35, 36)",Email,Android | 4.1.2 | sdk 16
+95,c16c08585108a02b40233c199ae3a96d5bb9cef7379f8fa93cc16c6eb4ea6829,UNIP,Fisioterapia,Mensal,"(2017, 11, 22, 11, 45, 46)",São Paulo,São Paulo,"(2014, 11, 25, 19, 19, 30)",Email,
+96,9438ddeb5e0c2040f9a7330ae20869ebb85b37e37e448040144b821df0fbaf45,ESTÁCIO,Engenharia Mecânica,Mensal,"(2017, 11, 1, 15, 2, 43)",Rio de Janeiro,Rio de Janeiro,"(2014, 11, 26, 19, 44, 6)",Email,
+97,bafe414a77872ad3a04e7d9f2c7e75ddeb2bcd9d8e69ba7bf7c40cf2d989aad2,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 11, 14, 11, 25)",Pernambuco,Caruaru,"(2014, 11, 26, 20, 16, 23)",Email,iOS | 8.1.1
+98,abbc2bf0d0fc8820c1d68824c585cc6c58e172cc28c6aa68e616dc39e6143735,ESTÁCIO,Direito,Mensal,"(2017, 11, 30, 23, 13, 18)",Rio de Janeiro,Rio de Janeiro,"(2014, 11, 28, 9, 53, 28)",Email,iOS | 7.1.2
+99,9a70528534edd4dc7972dae1f9fcbcee9ebf6b236d265d43ea94e516e3e317a0,ESTÁCIO,Administração,Mensal,"(2017, 11, 2, 21, 3, 14)",Rio de Janeiro,Rio de Janeiro,"(2014, 11, 28, 13, 57, 51)",Email,Website
+100,1374456fffa9f137379a603403048e1432442ce1c5f501801ff161ca0b644e09,ESTÁCIO,Fisioterapia,Mensal,"(2017, 11, 13, 13, 52, 12)",Rio de Janeiro,Rio de Janeiro,"(2014, 11, 30, 17, 43, 22)",Email,Android | 4.2.2 | sdk 17
+101,ee564df875cdb746fcbbb1af3068545f87e1ed61b279d9d1cb154af855e2605f,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 20, 23, 13, 18)",Rio de Janeiro,Marica,"(2014, 12, 4, 7, 52, 26)",Email,Website
+102,5d5784bc3f52be1f3c61704ba38ea9f3d9bc685e7f9e1357621fe7630810f0b5,ESTÁCIO,Direito,Mensal,"(2017, 11, 6, 22, 6, 18)",Bahia,Salvador,"(2014, 12, 4, 18, 34, 23)",Email,Website
+103,14558ce3e110b39204289055e06f7498f46f5cd575f8832da62e3e1c64d164b9,ESTÁCIO,Redes de Computadores,Mensal,"(2017, 11, 27, 11, 33, 49)",Rio de Janeiro,Rio de Janeiro,"(2014, 12, 15, 17, 14, 54)",Email,Website
+104,6029d74623509e28eff7f1c7deff2527b024ba1e3068537a3d1c3859f1917bc8,IESAM,Engenharia Mecânica,Mensal,"(2017, 11, 24, 21, 56, 49)",Pará,Tucuruí,"(2015, 2, 8, 18, 1, 14)",Facebook,Website
+105,ddbad3785f918dd04f898b5b7c6c40c5a789771227a33d5d31449072207f03d4,UNIP,Serviço Social,Mensal,"(2017, 11, 16, 12, 47, 11)",São Paulo,São Paulo,"(2015, 2, 11, 9, 9, 26)",Email,Website
+106,341aae416a7b1f83d7f0652359a7050d023b093ecb3e710fa4c1b9faa840c161,ESTÁCIO,Administração,Mensal,"(2017, 11, 1, 22, 29, 31)",Rio de Janeiro,Rio de Janeiro,"(2015, 2, 25, 20, 42, 19)",Facebook,iOS | 8.1.3
+107,948d38a5c00f6aa402e1a831b565bf69b389eebfbd34c3fc3aeec3fba4d3ae20,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 6, 20, 32, 46)",Santa Catarina,Florianópolis,"(2015, 3, 8, 15, 20, 16)",Facebook,Mobile
+108,6e356873c800cc0c6be7a9a41a73c906a474961e985fec6472738e86bc513b7a,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 7, 13, 40, 24)",Ceará,Sobral,"(2015, 3, 9, 13, 43, 4)",Email,Website
+109,ae3aa7cb92d9fcecc7c62c5279645f27440add92b99b2d140f536b6de4645a33,RADIAL,Pedagogia,Mensal,"(2017, 11, 21, 23, 25, 59)",,,"(2015, 3, 22, 21, 0, 39)",Email,Website
+110,405a5cb323bac1b2da2494c7f8c19acbc002ecb848d6e7b2acecd2801eb35670,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 9, 17, 0, 41)",Rio de Janeiro,São Gonçalo,"(2015, 3, 24, 12, 52, 44)",Email,Android | 2.3.6 | sdk 10
+111,532f5db4d610a30aabcfda1c371eacb260ed137982838812116836b0966a70a7,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 5, 0, 21, 25)",Santa Catarina,Chapecó,"(2015, 3, 24, 15, 59, 2)",Email,
+112,b161042a9d161b2a27482ef7b2d7bba1a6bc0eca9eb5cb0b824f7295874a2019,UTFPR,Engenharia Civil,Mensal,"(2017, 11, 19, 23, 58, 8)",Paraná,Toledo,"(2015, 3, 25, 2, 7, 4)",Facebook,
+113,0a709c9202136ac6333cd342352c09c5792af5d9a7b21d56f67656d0a66ed58d,ESTÁCIO,Administração,Mensal,"(2017, 11, 5, 14, 10, 27)",Rio de Janeiro,Belford Roxo,"(2015, 3, 29, 23, 6, 31)",Facebook,Website
+114,fe0b82c8efeb9524387d99620ef9de35972d466de07d2dde904692e5c7bbfc7a,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 13, 16, 51, 51)",Minas Gerais,Juiz de Fora,"(2015, 3, 30, 9, 36, 14)",Email,Android | 4.1.2 | sdk 16
+115,3d77067efeeede0f923fab770b4a8539d84881b5553f5f2ae19d550fbbfb45f4,ESTÁCIO,Psicologia,Mensal,"(2017, 11, 3, 18, 8, 24)",Rio de Janeiro,Rio de Janeiro,"(2015, 4, 4, 12, 54, 59)",Facebook,
+116,7092d4cd4a2798c580881eb30f9746b7ad2c1f8dd22365240086b2e326ba294d,ESTÁCIO,Farmácia / Ciências Farmacêuticas,Mensal,"(2017, 11, 3, 18, 33, 30)",Rio de Janeiro,Rio de Janeiro,"(2015, 4, 4, 23, 49, 31)",Facebook,Website
+117,086a454a66085e8ecfd4081312f39503b21b396ac867a78b8dfc6d0f1e36ba29,ESTÁCIO,Direito,Mensal,"(2017, 11, 9, 23, 26, 36)",Rio de Janeiro,Nova Iguacu,"(2015, 4, 6, 0, 40, 48)",Email,Website
+118,b83981e7ab7615fa70e6006dfebc3ef5e2ab8661b27afb66b07492306adbabbf,ESTÁCIO,Engenharia Elétrica,Mensal,"(2017, 11, 16, 0, 42, 15)",Rio de Janeiro,Rio de Janeiro,"(2015, 4, 6, 18, 22, 4)",Facebook,iOS | 8.1.2
+119,31cb68143b143dc12925b17306f1661570d20c6bbda34d001315a468c2d0db41,UFBA,Biblioteconomia,Mensal,"(2017, 11, 11, 14, 31, 43)",Bahia,Itamaraju,"(2015, 4, 8, 9, 45, 43)",Facebook,Website
+120,696644f0eb2cabddd11d1ec07044dc367355498a82254830ce4e9fc7b057bf98,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 13, 17, 16, 28)",Rio de Janeiro,Nova Friburgo,"(2015, 4, 9, 23, 37, 17)",Facebook,Android | 4.4.4 | sdk 19
+121,deaa4c513ac66d7747fbe76b864d07df6a856d4361757a175646907cce56f731,UNICAMP,Engenharia de Alimentos,Mensal,"(2017, 11, 11, 23, 33, 49)",São Paulo,Rio Claro,"(2015, 4, 11, 20, 36, 8)",Email,Website
+122,b140ee48061a8a95b5c900cd13d5b5208453881e241a062e048c6d40f18dd25f,ESTÁCIO,Fisioterapia,Anual,"(2017, 11, 15, 17, 3, 17)",Rio de Janeiro,Rio de Janeiro,"(2015, 4, 15, 15, 59, 16)",Email,Android | 4.2.2 | sdk 17
+123,4b0b3803980c7a66ff67df61df4042d317fa7f79f69fbb395f9b4ef224d7181e,ESTÁCIO,Engenharia Elétrica,Mensal,"(2017, 11, 5, 2, 3, 37)",Rio de Janeiro,Rio de Janeiro,"(2015, 4, 15, 23, 15, 57)",Facebook,Website
+124,caeb75ec6af11bfee28e5021e469df6dddd2149dd75450dc5ec07b44950246bc,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 12, 0, 29, 9)",Rio de Janeiro,Nova Friburgo,"(2015, 4, 16, 9, 17, 35)",Email,Website
+125,7150586fea3878b0ad4cc111ac49692da4eeaf2ab2a75d936afc86ace94954d0,UNITINS,Direito,Mensal,"(2017, 11, 15, 12, 36, 58)",Tocantins,Dianopolis,"(2015, 4, 17, 18, 38, 10)",Email,Website
+126,1cc7411d26068263220b744a691148d1fa8eb1a6919d0dff7361fed6429d1410,ESTÁCIO,Psicologia,Anual,"(2017, 11, 29, 20, 33, 50)",Rio de Janeiro,Niterói,"(2015, 4, 19, 18, 15, 14)",Email,Website
+127,bcaaeda35a37617470ee5bc80254b3da1ee940a861db2232c86a86d4c581bd5d,ESTÁCIO,Enfermagem,Mensal,"(2017, 11, 12, 11, 18, 5)",Rio de Janeiro,Nova Friburgo,"(2015, 4, 21, 15, 31, 43)",Facebook,Website
+128,b7db90f201ddee3d56dc3fdd078d61d06d36d6c0b85ed34c672e1ae35aed4474,UNOPAR,Gestão Logística,Mensal,"(2017, 11, 2, 22, 28, 28)",Rio de Janeiro,Rio de Janeiro,"(2015, 4, 23, 14, 35, 44)",Facebook,Website
+129,f26630aa0d745f2ae6698eb1b3d78e81b0b4137dab7f7300735549c1fef0c520,ESTÁCIO,Direito,Mensal,"(2017, 11, 7, 13, 2, 58)",Maranhão,São Luís,"(2015, 4, 26, 19, 10, 58)",Email,Website
+130,557d6f5c40bcb9de0679429312b9b430f3cc974e762baa8b8e821ea1aa30c915,PUC-CAMPINAS,Direito,Mensal,"(2017, 11, 24, 2, 19, 11)",São Paulo,Amparo,"(2015, 5, 3, 17, 54, 13)",Facebook,Website
+131,07318613a3690a6773082f738576ef42f525f987ba501a4e024bb6f6338b23ab,IPA,Administração,Mensal,"(2017, 11, 25, 20, 5, 22)",,,"(2015, 5, 6, 11, 23, 5)",Facebook,Website
+132,3dde3653b370ab98fdee3768f1770b25111220c72013fc1f61f14a12549ef469,ESTÁCIO,Gestão de Processos Gerenciais,Mensal,"(2017, 11, 8, 12, 48, 25)",Rio de Janeiro,Rio de Janeiro,"(2015, 5, 6, 14, 40, 16)",Email,
+133,12b8a5d416187f9e591bd441351ee2bc6a1a2bcec9b00817aa3ea498637ed7dd,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 2, 18, 17, 32)",Rio de Janeiro,Rio de Janeiro,"(2015, 5, 6, 20, 54, 23)",Facebook,Website
+134,8051f959e067ca0b7d8b57f996abc8b9b4e5bf8e5c1161a1ab341833b67fb44d,UNIEVANGÉLICA,Administração Internacional,Mensal,"(2017, 11, 18, 17, 14, 5)",Goiás,Goiânia,"(2015, 5, 6, 23, 40, 31)",Facebook,Website
+135,c1a3515d0855935976109ba860114a10e60e15a3ee12fad95644c46b56fd0c6b,UNICARIOCA,Ciência da Computação,Mensal,"(2017, 11, 2, 23, 16, 45)",Rio de Janeiro,Rio de Janeiro,"(2015, 5, 9, 12, 11, 11)",Email,Website
+136,c3281aa0ef7ee7328f37d785f9f6a09a7c58328b92d43418229f8f1f72041b69,UNIP,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 10, 12, 56, 44)",São Paulo,Itapecerica da Serra,"(2015, 5, 10, 21, 35, 19)",Facebook,Website
+137,b60acec062b035ef76912f38dfcab0c63b24af1e85f33df647bc0b456ce843ef,UFRRJ,Veterinária / Medicina Veterinária,Mensal,"(2017, 11, 29, 15, 43, 14)",Rio de Janeiro,Duque de Caxias,"(2015, 5, 11, 16, 10, 58)",Facebook,Website
+138,cf854745c9d1a12ddc0ed25a423fea5a2d023747a20501f2e5f36bf69b5635bf,USP-SP,Engenharia Elétrica,Mensal,"(2017, 11, 25, 0, 37, 48)",São Paulo,São Carlos,"(2015, 5, 24, 20, 37, 45)",Facebook,
+139,c2a8e2441ab19b6751d8871c8a9a24153e8197af18c8e3555c0efd8941a72b2c,ESTÁCIO,Engenharia Mecânica,Mensal,"(2017, 11, 4, 22, 55, 27)",Rio de Janeiro,Rio de Janeiro,"(2015, 5, 26, 14, 30, 36)",Email,Website
+140,ce34eeefdf7badb3eca46a881e0204a7e1926dfa9a250cf2b0cffd0137e8b5e5,UNICID,Análise e Desenvolvimento de Sistemas,Anual,"(2017, 11, 19, 13, 26, 38)",São Paulo,São Paulo,"(2015, 5, 28, 0, 53, 18)",Email,Website
+141,10c90186ec4ac7d6228917e38ff8beb0fd14c694fba8c23e099eb88d53213f42,UFSC,Engenharia de Alimentos,Mensal,"(2017, 11, 9, 20, 19, 25)",Santa Catarina,Florianópolis,"(2015, 5, 31, 21, 32, 33)",Facebook,Website
+142,60e0e8b070342c1f7fc0a58cf6156216c62c8f039a008083ef6e4f7fb3d1be92,UAM,Engenharia de Produção,Mensal,"(2017, 11, 5, 1, 9, 45)",São Paulo,Guarulhos,"(2015, 6, 3, 8, 6, 5)",Email,PDJobs
+143,3d5bfa045c74e61387f0462405c9b13656baa50b4fe049385b35b0c5c6253510,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 19, 12, 48, 28)",Bahia,Salvador,"(2015, 6, 4, 18, 42, 32)",Email,Website
+144,806c5caf71fefedc666ed612ffb15aee638678884ed588b7bacdd766c80580c5,ESTÁCIO EAD,Administração,Anual,"(2017, 11, 12, 21, 49, 28)",Rio de Janeiro,Petrópolis,"(2015, 6, 9, 21, 52, 11)",Email,
+145,f68937b75647b3de64996f85634a7640355b6d9f5ceb785ea361729f053a0746,ESTÁCIO,Sistemas de Informação / Informática,Mensal,"(2017, 11, 12, 15, 42, 36)",Goiás,Goiânia,"(2015, 6, 10, 9, 10, 41)",Email,Website
+146,c30d1a5ce3cf3519450db7f6638520e7567e4d48050a1d5561785f9c9ce38f32,UNISEB,Direito,Mensal,"(2017, 11, 17, 14, 30, 26)",São Paulo,Ribeirão Preto,"(2015, 6, 10, 12, 39, 40)",Facebook,
+147,17314aff68f96ce9d4be8ffb557c9b84f4f7ab567d47c5b95bc3d59f1eee612f,UPF,Administração,Mensal,"(2017, 11, 20, 17, 9, 32)",Rio Grande do Sul,Lavras Do Sul,"(2015, 6, 15, 16, 17, 15)",Email,
+148,f3acb4fb488233d20e364a7e9931684fba14544c45b3cae79affccb9a127a918,ESTÁCIO,Engenharia Elétrica,Mensal,"(2017, 11, 4, 17, 50, 18)",Rio de Janeiro,Rio de Janeiro,"(2015, 6, 17, 1, 28, 28)",Email,Website
+149,425e48597a3c7e98e6bd4fa2b392bf843f3851b79f5bc7f8746d297839cef395,ESTÁCIO,Administração,Mensal,"(2017, 11, 3, 22, 38, 47)",Rio de Janeiro,Mesquita,"(2015, 6, 18, 10, 35, 55)",Email,Website
+150,11a0a2edc55931ee916d0c0923db4c0cdcbb96d68ff7494ce34c72dd3536561b,UNINTER,Administração,Mensal,"(2017, 11, 22, 18, 16, 58)",Paraná,Matinhos,"(2015, 6, 18, 15, 53, 10)",Facebook,
+151,6a8a957654651a7be28762165c36ec792b93e4ab1f0ee01b5fa92aef9399fec4,ESTÁCIO,Pedagogia,Mensal,"(2017, 11, 3, 20, 33, 35)",Rio de Janeiro,São Gonçalo,"(2015, 6, 18, 15, 55, 30)",Facebook,
+152,4a4116718579825433f48bdcd288724903a86ac6691215109ddf07ee923875ab,ESTÁCIO EAD,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 6, 16, 24, 16)",Rio de Janeiro,Rio de Janeiro,"(2015, 6, 19, 12, 42, 28)",Facebook,Website
+153,ffd068287d7d5bf6f478f292db483199812676429ef3622a495581158ab71103,ESTÁCIO,Engenharia Mecânica,Mensal,"(2017, 11, 7, 1, 3, 50)",Rio de Janeiro,Petrópolis,"(2015, 6, 20, 13, 57, 45)",Email,
+154,eaffa3ecf2c2a59ff08da5a8d51d6526d18ef5c814847d28fcac66c073abaab9,ESTÁCIO,Direito,Anual,"(2017, 11, 18, 21, 11, 34)",Ceará,Maracanau,"(2015, 6, 22, 20, 46, 40)",Facebook,iOS | 8.1.3
+155,64605d2ecf4a8f285fae0fd9f54172960d0685e65103165652d6d413ee6f499d,ESTÁCIO,Direito,Mensal,"(2017, 11, 22, 0, 21, 12)",Rio de Janeiro,Rio de Janeiro,"(2015, 6, 22, 23, 59, 46)",Facebook,
+156,64e4ca169e878c345cb734a0210320a4c5fc868371e029e909c08f0d82d70405,ESTÁCIO,Administração,Mensal,"(2017, 11, 5, 21, 47, 41)",Rio de Janeiro,Niterói,"(2015, 6, 28, 18, 43, 22)",Email,Website
+157,360ac20dcd63d543cf14a5c90d78a4dd5e84a302b625d2805895405294a4c420,ESTÁCIO EAD,Sistemas de Informação / Informática,Mensal,"(2017, 11, 21, 14, 31, 31)",Rio de Janeiro,Rio de Janeiro,"(2015, 6, 29, 13, 25, 45)",Email,Website
+158,a94928097bc51ed7291d0f55bc9c5823bbe8b80915e0c58e2160bae7285278d0,ESTÁCIO,Sistemas de Informação / Informática,Mensal,"(2017, 11, 6, 19, 48, 20)",Rio de Janeiro,Rio de Janeiro,"(2015, 6, 29, 16, 51, 56)",Email,Website
+159,e231f678d0872c028a4685cb08f2303c2ff3c246323c7eaed459f11bd7970032,ESTÁCIO,Direito,Mensal,"(2017, 11, 16, 16, 23, 14)",Rio de Janeiro,Rio de Janeiro,"(2015, 7, 5, 18, 39, 56)",Email,Website
+160,019c44e87faad9ef1b36a2a847dc392c7dc48d5bc5db0382ae636c3d4bac7f3b,UNICEUMA,Engenharia Civil,Anual,"(2017, 11, 15, 20, 26, 39)",Maranhão,São Luís,"(2015, 8, 5, 18, 23, 14)",Email,Website
+161,b12e5d3a6bff3edbef19f864b0bf6fddc2de1f964bd7cc68b27ac937e8e59697,ESTÁCIO,Engenharia Eletrônica,Mensal,"(2017, 11, 6, 23, 52, 16)",São Paulo,Itaquaquecetuba,"(2015, 8, 9, 22, 13, 18)",Email,Android | 4.1.2 | sdk 16
+162,b1567a7983167c7e1281e23cdaf82ecc7882c51bd3cba87b4db0c5ae4714682c,UniAGES,Construção Civil,Mensal,"(2017, 11, 15, 10, 40, 16)",Bahia,Euclides Da Cunha,"(2015, 8, 11, 21, 54, 29)",Facebook,Website
+163,2b084ab4c16977823d884f11086a9362127325498c6f8fd1aabe2ea45fca7434,ESTÁCIO,Enfermagem,Mensal,"(2017, 11, 14, 21, 59, 3)",Ceará,Fortaleza,"(2015, 8, 13, 16, 46, 51)",Email,Website
+164,783c1b4c95832624d417f23141f59cb2bb0992f27efad4eb5f198a44a9a5777a,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 2, 14, 10, 59)",Rio de Janeiro,Niterói,"(2015, 8, 16, 14, 18, 42)",Email,
+165,0cdc0513f659ec5e2ee5dbc2e6d1417620952e9e58d641b72d531d0d2fe2147c,UNOPAR,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 22, 21, 33, 56)",Amapá,Macapá,"(2015, 8, 16, 19, 26, 8)",Facebook,Website
+166,d46caa9596ffc9b626b5b352ab2abcc973547468739ee261424077b08af34dee,UNIBRASIL,Engenharia de Produção,Mensal,"(2017, 11, 8, 17, 33, 27)",,,"(2015, 8, 19, 16, 36, 47)",Email,Website
+167,0e520552d0e03cf34d5b79ef412e9fe9666fca560e61b57e99aa9a8f87580596,ESTÁCIO,Nutrição,Mensal,"(2017, 11, 28, 22, 46, 47)",Rio de Janeiro,Rio de Janeiro,"(2015, 8, 19, 19, 43, 53)",Facebook,iOS | 8.4
+168,95ee3b0c83b0d4214785b886889e8da5d6d7e80505aac268a65e1afffafc262b,UFS,Nutrição,Mensal,"(2017, 11, 13, 18, 59, 42)",Sergipe,Aracaju,"(2015, 8, 20, 14, 27, 27)",Email,Website
+169,c4a858bc0fb9f838dbe372abfc5143babc4606c4d8474c862a752798af49eb6e,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 9, 16, 52, 40)",Bahia,Salvador,"(2015, 8, 24, 1, 43, 38)",Email,Android | 5.1 | sdk 22
+170,5f1122241736922314834759c0775cc2d85594b0f8985466aa2d673e7283b326,UVV,Engenharia Civil,Mensal,"(2017, 11, 13, 16, 49, 22)",Espírito Santo,Vitória,"(2015, 8, 28, 12, 7, 15)",Email,Website
+171,3e5fe4ffe1e5fd6a97a773b47436eacf1edbc694e3d2b2c3b02844e0670bdbfc,ESTÁCIO EAD,Matemática,Mensal,"(2017, 11, 2, 17, 22, 20)",Rio de Janeiro,Rio de Janeiro,"(2015, 8, 30, 10, 8, 24)",Email,Android | 5.0.2 | sdk 21
+172,ed271c9cc611e433f4d2f733fcb612b3b27047587f43b852ecda0d1f512dab6f,UCSAL,Sistemas de Informação / Informática,Mensal,"(2017, 11, 14, 12, 32, 42)",Bahia,Salvador,"(2015, 9, 2, 12, 41, 40)",Email,Website
+173,7b6d485af35d53d6a09248a0be36d2676e71454fdbe2936abaf9a0fc5239033d,UTFPR,Engenharia Mecânica,Mensal,"(2017, 11, 9, 5, 49, 6)",Paraná,Curitiba,"(2015, 9, 2, 21, 20, 0)",Facebook,
+174,01061ccde6d2a9cbbfcb58a62130929c39716b634f9fa076b091facc3adaa711,ESTÁCIO,Redes de Computadores,Mensal,"(2017, 11, 4, 2, 23, 52)",Minas Gerais,Juiz de Fora,"(2015, 9, 3, 12, 58, 8)",Email,Website
+175,5363dac99838f4f07cfbd02ace505cebc82bafb39c5641c9236ee1beaf16215e,UNIABC,Administração Internacional,Mensal,"(2017, 11, 25, 0, 48, 15)",,,"(2015, 9, 11, 20, 9, 42)",Facebook,Website
+176,15792afef4b3cb0c9735495907f00650d066ae9df56719b56d458436b9e2e508,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 10, 22, 48, 48)",Rio de Janeiro,Rio de Janeiro,"(2015, 9, 13, 15, 31, 3)",Facebook,Website
+177,4a8be3a3545c4b21e73a919138d67d3d016a822afb44b71596e8c52a626e5dfb,ESTÁCIO,Gestão Logística,Mensal,"(2017, 11, 6, 23, 41, 42)",Rio de Janeiro,Niterói,"(2015, 9, 14, 22, 42, 44)",Email,Website
+178,fdb9a82d053c862d3db613c19048527ff41af9bccf9e63f4c7bcad933ca6cd9c,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 5, 20, 52, 12)",Amazonas,Manaus,"(2015, 9, 17, 12, 1, 16)",Email,Website
+179,abd51f85629a3a0cb2dfd6ead969bfa1ddd37f0c5b1262c5aa5ff2530ea7c59d,SENAI LUZERNA,Engenharia Mecânica,Mensal,"(2017, 11, 26, 22, 57, 8)",Santa Catarina,Treze Tilias,"(2015, 9, 19, 16, 51, 33)",Email,Website
+180,25dee70c7607633120b902b6eb54efeaea2558fd3c47568536bccadb6c1d4ee1,UNINTER,Administração,Mensal,"(2017, 11, 30, 22, 35, 13)",Rio Grande do Sul,Santa Maria,"(2015, 9, 21, 8, 42, 30)",Email,Website
+181,331bb78f63b96a902dd42fcbd5d7a3c5c743458b4f619a51208bbb75dcf6bd00,UNIFOR,Direito,Mensal,"(2017, 11, 20, 20, 23, 38)",Ceará,Pentecoste,"(2015, 9, 21, 13, 22, 21)",Facebook,Website
+182,106cebb3b4db68918a841899b9be4d31fd44a31b956e4b0debee4565f749a01c,UCAM,Direito,Mensal,"(2017, 11, 5, 23, 52, 31)",Rio de Janeiro,Rio de Janeiro,"(2015, 9, 23, 23, 9, 8)",Facebook,Website
+183,ccd91cfa0d56b55095739252cdfd474d4f1e4d92f11cc518d0d70e6dc3925ec5,ESTÁCIO,Administração,Mensal,"(2017, 11, 11, 16, 25, 12)",Rio de Janeiro,Rio de Janeiro,"(2015, 9, 28, 21, 34, 35)",Email,Website
+184,0e858858a1cffdb1c4b1a7f7b70931a0886f440f158f31b390d97abaf8d582c1,ESTÁCIO EAD,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 14, 21, 49, 44)",Rio de Janeiro,Rio de Janeiro,"(2015, 9, 30, 19, 21, 22)",Facebook,Website
+185,b277709a8d8dc53a3a7906bc372beaf562a12d28fc330dddab90fea89f23f839,ESTÁCIO EAD,Sistemas de Informação / Informática,Mensal,"(2017, 11, 2, 13, 26, 34)",Santa Catarina,São José,"(2015, 9, 30, 20, 30, 36)",Email,Website
+186,9696835e4f47f7928526430a93665d52d1a1433d82e77d633ef1c2d9e27c6b47,ESTÁCIO,Engenharia de Telecomunicações,Mensal,"(2017, 11, 7, 11, 22, 40)",Rio de Janeiro,Rio de Janeiro,"(2015, 10, 1, 20, 47, 23)",Email,Android | 5.1 | sdk 22
+187,4f9a5efe2416db146dfe3abe5ef0ec08f3cf73722836e14239f31ddb8c67be23,ESTÁCIO EAD,Engenharia Civil,Mensal,"(2017, 11, 5, 20, 0, 17)",Espírito Santo,Itapemirim,"(2015, 10, 2, 14, 20, 40)",Email,Website
+188,ed1b4a88d25a65e4e78675effe2309ac4944fb0346887a9c7c1b2af25aebd27d,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 9, 2, 30, 9)",Rio de Janeiro,Sao Joao De Meriti,"(2015, 10, 5, 10, 46, 32)",Email,Website
+189,9ea487f15619d12f3480472251e9927523ca8506625b0ccae73b00f2a49fd8ae,ESTÁCIO,Administração,Mensal,"(2017, 11, 17, 11, 3, 13)",Ceará,Fortaleza,"(2015, 10, 6, 13, 28, 31)",Email,Website
+190,fca0faadb6ef1acd83a1b493a6dbe86c92a11ee4fcc202010af27b57ce1bea33,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 2, 21, 24, 35)",Ceará,Fortaleza,"(2015, 10, 9, 17, 21, 23)",Email,Website
+191,a181a0b270daa5761d6b7de57f468673e49cc1e9587986b8e8e38b315ab13715,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 14, 22, 35, 10)",Rio de Janeiro,Rio de Janeiro,"(2015, 10, 11, 15, 21, 5)",Facebook,Website
+192,ec937f280e4dda57406e9dae36d7d07c385e2cc2762bc4da7ed251db6831a095,ESTÁCIO,Gestão da Informação,Mensal,"(2017, 11, 13, 21, 37, 22)",Paraíba,João Pessoa,"(2015, 10, 12, 9, 37, 21)",Email,
+193,4851da5d5e3a18bc48e591acda2d749ea816fb8f8f787d5579dd82a97a9de12e,ESTÁCIO,Direito,Mensal,"(2017, 11, 6, 1, 44, 20)",Piauí,Teresina,"(2015, 10, 14, 13, 38, 41)",Facebook,
+194,9494cabc534011ae71c0cb1ce881fde70f895afc3c0689279693ae15f868959a,ESTÁCIO,Administração,Mensal,"(2017, 11, 2, 22, 24, 49)",Rio de Janeiro,Rio de Janeiro,"(2015, 10, 17, 16, 17, 12)",Email,
+195,c7b8acbd85094b3ce656c2aefe2ed7e962cc5ec50d4c2e7cbf391331928fc24c,UNINTER,Pedagogia,Mensal,"(2017, 11, 24, 2, 54, 30)",São Paulo,São Paulo,"(2015, 10, 19, 12, 45, 32)",Email,Website
+196,a5c708c04640a987de6bb0921ee7d4e971a5d15e526cba9cabbefb82c43491ec,ESTÁCIO EAD,Engenharia de Produção,Mensal,"(2017, 11, 20, 21, 57, 28)",Espírito Santo,Cariacica,"(2015, 10, 27, 19, 24, 15)",Facebook,
+197,e8423b6985bdc050414fda342fe1f604416271fe9e8699a79dee2637fc46d290,UEPG,Comunicação Social,Anual,"(2017, 11, 15, 21, 42, 9)",Paraná,Curitiba,"(2015, 11, 3, 14, 56, 42)",Email,Website
+198,6bf5afc7dbaf2e9550e6c292a56bab72c50cf34830caf058c4a9037db270fe4e,UNIDERP - ANHANGUERA,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 6, 16, 8, 29)",Rio de Janeiro,Rio das Ostras,"(2015, 11, 5, 15, 19, 24)",Facebook,Website
+199,74570a7da39b1605d8c804166eecba175397aa706b1fcee631626f1386d8ee61,UNIP,Engenharia Mecânica,Mensal,"(2017, 11, 23, 13, 31, 37)",São Paulo,São Paulo,"(2015, 11, 9, 11, 58, 26)",Facebook,Website
+200,e4b2f20b4afe40f4324ae5afe28e4e29a09e6d38b3d5e6e08f00c4efee99a880,UNINTER,Engenharia de Produção,Anual,"(2017, 11, 27, 21, 0, 23)",Rio Grande do Sul,Rio Pardo,"(2015, 11, 9, 18, 50, 41)",Email,Website
+201,0a0ea31084b30c0e3cbb0e89199f17dafed9a8fbded46997174d5ce0b42a913f,ESTÁCIO EAD,Gestão da Informação,Mensal,"(2017, 11, 14, 0, 33, 22)",Rio de Janeiro,Niterói,"(2015, 11, 10, 0, 44, 23)",Facebook,Mobile
+202,4b90a2777ef3f330e5165c99a1ccba6a942f9b7ceba98496b99f7fb68277d7bb,ESTÁCIO,Psicologia,Mensal,"(2017, 11, 20, 23, 0, 14)",Rio de Janeiro,Rio de Janeiro,"(2015, 11, 11, 16, 7, 14)",Email,Website
+203,b89ab954f09d94a5b21c1f7b6caa8b02c1336a008bbcd48be3f3af1bc769f0b4,ESTÁCIO,Gestão de Recursos Humanos,Mensal,"(2017, 11, 3, 19, 56, 40)",Rio de Janeiro,Rio de Janeiro,"(2015, 11, 13, 13, 33, 23)",Facebook,
+204,8813562e019802295caf197f2dd5dfdd574e594ed59aa509861e63fd0a4c1652,ESTÁCIO,Engenharia Mecânica,Mensal,"(2017, 11, 6, 1, 29, 39)",Pernambuco,Pombos,"(2015, 11, 15, 21, 22, 51)",Email,Website
+205,10f86c634b159e91137d7bc42541232a907923bc51ed3316984272ea9a5f9628,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 25, 21, 11, 35)",São Paulo,São Paulo,"(2015, 11, 22, 23, 33, 15)",Facebook,
+206,0c7e80323e87655a940458fc4120d36014606c809041d9fb7a397ccacd2f86f7,ESTÁCIO,Enfermagem,Mensal,"(2017, 11, 1, 22, 55, 59)",Alagoas,Maragogi,"(2015, 11, 25, 22, 42, 27)",Facebook,
+207,0977faea51cb124e76b834e8235f5138276eb38af90ac08a00cecd5d6e19c294,ESTÁCIO,Educação Física,Mensal,"(2017, 11, 11, 19, 17, 28)",Espírito Santo,Vitória,"(2015, 11, 25, 23, 19, 28)",Email,Website
+208,f20cbfde6a687652f2cd5e770417dde6cd17ec1ec2a260842525abf83b4f6d5c,ESTÁCIO,Fisioterapia,Mensal,"(2017, 11, 1, 13, 5, 56)",Minas Gerais,São João del Rei,"(2015, 11, 26, 23, 4, 12)",Email,Android | 4.2.2 | sdk 17
+209,a49cf52f28d641b3dd68dabd437e2c3be94d56e9cffba6e99a4302fe07ccc42e,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 8, 22, 33, 22)",Rio de Janeiro,Rio de Janeiro,"(2015, 11, 28, 8, 59, 53)",Facebook,Website
+210,88beabd1efe21234db933e087fa98fc80a0a8d0bad79f0be3ee13ea5b5ab78bd,UEPB,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 11, 13, 9, 33)",Paraíba,Alagoinha,"(2015, 11, 29, 15, 58, 33)",Facebook,
+211,168bd0155ab553b94cdae4072126168e532510c473271032312fb9ee1eaf56b7,FABEL,Direito,Mensal,"(2017, 11, 5, 17, 54, 0)",,,"(2015, 11, 29, 19, 19, 27)",Email,Website
+212,15b25bab74fc736bde04d730bd9a6b5824814eae432da12607f431c5f22a5c01,ESTÁCIO,Sistemas de Informação / Informática,Mensal,"(2017, 11, 10, 15, 10, 15)",Roraima,Boa Vista,"(2015, 11, 29, 21, 0, 9)",Facebook,Mobile
+213,a5441739db09149f8293835499d31aa4452bbdc2e594cab230a819c071d78123,ESTÁCIO,Psicologia,Mensal,"(2017, 11, 15, 19, 17, 59)",Rio de Janeiro,Rio de Janeiro,"(2015, 11, 29, 23, 23, 3)",Facebook,
+214,8d429bedf6e57a535767db9700a1da314f6a2eb36d8fb560661802700e2df1cc,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 6, 1, 2, 12)",Rio de Janeiro,Rio de Janeiro,"(2015, 11, 30, 12, 12, 23)",Email,
+215,2f036494c1ce7c0486b80e919ea905dbd9f35248feb04289935c8d19d9cd5ef6,ESTÁCIO,Pedagogia,Mensal,"(2017, 11, 17, 21, 52, 54)",Rio de Janeiro,Rio de Janeiro,"(2015, 11, 30, 14, 28, 8)",Facebook,Mobile
+216,3108bae95486ff852cf7f3001dab5e2cded9da7e6a3aaaf5f862e369444de247,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 5, 20, 58, 16)",Rio de Janeiro,Rio de Janeiro,"(2015, 11, 30, 22, 26, 48)",Facebook,Website
+217,1cb30ef15a5e19d8ce41fdcc41a419a35b6e63358d234a6ba5d24a34a2b50726,UNISUAM,Fisioterapia,Mensal,"(2017, 11, 24, 3, 26, 42)",Rio de Janeiro,Rio de Janeiro,"(2015, 12, 2, 12, 21, 55)",Email,
+218,f3baeab06bb54a4259d1f1d5ee433f80830542a2097ab251be7a89e07709aa1a,UP,Engenharia de Energia,Mensal,"(2017, 11, 24, 2, 41, 13)",Paraná,Curitiba,"(2015, 12, 3, 11, 57, 59)",Email,Website
+219,fcc3049e68474031ca5771b4264c0eebd3bc35d30a351cccffcdbb12258abab8,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 10, 21, 52, 48)",Mato Grosso do Sul,Campo Grande,"(2015, 12, 9, 19, 50, 18)",Facebook,
+220,66a3fb9f7588354550912d5e4c7d877cd784608913ec026cae90899152a244d7,UNINTER,Pedagogia,Anual,"(2017, 11, 22, 22, 2, 53)",São Paulo,Bragança Paulista,"(2016, 1, 5, 13, 25, 20)",Email,Website
+221,4f735a4f9a6e5332163f790e22e8cfaa0bcc89f2349afee918ba0136777ed522,UNOPAR,Administração,Mensal,"(2017, 11, 7, 13, 47, 33)",São Paulo,Inubia Paulista,"(2016, 1, 8, 12, 54, 23)",Email,Website
+222,099e47f88bd38d52faf66cc0a51104e31a2ce8c012b691a73d152fac35245a9f,UNISEB,Gestão Financeira,Mensal,"(2017, 11, 4, 22, 25, 18)",,,"(2016, 1, 12, 10, 58, 52)",Email,Website
+223,24f10850055725cf07d923e3af11ae647e89b938f52efc2bed36c93a7dd95f56,FG,Direito,Mensal,"(2017, 11, 30, 23, 12, 11)",Pernambuco,Camaragibe,"(2016, 1, 19, 12, 45, 9)",Email,Website
+224,85a88df5c291f51cc76f6add15abe0fd2e0c79fe4da48e218708927bb5ebd0c1,ESTÁCIO,Administração,Mensal,"(2017, 11, 14, 10, 52, 42)",Rio de Janeiro,Rio de Janeiro,"(2016, 2, 1, 14, 48, 30)",Email,Website
+225,54bad5490126567e2faaf4886c9782ceca2ce059ba87cd7d084df49b13925183,ESTÁCIO,Fisioterapia,Mensal,"(2017, 11, 19, 23, 47, 36)",Rio de Janeiro,Rio de Janeiro,"(2016, 2, 23, 8, 24, 20)",Google,
+226,cb5fe5433bcaa28f505d7341abe31ffd590e12549c9a6092e4e21c89c4c01f9f,UNINTER,Engenharia Elétrica,Mensal,"(2017, 11, 14, 11, 50, 18)",Rio Grande do Sul,Erechim,"(2016, 2, 25, 20, 57, 52)",Email,Website
+227,e7cd453401e4df0a9d534b1902ac92b666d7a21f8130b5fb0cd56647e0d7a075,ESTÁCIO,Direito,Mensal,"(2017, 11, 12, 15, 42, 37)",Rio de Janeiro,Rio de Janeiro,"(2016, 2, 27, 12, 40, 37)",Facebook,
+228,94af735853d80d864c77e5ad9988279d2af1c6c505030381ad16103901f486c5,UNINORTE,Farmácia / Ciências Farmacêuticas,Mensal,"(2017, 11, 21, 0, 1, 49)",Amazonas,Manaus,"(2016, 2, 27, 17, 14, 5)",Google,
+229,b15040dd3a362512c788f1b090126324964379e830a0cf689a368d23154eb4dd,ESTÁCIO,Fisioterapia,Mensal,"(2017, 11, 30, 0, 24, 34)",Ceará,Fortaleza,"(2016, 3, 1, 17, 48, 33)",Facebook,iOS | 9.2.1
+230,2c9d778bd9b3ea644f52945eb68d82704dacbbb5f7821ac575259edfc4aa5cc3,UFBA,Veterinária / Medicina Veterinária,Mensal,"(2017, 11, 30, 15, 26, 10)",Bahia,Laje,"(2016, 3, 2, 21, 37, 43)",Email,Website
+231,f6c8908303962773d966dd18d42100a99c2df5ced4c23d79666a8d8186fbad8b,ESTÁCIO,Pedagogia,Mensal,"(2017, 11, 15, 14, 26, 26)",Rio de Janeiro,Rio de Janeiro,"(2016, 3, 4, 8, 25, 30)",Email,Android | 4.4.4 | sdk 19
+232,4f052e3f10a8f43b0ec31b332ac278068186da5340bba888497addad43552499,ESTÁCIO,Gestão Logística,Mensal,"(2017, 11, 13, 11, 17, 38)",Rio de Janeiro,Rio de Janeiro,"(2016, 3, 6, 20, 10, 24)",Google,Android | 4.4.2 | sdk 19
+233,51791a72619631e96c25ab91993f4115734e6942c9655974e648aee63b12085c,UNINTER,Gestão de Recursos Humanos,Mensal,"(2017, 11, 12, 12, 39, 5)",São Paulo,Valinhos,"(2016, 3, 6, 20, 13, 23)",Facebook,
+234,71e7dfef5ff9b76f9ed9a760ec975537d49fc329d7e9dc6a0537e7ba36c35048,ESTÁCIO,Direito,Mensal,"(2017, 11, 11, 22, 43, 17)",Rio de Janeiro,Rio de Janeiro,"(2016, 3, 10, 10, 54, 22)",Google,
+235,c7f16019ec9edd948ec45e52d6da76ba616c84285cd06ff76da172276fba16ea,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 8, 0, 45, 43)",Minas Gerais,Juiz de Fora,"(2016, 3, 12, 10, 17, 10)",Facebook,
+236,89dca42e4e35a055c597d6c50445828e7532608e213f6dd8afb0fe2597c1401e,FSM,Engenharia Civil,Mensal,"(2017, 11, 29, 14, 32, 56)",,,"(2016, 3, 12, 14, 34, 48)",Email,Website
+237,8f74e2ecd3c1ce27dfb2b6329f278ae58d75c43c0b314f79811e2c3939b8d1b8,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 11, 15, 54, 29)",Rio de Janeiro,Petrópolis,"(2016, 3, 12, 16, 58, 43)",Google,
+238,4123c809b5c9d77c2ff313793f49079c840a3e9264ce19992070e2aa75777d06,ESTÁCIO,Administração,Mensal,"(2017, 11, 27, 13, 50, 1)",São Paulo,Assis,"(2016, 3, 13, 16, 44, 35)",Facebook,Website
+239,112167bf07c1e19b4dfd2b9897faa65b59e528065c8c1c431138952f32fd4f6d,UNIJORGE,Engenharia Mecânica,Mensal,"(2017, 11, 19, 13, 18, 39)",Bahia,Salvador,"(2016, 3, 13, 17, 3, 9)",Facebook,
+240,db387dcb5ffe6a93aa689cfbeac8f254ce6a74be1932127cc318e8fb2f917795,FAT,Gestão Financeira,Mensal,"(2017, 11, 14, 21, 29, 57)",,,"(2016, 3, 15, 2, 13, 58)",Email,Website
+241,cfb3815cd8796eeeb2955367dbdfca6ae6fb6bc524bb26e31a9b808bb46977cf,ESTÁCIO,Psicologia,Mensal,"(2017, 11, 14, 15, 52, 3)",Rio de Janeiro,Rio de Janeiro,"(2016, 3, 15, 11, 52, 10)",Facebook,iOS | 9.2.1
+242,054d1693dc9ddc7dba58b9a3774b7f7476ab49cba7c9a4f41aec21704919fecc,FLF,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 22, 18, 40, 20)",,,"(2016, 3, 17, 15, 15, 28)",Google,Website
+243,b173e5b1c8a0c9e6a580db7c6e4e616f8da2f0cd6cb856786f29c3583928c0c8,Anhanguera,Sistemas de Informação / Informática,Mensal,"(2017, 11, 7, 21, 50, 57)",São Paulo,Pindamonhangaba,"(2016, 3, 18, 9, 10, 17)",Google,
+244,880458e6183f24132a32137b89ae5cc655912abdccb0f96d68101279989683ee,UNINTER,Engenharia de Produção,Mensal,"(2017, 11, 13, 14, 22, 3)",Rio Grande do Sul,Santa Rosa,"(2016, 3, 20, 9, 25, 30)",Google,Website
+245,03ee685202588e073ab7363bd5fa54d8d00cb2f6a0b86b010e66cb951b717497,UNINTER,Gestão de Comércio / Gestão Comercial,Mensal,"(2017, 11, 9, 23, 28, 54)",São Paulo,São Paulo,"(2016, 3, 21, 13, 19, 4)",Google,
+246,71720b817bbdda2d4a20aab6e337a67504c1646dd476cd7c47eecbbbc3b1c134,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 7, 1, 13, 53)",Rio de Janeiro,Rio das Ostras,"(2016, 3, 23, 14, 51, 46)",Email,Website
+247,253be192ee53f5a7f6b99b5ef3406620be0f66541e79121affaf55419332eab9,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 9, 3, 20, 57)",Sergipe,Nossa Senhora Do Socorro,"(2016, 3, 23, 22, 31, 22)",Email,Android | 4.4.2 | sdk 19
+248,0899192137889ebc19b33cafc936568aedaf87c48f736c6138c87e5773669b85,ESTÁCIO,Enfermagem,Mensal,"(2017, 11, 4, 22, 59, 43)",Rio de Janeiro,Rio de Janeiro,"(2016, 3, 26, 15, 26, 14)",Facebook,Website
+249,5b1c3380a8e7ff16c7ddef52c3baa2a91092c7e661ef9e3b494c0af2ef416153,UNIP,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 19, 12, 43, 6)",São Paulo,Engenheiro Coelho,"(2016, 3, 26, 15, 56, 38)",Google,
+250,c209128ac1a4550b2408e1330be03a3b02cdd2d3fe805bc0eac210c96d5906c4,ESTÁCIO,Engenharia Mecânica,Mensal,"(2017, 11, 10, 14, 1, 29)",Rio de Janeiro,Rio de Janeiro,"(2016, 3, 31, 3, 32, 12)",Facebook,
+251,ea71a3ffe66514cdcdbf0e4fdfb1ab9d7bbc40b9410032a7adf977cb20e29c28,UP,Direito,Mensal,"(2017, 11, 14, 8, 5, 20)",Paraná,São José dos Pinhais,"(2016, 3, 31, 11, 12, 53)",Facebook,
+252,ffabf7ca044b1ed2459b1e4ed4e05472382e1633cb3c9ad005017ab2681abc3b,UFPE,Farmácia / Ciências Farmacêuticas,Mensal,"(2017, 11, 27, 12, 54, 27)",Pernambuco,Bom Conselho,"(2016, 3, 31, 22, 3, 5)",Google,Webapp
+253,b784a03234c04342b2b819e479b8a848e1f2f06afd4574d150d3d93cc721e2cc,ESTÁCIO,Engenharia Mecânica,Mensal,"(2017, 11, 10, 1, 32, 13)",Rio de Janeiro,Rio de Janeiro,"(2016, 4, 1, 17, 39, 2)",Facebook,
+254,3459a7e0cbd31c83c95db1c09287f81e5f2341765882b1737793c983fad89a64,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 5, 17, 56, 39)",Rio de Janeiro,Rio de Janeiro,"(2016, 4, 2, 11, 52, 11)",Email,Website
+255,9875262aa0e9fe849df3c24c11c45405d43f7a2d947acf054ad11109223ef2cc,ESTÁCIO,Psicologia,Mensal,"(2017, 11, 6, 9, 38, 49)",Rio de Janeiro,Petrópolis,"(2016, 4, 3, 20, 48, 26)",Google,Website
+256,ee116440479c6d5742a281510038edee5d28aef73390bfe5d0ea7af5c4f87bf7,ESTÁCIO,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 3, 14, 37, 24)",Espírito Santo,Serra,"(2016, 4, 4, 13, 40, 42)",Google,Website
+257,196cc401697509568ec7c4cc7f5e9a4ac53759d864a953cfdf5f6621c037b45c,ESTÁCIO,Engenharia Civil,Anual,"(2017, 11, 16, 16, 58, 28)",Bahia,Salvador,"(2016, 4, 4, 15, 25, 32)",Google,Website
+258,b9dc06d2d6fd88c02736ec6e7e262aa9269b8db98e7c9626ac3a42313b6d5c01,ESTÁCIO EAD,Tecnologia da Informação,Mensal,"(2017, 11, 11, 20, 38, 51)",São Paulo,São Paulo,"(2016, 4, 4, 19, 25, 56)",Google,Website
+259,2f970bf216ccfc7cdbf0e1c58cd6b017573c28995adc7ca47af6d18fce608b02,ESTÁCIO,Pedagogia,Mensal,"(2017, 11, 4, 1, 15, 53)",Rio de Janeiro,São Gonçalo,"(2016, 4, 4, 23, 58, 39)",Email,Website
+260,52f59a45a25d584d3c228fbe097a49d108f16ffdec5c079aa2b327bed39aeddc,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 7, 15, 25, 10)",Rio de Janeiro,Rio de Janeiro,"(2016, 4, 6, 9, 20, 23)",Facebook,
+261,0d295d0faf368e592158d558bd39857abcb76d72dab2e13d6343614ecdcb780d,ESTÁCIO,Direito,Mensal,"(2017, 11, 5, 13, 56, 13)",Bahia,Salvador,"(2016, 4, 6, 17, 45, 30)",Email,Website
+262,81f79714163e7a15ef6924fd4e1033e3cd8ca7ad8f4566bebdffa330989cbf6b,ESTÁCIO EAD,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 7, 18, 17, 58)",Bahia,Feira de Santana,"(2016, 4, 6, 19, 54, 36)",Google,Website
+263,d998690564fc99b6894f2598786657b84e5929bdd281c9e85320d4a8b394b74a,ESTÁCIO,Engenharia Mecânica,Mensal,"(2017, 11, 22, 21, 51, 57)",Rio de Janeiro,Duque de Caxias,"(2016, 4, 10, 17, 24, 28)",Google,
+264,f61a1cba0895dd7b563972a8e5b007347153fdad00c090d0228d97fee45dbb1d,ESTÁCIO,Design,Mensal,"(2017, 11, 26, 21, 8, 23)",Rio de Janeiro,Rio de Janeiro,"(2016, 4, 10, 21, 22, 59)",Facebook,Website
+265,c6e6ed9815af057265c71221d6a0ff6691877327d10b7db8aed4e586281bf52c,UNINTER,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 14, 11, 23, 37)",Rio Grande do Sul,Sobradinho,"(2016, 4, 12, 23, 22, 23)",Email,Website
+266,2914da8dbeacaa83634074b6472c2b112759b8529e2eb69788edfe5b8ed7bd5a,ESTÁCIO,Engenharia Elétrica,Mensal,"(2017, 11, 13, 18, 10, 31)",Pernambuco,Garanhuns,"(2016, 4, 14, 7, 46, 26)",Facebook,Website
+267,ab29936e337cea33b883dd852d87b9db425d38323721c633551916238825d29b,UEM,Engenharia de Produção,Mensal,"(2017, 11, 27, 22, 52, 37)",Paraná,Toledo,"(2016, 4, 14, 15, 46, 25)",Google,Android | 6.0 | sdk 23
+268,920b968ba97012c7843651684fd755313fe7b02062d0e02a81451ff42f967123,FASIPE,Engenharia de Energia,Mensal,"(2017, 11, 17, 13, 32, 21)",,,"(2016, 4, 14, 16, 39, 44)",Email,Website
+269,11e6319eca3c06a9e78476921aebc2d9315635b2fd07d90d19e35d2b037717c5,ESTÁCIO,Enfermagem,Mensal,"(2017, 11, 15, 22, 21, 24)",Bahia,Salvador,"(2016, 4, 16, 2, 13, 16)",Email,Website
+270,c29e069f30eb3882c17ba8b6bf914751001287d0d8571eadf64cb29d84817af4,ESTÁCIO,Administração,Mensal,"(2017, 11, 1, 14, 4, 53)",Maranhão,São Luís,"(2016, 4, 16, 15, 35, 49)",Email,Website
+271,7dbe3598f063668c5dfa4b6b9bbc9d7def295537aa4716b8b6cdb2ed087d8ea5,UNILAGO,Medicina,Mensal,"(2017, 11, 26, 4, 14, 12)",Minas Gerais,Passos,"(2016, 4, 16, 18, 2, 58)",Facebook,
+272,c668486bacde3a89681596da290e20426aca8ae7ea8bc209d315aab6f14b5b39,FAMAP,Engenharia Civil,Mensal,"(2017, 11, 6, 22, 59, 45)",Amapá,Macapá,"(2016, 4, 17, 9, 14, 7)",Email,iOS | 9.3
+273,9a52a3fcf50057fe6bdc0e68fa7ffb050db3f787fad0250cadc23661d35257bd,ESTÁCIO,Licenciatura em Educação Física,Mensal,"(2017, 11, 20, 23, 8, 36)",Rio de Janeiro,Rio de Janeiro,"(2016, 4, 20, 16, 58, 48)",Email,Website
+274,e333eecfb62f396bc75a151b14a0ec75342ca4dc3891aa7d62083db773063715,ESTÁCIO,Direito,Mensal,"(2017, 11, 2, 19, 15, 19)",Rio de Janeiro,Rio de Janeiro,"(2016, 4, 20, 22, 47, 14)",Facebook,
+275,b98e4422e2c6519977392d19b5a13372b65d5d7eb928c0df29b43feb69ba4b68,ESTÁCIO EAD,Tecnologia da Informação,Mensal,"(2017, 11, 22, 17, 5, 2)",São Paulo,São Paulo,"(2016, 4, 23, 14, 3, 9)",Google,
+276,cf1a3c04237ef7b75c4d28f67ccc7b2c6044ac9b1ce395c1f820ceb6be434f27,ESTÁCIO EAD,Serviço Social,Mensal,"(2017, 11, 11, 14, 53, 32)",Rio de Janeiro,Rio das Ostras,"(2016, 4, 23, 17, 44, 3)",Email,PDJobs
+277,9baacc966a3a6c5473089b5cea5e46d80260764967d938137a778fe8e859a39a,UFRGS,Design,Mensal,"(2017, 11, 17, 16, 2, 57)",Rio Grande do Sul,Porto Alegre,"(2016, 4, 25, 12, 21, 17)",Facebook,Website
+278,41fb73462d986d814e69d6d0c0d331dc017cc4fa68214f08d014dc8b52a16ba9,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 2, 15, 50, 48)",Rio de Janeiro,Rio de Janeiro,"(2016, 4, 25, 21, 48, 59)",Facebook,Website
+279,9fd5f79e845af52d28c49e1af48b484e11810163916723dfa36edc8ba0ded83f,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 12, 22, 14, 44)",Rio de Janeiro,Rio de Janeiro,"(2016, 4, 25, 22, 29, 1)",Email,Website
+280,8e419da7f08890c7eb32726f8887433ca30e8abd91576a6a80c7cf029a51c7ec,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 29, 13, 49, 48)",Rio de Janeiro,Rio de Janeiro,"(2016, 4, 27, 21, 20, 18)",Facebook,Website
+281,8c863776daad0d94f12f7f02301ef35670bf9ea89adebcb5556ccae108c22d4f,ESTÁCIO,Contabilidade / Ciências Contábeis,Anual,"(2017, 11, 11, 19, 31, 38)",Mato Grosso do Sul,Campo Grande,"(2016, 4, 27, 22, 27, 12)",Facebook,Android | 5.1.1 | sdk 22
+282,664c24bc795b0f9c49540b91d7d501ee8f19d03c7462be79da0d8577f42adb68,ESTÁCIO,Psicologia,Mensal,"(2017, 11, 5, 21, 56, 20)",Minas Gerais,Raposos,"(2016, 4, 28, 12, 50, 1)",Google,Website
+283,6072fb983044ad57c6e4388ef5deaba6ef51144cfe3fffcb9bb68768d3c5285d,ESTÁCIO,Direito,Mensal,"(2017, 11, 10, 20, 58, 36)",Santa Catarina,Florianópolis,"(2016, 4, 28, 16, 0, 29)",Email,Website
+284,a4af0087412f3872865c5d6b5de4266b942d6a91b6e12d61a2b7774675fc8c2a,IESAM,Engenharia Elétrica,Mensal,"(2017, 11, 18, 19, 31, 18)",,,"(2016, 4, 29, 20, 50, 27)",Google,Android | 6.0 | sdk 23
+285,62bf98b1b6db07a8264ea1c50d06fcd9d0a0f6c37a141e646db672112c168320,UFG,Psicologia,Mensal,"(2017, 11, 4, 22, 47, 24)",Goiás,Rio Verde,"(2016, 4, 29, 21, 14, 6)",Google,Website
+286,a26e4bf01aefd8adc6a4d615209dd039f0052bb762c42191e9b826fc152b30e1,CEFET/RJ,Engenharia de Controle e Automação,Mensal,"(2017, 11, 21, 12, 50, 43)",Rio de Janeiro,Rio de Janeiro,"(2016, 4, 30, 12, 58, 49)",Facebook,Website
+287,995a9213851fab66137da5580ee4cd4a2d272cd4b910188dc7a759c59d3e5cfc,CEUT,Enfermagem,Mensal,"(2017, 11, 4, 3, 56, 32)",Maranhão,Imperatriz,"(2016, 5, 1, 6, 38, 37)",Google,
+288,a87d555cd44b48d94a414907fc7e23847f335818236b256dcdc8bd3e653d3204,ESTÁCIO,Gestão da Informação,Mensal,"(2017, 11, 8, 13, 32, 12)",Ceará,Fortaleza,"(2016, 5, 1, 19, 10, 29)",Email,Website
+289,ba69140ae809d51d629e4d3f631bd55465f2aaccc4a151688564997bdec124ab,ESTÁCIO,Comunicação Social,Mensal,"(2017, 11, 3, 13, 27, 35)",Pará,Belém,"(2016, 5, 3, 13, 23, 36)",Facebook,Website
+290,697daec21ec4848f992f396a3dcb85c9fed90e606a0dc444abde6bfab2e669db,UNIVERSO,Engenharia de Produção,Mensal,"(2017, 11, 26, 22, 45, 17)",Goiás,Goiânia,"(2016, 5, 3, 16, 36, 25)",Facebook,Website
+291,05903b66b48a0dc3fb43d1848922a797a7507c090984417c7d90e5cfc5eaed83,UNINTER,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 14, 0, 16, 36)",Paraná,Bocaiuva Do Sul,"(2016, 5, 3, 17, 32, 43)",Facebook,Webapp
+292,0cd81b5d44b0e9dc1acf828151ab33285c5baf302655177ca63bc488392f749a,ESTÁCIO EAD,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 17, 17, 3, 5)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 3, 21, 54, 8)",Facebook,
+293,86aa101d6913ac903a18e39a565c08ed5c2f69d774ed7f24c03f8620a50f958a,ESTÁCIO,Engenharia Mecânica,Mensal,"(2017, 11, 14, 20, 3, 47)",Rio de Janeiro,São Gonçalo,"(2016, 5, 4, 2, 2, 35)",Email,
+294,f3f07989e5b0dab956b5d85fdf95da1ad7d23d07fa644e15ad20f337f3cfee72,ESTÁCIO,Marketing,Mensal,"(2017, 11, 17, 19, 44, 23)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 4, 10, 4, 56)",Facebook,Website
+295,70e293996e28c11349810f0be8dff57627c7b59b095d9c524a3f2aa136dda5c4,UNINTER,Engenharia de Produção,Anual,"(2017, 11, 7, 16, 2, 48)",Minas Gerais,Ouro Branco,"(2016, 5, 4, 14, 59, 25)",Email,Website
+296,941c81fa9b94adadf43ba606aa9fce6f4cfa639b7d853a89bbb2b47bd3cad8a5,ESTÁCIO,Administração,Mensal,"(2017, 11, 2, 0, 8, 30)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 4, 23, 25, 33)",Email,Website
+297,c2b75ecf9a215abad54716b365eb77124dc5fa7e9b6c856c61bae6cdaa466e17,ESTÁCIO EAD,Sistemas de Informação / Informática,Mensal,"(2017, 11, 14, 14, 48, 7)",Rio de Janeiro,Araruama,"(2016, 5, 4, 23, 51, 7)",Google,
+298,6d655ff23f5bdbf9509225a09382fea5f5657faaeb520a420a8aeb1f6cdb93b2,ESTÁCIO,Administração,Mensal,"(2017, 11, 6, 0, 38, 49)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 7, 21, 14, 42)",Email,iOS | 7.1.2
+299,995b4c17acca7933f805af8792d753dfe9f8a3873bae7a3aafb268aaceba07bd,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 7, 18, 46, 8)",Rio de Janeiro,São Gonçalo,"(2016, 5, 9, 10, 9, 13)",Google,Website
+300,f7bd608551a6e957c9ba8bcc1a14582b819221143ad5a3ca7382139aa7a809c0,ESTÁCIO EAD,Gestão Financeira,Mensal,"(2017, 11, 8, 19, 16, 53)",Bahia,Salvador,"(2016, 5, 10, 2, 47, 0)",Email,Website
+301,00a73b8a8d1f7c02fea2c7d6ac586cac5f3071588f6d2be142b7d2b68cdd5e02,ESTÁCIO,Enfermagem,Mensal,"(2017, 11, 21, 1, 8, 4)",Ceará,Fortaleza,"(2016, 5, 10, 13, 6, 55)",Facebook,iOS | 9.2
+302,e2dc3d58a43dff3aefd7bdfba7a1660062dd4699ffd758bd5fe22dd0b0e18b09,NEWTON PAIVA,Pedagogia,Mensal,"(2017, 11, 13, 23, 56, 47)",Minas Gerais,Lavras,"(2016, 5, 10, 13, 19, 42)",Google,Website
+303,c5f49eda07fe2eb1df26d15aa4bd066ceac19c852e3f09b6f841273f66dd193f,ESTÁCIO EAD,Licenciatura em linguagem e Comunicação,Mensal,"(2017, 11, 22, 12, 57, 0)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 10, 13, 37, 4)",Email,Website
+304,20be56f2b24e91193ec162a56bc722c8e33f90252f25b8f15b5a377f5dbf7a10,ESTÁCIO EAD,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 14, 15, 27, 26)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 11, 12, 40, 19)",Facebook,
+305,488d56857ea9af5c20d9e9db76362cdb511ab4259cd3684090303fb0273ad3e8,ESTÁCIO,Administração,Mensal,"(2017, 11, 11, 1, 5, 34)",Rio de Janeiro,Porto Real,"(2016, 5, 11, 14, 41, 48)",Email,Website
+306,a9b8af59a36a0d7a1c886493cfd4cfb30ed083a488a946a409e04b8a2891f192,UNIP,Serviço Social,Mensal,"(2017, 11, 28, 15, 28, 2)",São Paulo,Araçatuba,"(2016, 5, 11, 17, 39, 27)",Email,Website
+307,e95c26466b8ab25ffeefaf854887ed74b11acb1c8d1f5c2e0f1bb7922ef50a97,UNINTER,Engenharia de Produção,Mensal,"(2017, 11, 29, 22, 46, 35)",Rio Grande do Sul,Porto Alegre,"(2016, 5, 14, 12, 32, 27)",Email,Website
+308,82e0c5e6c3fcd86c4f71037117b74b0cf3a2553bd8899cfbcb0592baeb11508c,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 4, 21, 59, 38)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 15, 14, 34, 39)",Facebook,
+309,f621b1ed529580055393f0c17304f82c5247db13f74252cffcd68dae9f566734,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 3, 18, 33, 1)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 15, 22, 49, 16)",Email,Website
+310,43ea38ef3d8a9f72de1012a531bd147a1b389bcc45a934a3dd548c215e41d275,ESTÁCIO,Fisioterapia,Mensal,"(2017, 11, 11, 20, 35, 32)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 16, 16, 33, 24)",Email,Website
+311,aac0fafe306b56331000c1bf7e56b9a1028ca7bcd119ce9e19abf78e11ef6848,ESTÁCIO,História,Mensal,"(2017, 11, 22, 16, 20, 58)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 17, 17, 26, 3)",Google,Website
+312,0747fe94d88f041102bd74eb4e0976a858a8b55ad18527e2db05f167056144ff,ESTÁCIO,Gestão de Recursos Humanos,Mensal,"(2017, 11, 6, 13, 18, 0)",Minas Gerais,Juiz de Fora,"(2016, 5, 17, 21, 25, 21)",Facebook,
+313,774e9a7422a9f6ca7280c1668209909f9ec56d1c3e0c5881790681313fca6ecd,ESTÁCIO,Psicologia,Mensal,"(2017, 11, 3, 14, 35, 32)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 18, 17, 53, 5)",Facebook,
+314,90165151756ace0c64dd6717750563e4fa1a682351fe53d1bceda00b0895be9f,ESTÁCIO,Gestão de Recursos Humanos,Mensal,"(2017, 11, 14, 1, 13, 8)",Pernambuco,Recife,"(2016, 5, 18, 19, 59, 42)",Email,Website
+315,17159abeb33e8d916438d82b229b2f5b8370939800711e6cfbc3333594f6dea2,ESTÁCIO,Sistemas de Informação / Informática,Mensal,"(2017, 11, 13, 9, 2, 44)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 19, 23, 32, 41)",Google,Website
+316,53d05d495983fd52d40a25eeadc021830451caadf056a37986d00c279164f415,ESTÁCIO,Direito,Mensal,"(2017, 11, 7, 0, 24, 32)",Santa Catarina,Joinville,"(2016, 5, 20, 5, 56, 28)",Google,Website
+317,2cc01fe4be04184f90a0f60456037415726fb5a45a1b32c87ea4c593ae680229,ESTÁCIO,Administração,Mensal,"(2017, 11, 5, 16, 17, 9)",Rio de Janeiro,Niterói,"(2016, 5, 22, 20, 26, 58)",Email,Website
+318,fec8a41ebc683300f6b8eea01c245224edf42642d2d19a942e4ab4f178b01ecb,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 14, 22, 14, 50)",Paraíba,Picui,"(2016, 5, 23, 9, 15, 32)",Facebook,Website
+319,59d8bfc92fea11fd0abffc2d750409a9eada448c383f3dbead294362885dbbd1,ESTÁCIO,Direito,Mensal,"(2017, 11, 17, 17, 4, 42)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 23, 23, 30, 29)",Google,Android | 6.0 | sdk 23
+320,a2e0f8ab5a493636d8cfa83f69176205ad6f5773cb35ed3c38002f9de13cd900,UNINTER,Pedagogia,Anual,"(2017, 11, 22, 21, 30, 51)",São Paulo,Piracicaba,"(2016, 5, 24, 18, 51, 18)",Email,Website
+321,8a6b315d7f2150d64bdbe7083553383e6ae6f1815342f3c8e03c52ad546bca73,UNINTER,Pedagogia,Mensal,"(2017, 11, 15, 13, 10, 16)",Santa Catarina,Criciúma,"(2016, 5, 24, 19, 27, 6)",Email,Website
+322,6059e7b6c1056fe64c9530badf63e91088e0d917ac71b6cd5c3f268e4cf6ddad,UNIP,Engenharia Civil,Mensal,"(2017, 11, 6, 13, 50, 2)",São Paulo,São Paulo,"(2016, 5, 26, 18, 1, 19)",Email,Website
+323,917c2b78d7a08fadcf7ad8c0f2bccd39eef3fe2747a8627301175282e7e65553,ESTÁCIO,Administração,Mensal,"(2017, 11, 3, 23, 41, 15)",São Paulo,Barueri,"(2016, 5, 27, 11, 29, 53)",Google,Website
+324,85886b7fccac4892a9317af6d84a21f5b1cce040031e502e2aea14673f688fff,UNIDERP - ANHANGUERA,Administração,Mensal,"(2017, 11, 11, 20, 31, 30)",Rio de Janeiro,Nova Iguacu,"(2016, 5, 27, 17, 25, 43)",Email,
+325,af9ea62b1cb785b57208d27837a261b04cc8d68d97cf49e20dc074a70653b37e,ESTÁCIO,Engenharia Mecânica Naval ,Mensal,"(2017, 11, 13, 20, 54, 38)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 30, 18, 29, 31)",Google,
+326,83cb3794b7c6ee19a309956663d13711dbcd06274cae71ffe36da88a86908650,ESTÁCIO,Nutrição,Mensal,"(2017, 11, 12, 1, 53, 36)",Pernambuco,Recife,"(2016, 5, 30, 21, 7, 10)",Facebook,Website
+327,13a46b98b9bfdb14046a2b7d1efb68956898a294254d95d039464bc0b39bb00a,ESTÁCIO,Pedagogia,Mensal,"(2017, 11, 5, 18, 53, 52)",Rio de Janeiro,Rio de Janeiro,"(2016, 5, 31, 14, 1, 49)",Email,Website
+328,401d515af462d2b94ea3ea96349eb56582b7d5ff08f581b6bfaf792411823949,UNIVESP,Engenharia da Computação,Mensal,"(2017, 11, 28, 13, 55, 11)",São Paulo,Patrocinio Paulista,"(2016, 5, 31, 21, 58, 2)",Google,Webapp
+329,79c87a42a63435cd94afe5c5fb611742c8e79070d148e362223f9ca46239d0ce,ESTÁCIO,Administração,Mensal,"(2017, 11, 11, 23, 46, 53)",Rio de Janeiro,Rio de Janeiro,"(2016, 6, 3, 10, 32, 1)",Facebook,
+330,4ed25e8e003f808f2402b64cbbbc99ff8e38addd32358ea4c4f0a91cb1489c36,ESTÁCIO EAD,Direito,Mensal,"(2017, 11, 3, 15, 26, 41)",Santa Catarina,Florianópolis,"(2016, 6, 4, 12, 14, 42)",Google,Webapp
+331,4433e306d0f0d14b2cd1c17abbbb6af6bfac58856c51b9067eb0356e94d4fa08,ESTÁCIO,Engenharia Mecânica,Mensal,"(2017, 11, 6, 1, 48, 54)",Rio de Janeiro,Angra Dos Reis,"(2016, 6, 4, 15, 2, 22)",Facebook,
+332,ef85ed27502c7eac43733e1a8dc68522bee42ca2c4181b160eee099eb111eda2,PITÁGORAS,Nutrição,Mensal,"(2017, 11, 5, 17, 41, 49)",Minas Gerais,Belo Horizonte,"(2016, 6, 5, 13, 50, 47)",Email,Website
+333,091bf87573bc0d1caaa2ea466b796da74a231c801f8ac5e8cc352da5ff85f841,ESTÁCIO,Direito,Mensal,"(2017, 11, 7, 20, 9, 40)",Paraná,Curitiba,"(2016, 6, 5, 15, 57, 46)",Email,Website
+334,273d6b598523c316c1c25a664c36af5a129f98194a56682ff045c1d76c66dbf1,ESTÁCIO,Engenharia Elétrica,Mensal,"(2017, 11, 4, 11, 16, 51)",Bahia,Salvador,"(2016, 6, 5, 23, 19, 15)",Email,Website
+335,b14276f49c89023be2d06d890c4e0237550ae6ef1adf5d4dce79eab4678e59a4,IBMEC,Direito,Mensal,"(2017, 11, 23, 17, 4, 14)",,,"(2016, 6, 5, 23, 39, 36)",Email,iOS | 9.2.1
+336,dc2123a0c712f1704c68a1d63b31f5085c84195fe81f0ee7309dc62b92cb090d,ESTÁCIO,Gestão de Recursos Humanos,Mensal,"(2017, 11, 3, 17, 25, 58)",Rio de Janeiro,Rio de Janeiro,"(2016, 6, 6, 17, 13, 28)",Facebook,Webapp
+337,85906958ebc1a3c0e048312c38abf699347145f949502bf4de2a5a3756819d2e,UNIP,Engenharia Civil,Mensal,"(2017, 11, 18, 13, 1, 58)",São Paulo,Rancharia,"(2016, 6, 7, 13, 28, 39)",Facebook,
+338,cf8cc0f04f3dcb461fcbc1d71726d48281d82e328e5c5004fa3dad1f4826dc6b,ESTÁCIO,Direito,Mensal,"(2017, 11, 8, 18, 39, 33)",Roraima,Boa Vista,"(2016, 6, 9, 18, 4, 35)",Facebook,Website
+339,2a8b832eeea8c256d2bdd2231c35f1adfee7def312a5497a8a3555bbfe997f5f,ESTÁCIO EAD,Gestão Ambiental,Mensal,"(2017, 11, 13, 13, 0, 9)",Rio de Janeiro,Petrópolis,"(2016, 6, 10, 19, 26, 11)",Google,
+340,7e5472805af1943ae5ef48690c17a3af5f485feb8eeeca121bbbd53a0562ac2d,ESTÁCIO,Direito,Mensal,"(2017, 11, 5, 11, 8, 40)",Rio de Janeiro,Rio de Janeiro,"(2016, 6, 13, 16, 5, 39)",Email,Website
+341,a12c9f4d28497f8c2ed44957edd174b76cd2537da3c9dd36d93d09e96f7dfb80,ESTÁCIO EAD,Serviço Social,Mensal,"(2017, 11, 22, 12, 2, 25)",Minas Gerais,Belo Horizonte,"(2016, 6, 14, 7, 43, 45)",Google,Website
+342,b2db598367b7ab9c822c347fe1b01fd8684e0faa67bb408db018fcbc2afb5c63,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 12, 13, 17, 2)",Rio de Janeiro,Macaé,"(2016, 6, 15, 16, 40, 55)",Facebook,Webapp
+343,4cbb52050050981cfb3bace1ea0e6a31ce3c054c8fdd81cd392561cda78cb7d7,UNIP,Pedagogia,Mensal,"(2017, 11, 14, 17, 50, 42)",São Paulo,São Paulo,"(2016, 6, 17, 15, 23, 10)",Email,
+344,73acc0845cdabe5acb60c3efdd1deae27def3ac529640411aa04c0ea60a23a76,ESTÁCIO,Psicologia,Mensal,"(2017, 11, 1, 17, 23, 59)",Rio de Janeiro,Rio de Janeiro,"(2016, 6, 21, 12, 30, 36)",Email,Website
+345,08665ce5ad2a1bbfca81bc281d0e6212d188e15f98d0b0f4406d75791b09d3c0,ESTÁCIO EAD,Matemática,Mensal,"(2017, 11, 20, 23, 25, 2)",Alagoas,Igreja Nova,"(2016, 6, 25, 11, 11, 57)",Facebook,
+346,f17414cf5fd27ba5e6571323ffd0d931bfb0ebf44f15611c8d59349dba24c786,ESTÁCIO,Nutrição,Mensal,"(2017, 11, 12, 15, 18, 51)",Rio de Janeiro,Rio de Janeiro,"(2016, 6, 25, 21, 36, 20)",Facebook,Website
+347,9581412e8fe4ca3208c623172ed3e518546dccf2ba66da32687460ede793b279,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 18, 19, 46, 53)",Rio de Janeiro,Petrópolis,"(2016, 6, 28, 9, 1, 39)",Facebook,Website
+348,9039e3340b470ae097e7a1b7df38e9590007eeb7878b6160931333c281414f20,ESTÁCIO EAD,História,Mensal,"(2017, 11, 14, 19, 30, 59)",Ceará,Fortaleza,"(2016, 6, 29, 9, 40, 18)",Facebook,Mobile
+349,09936666ed823a75b90d2aaaaf7dd47670be3578715d193c0b05b5a219e2686c,ESTÁCIO,Psicologia,Mensal,"(2017, 11, 7, 15, 1, 34)",Rio de Janeiro,Duque de Caxias,"(2016, 6, 30, 12, 56, 12)",Facebook,Website
+350,c5e0de77b3f3606a41090a9928490e3d2a4b62fbff4f4e57965c428e3606d7af,UNINTER,Secretariado e Secretariado Executivo,Mensal,"(2017, 11, 3, 22, 39, 13)",São Paulo,Campinas,"(2016, 7, 2, 13, 21, 9)",Facebook,Webapp
+351,6a8db52f5e4fe9ba55e8974f104c2e2373c207ea2870769447dcbd364ba2acd9,UNINTER,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 13, 19, 49, 53)",Paraná,Medianeira,"(2016, 7, 4, 8, 3, 8)",Google,Website
+352,e33fc146aa2540ec01d4199039cd7da0f7088ab162a405c5d488ecbe1161e8cb,UNINTER,Engenharia de Produção,Anual,"(2017, 11, 20, 12, 56, 45)",Espírito Santo,Vila Velha,"(2016, 7, 5, 12, 31, 39)",Email,Website
+353,9cd832103a75e784c5634d8cdf9ab17fb38ac7288c7b37b3e306b5dd93a7f466,UNINTER,Engenharia de Produção,Mensal,"(2017, 11, 18, 23, 40, 13)",Paraná,Curitiba,"(2016, 7, 21, 18, 45, 14)",Email,Website
+354,ee5a19f03c0f6aae633d1ad475effda1e1fb1b549f215f3e89633c34dd81026c,UNDB,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 4, 12, 22, 39)",,,"(2016, 7, 29, 20, 21, 39)",Email,Website
+355,3b11040e854d8fbf848f822690a1d713be8a7de485f9256d5585b830ec6d1cc0,ESTÁCIO,Direito,Mensal,"(2017, 11, 20, 14, 28, 43)",Rio de Janeiro,Rio de Janeiro,"(2016, 7, 31, 13, 15, 43)",Facebook,Webapp
+356,1444619f0bcc78e3a63cf60b72844462860854a02675ffe8c93309c298bfa561,ULBRA,Direito,Mensal,"(2017, 11, 6, 15, 51, 26)",Rio Grande do Sul,Carazinho,"(2016, 8, 3, 14, 44, 56)",Email,Website
+357,621a958d26f6ef45a8fb3791bf52e4c18e46d15c84384220a29f0080373d4167,UFPR,Engenharia Mecânica,Mensal,"(2017, 11, 8, 1, 18, 42)",Paraná,União da Vitória,"(2016, 8, 4, 20, 41, 10)",Google,Website
+358,a56ef3f39bf581999c98a6741dc08e24132b195d13df8ec878b52042a0bdb7db,ESTÁCIO EAD,Engenharia Civil,Mensal,"(2017, 11, 3, 1, 30, 51)",Maranhão,São Luís,"(2016, 8, 7, 21, 20, 1)",Email,Website
+359,63e93acf4d2095b6490b8e11e1aab3560be1f6b22f54dd915eae21dcad9ce240,UNINTER,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 3, 1, 20, 8)",Pernambuco,Carpina,"(2016, 8, 17, 22, 47, 41)",Google,
+360,cba3f4a82c1d145deac68395d67d6f79865d7f866915a219625394d69a0e725c,ESTÁCIO EAD,Processos Gerenciais,Anual,"(2017, 11, 7, 12, 34, 18)",Rio de Janeiro,Rio de Janeiro,"(2016, 8, 18, 11, 1, 2)",Google,
+361,98b06917f482e1180b3ab150d1bf0b1f73f250957f870f7ee7a57c10d33a31d5,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 6, 0, 24, 2)",Rio de Janeiro,Rio de Janeiro,"(2016, 8, 18, 12, 54, 37)",Google,Website
+362,68698de24a2d3b65d6e6c89fb708b9b73230bd303ff8cce1ddc1070691a19c98,ESTÁCIO,Direito,Mensal,"(2017, 11, 3, 22, 43, 41)",Santa Catarina,Brusque,"(2016, 8, 21, 21, 38, 26)",Facebook,Website
+363,4eccfbffd2dbcecb90df8e622f8b79956a032f1a8d2f63f6d94b65e0aaed26ff,UNINTER,Gestão da Informação,Mensal,"(2017, 11, 27, 15, 27, 37)",Minas Gerais,Mariana,"(2016, 8, 22, 20, 25, 57)",Google,Website
+364,9e797bbd1d2622a7aa63584a84f7be74ea722df541c433e03a8f08a6993eaabe,FAMETRO,Engenharia Eletrônica,Mensal,"(2017, 11, 26, 21, 11, 52)",Ceará,Fortaleza,"(2016, 8, 29, 0, 3, 40)",Google,Website
+365,864a45b6ec7ab8c60e714cf420fc31f46cb78caa87cd3f616935538082cd3ba6,PUC-MINAS,Engenharia Civil e Ambiental ,Mensal,"(2017, 11, 15, 12, 54, 8)",Minas Gerais,Belo Horizonte,"(2016, 8, 31, 6, 23, 4)",Facebook,Website
+366,b2d7294d4b7111bf6601fbbbc7e212405606f456563deff73b2844241889b850,ESTÁCIO EAD,Gestão Ambiental,Mensal,"(2017, 11, 9, 22, 7, 11)",Rio de Janeiro,Rio de Janeiro,"(2016, 9, 3, 11, 7, 4)",Google,
+367,3f91d9ee5777fe63cbcb5e903f07898c89cf87104a4793aaaffb4b147e45edae,UFSM,Direito,Mensal,"(2017, 11, 26, 23, 15, 8)",Rio Grande do Sul,Passo Fundo,"(2016, 9, 4, 23, 51, 41)",Facebook,
+368,5b80dde9423a4097a4aaa86d51778f994993325f213f687e58496eb9f0bda32f,UNICARIOCA,Administração,Mensal,"(2017, 11, 4, 12, 21, 17)",Rio de Janeiro,Rio de Janeiro,"(2016, 9, 7, 20, 18, 11)",Google,Website
+369,cebc3dd77e43e0773de8d69b984563b0dd423f4014c9c0ef5e0dff3395fb453f,UNINTER,Engenharia Elétrica,Mensal,"(2017, 11, 13, 13, 43, 53)",Santa Catarina,Ararangua,"(2016, 9, 10, 12, 34, 17)",Google,Website
+370,dfe4ff55861db4d7dd2f9cf99138f208e4c949c4914d502f5f9e19010cfc080c,ESTÁCIO EAD,Engenharia Civil,Mensal,"(2017, 11, 11, 15, 52, 28)",Goiás,Goiânia,"(2016, 9, 10, 20, 13, 24)",Facebook,
+371,7808bb3e6208f3f612ec0ce4a85ae90bfa842843c080504930b6362e7ab56a06,UNIP,Serviço Social,Anual,"(2017, 11, 23, 16, 36, 42)",São Paulo,Limeira,"(2016, 9, 12, 16, 10, 9)",Facebook,
+372,4507e99eda24036dba4448071d0dca0fbfb9732cfe97a0d31bdc4566e45a954c,ESTÁCIO,Direito,Mensal,"(2017, 11, 4, 15, 30, 40)",Rio de Janeiro,São Gonçalo,"(2016, 9, 12, 21, 59, 2)",Google,Website
+373,fdfb224c4674e1a06b0a33ffda5376d2e6ec5fef943832a4644851b181d7975b,UNIP,Administração,Mensal,"(2017, 11, 21, 22, 31, 12)",São Paulo,Pindamonhangaba,"(2016, 9, 15, 15, 20, 12)",Google,
+374,01d1c6551f8495b2f1826c82d8f339dad4b2d313bc2e016d6fc19aab8fadc442,ESTÁCIO,Psicopedagogia,Mensal,"(2017, 11, 1, 20, 23, 56)",Rio de Janeiro,Barra Mansa,"(2016, 9, 16, 20, 56, 26)",Google,Website
+375,ce3eab1585f09b56e6b8ac1d9eeb627cef673bd2a093e1e84d7ef5cbac70b08b,ESTÁCIO EAD,Licenciatura em História,Mensal,"(2017, 11, 1, 11, 16, 24)",Mato Grosso,Alta Floresta,"(2016, 9, 19, 19, 47, 46)",Facebook,Website
+376,96b3b7b86e783d13cd0056d137c7856ddd6878815e972472c663fe8c21d05ffb,ESTÁCIO,Enfermagem,Mensal,"(2017, 11, 11, 18, 36, 2)",Rio de Janeiro,Rio de Janeiro,"(2016, 9, 21, 21, 18, 36)",Google,Website
+377,c42f413c75082a1086801d6a72914f6e8a6a14b1760f72e9b8e37de0b603e44e,ESTÁCIO,Administração,Mensal,"(2017, 11, 14, 0, 52, 4)",Rio de Janeiro,Rio de Janeiro,"(2016, 9, 23, 16, 20, 5)",Google,
+378,b6a6ce06e7f578d91cbda89eb0712268d1ebe939feaab3bd9b7acea23f5e70af,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 13, 23, 39, 48)",Goiás,Anápolis,"(2016, 9, 26, 7, 41, 4)",Google,Website
+379,5e1ebd7c251dddcddcbd9c7b4090d85def5cc6a38926decb28006983dcb80a16,UNINTER,Sistemas de Informação / Informática,Anual,"(2017, 11, 12, 23, 12, 22)",Santa Catarina,Florianópolis,"(2016, 9, 27, 9, 21, 0)",Facebook,Website
+380,7442913e3618ff1049ff916eea589e0ad55213887533070dba3838c8ac53289e,ESTÁCIO EAD,Engenharia Civil,Mensal,"(2017, 11, 11, 18, 54, 38)",Rio de Janeiro,Rio de Janeiro,"(2016, 9, 27, 21, 29, 55)",Google,Website
+381,b69ae198e8d70c940f3ee31516a4b6f1a5aa9ce95983022e43b482bdf24c0d15,UNG,Gestão de Recursos Humanos,Mensal,"(2017, 11, 11, 3, 41, 27)",São Paulo,Sumaré,"(2016, 9, 30, 17, 32, 21)",Facebook,Website
+382,f580fca0f4a31a310f838c424e2090f5992ad2e9ebe42671cf7841b81751ca9c,UNIP,Fisioterapia,Mensal,"(2017, 11, 26, 21, 46, 43)",Rio Grande do Sul,Jaquirana,"(2016, 10, 1, 15, 52, 37)",Facebook,
+383,88f12eee14fa21a39dc4a12eeb8a95b1af0d0e6a326b9567f1d4959bc8e709f9,ESTÁCIO,Direito,Mensal,"(2017, 11, 13, 10, 18, 38)",Rio de Janeiro,Rio de Janeiro,"(2016, 10, 2, 23, 41, 38)",Facebook,iOS | 9.3.2
+384,c982de12b302b34854549d39223029d5bdaa76482b6a4c4257c27a6dc316c842,UFOP,Engenharia Geológica,Mensal,"(2017, 11, 7, 15, 10, 13)",Minas Gerais,Belo Horizonte,"(2016, 10, 3, 18, 52, 58)",Facebook,Website
+385,42e7da72bab4ea54ae9a4e8b58b5c643f45c5efc30617709fd381126019bc4f6,ESTÁCIO,Direito,Mensal,"(2017, 11, 4, 17, 29, 5)",Rio de Janeiro,Rio de Janeiro,"(2016, 10, 4, 16, 14, 30)",Facebook,Website
+386,39f0c725c5a1db89242ea4924cb2eb1ae5d79a63e833e4cba1615c9d325d2b24,ESTÁCIO,Odontologia,Mensal,"(2017, 11, 18, 16, 0, 8)",Rio de Janeiro,Rio de Janeiro,"(2016, 10, 5, 17, 0, 15)",Facebook,Website
+387,987313ac2d5499f6ffb749a99a00e1fbb6b506a71d22617f69c7b834c22e6974,ESTÁCIO,Direito,Mensal,"(2017, 11, 5, 16, 23, 55)",Rio de Janeiro,Rio de Janeiro,"(2016, 10, 6, 14, 32, 17)",Google,Website
+388,8ecb29a283011b2efbf26be8db4b2dea2992a9240c33335876ce6d2232a565cc,ESTÁCIO,Administração,Mensal,"(2017, 11, 7, 20, 24, 27)",Rio de Janeiro,Petrópolis,"(2016, 10, 6, 15, 50, 43)",Facebook,Website
+389,ccfe0ee78d5a6b9af683e5ed8a517ceb310f557a2a2c3af777f076d409b5db03,ESTÁCIO EAD,Sistemas de Informação / Informática,Mensal,"(2017, 11, 6, 2, 25, 42)",Rio de Janeiro,Bom Jesus do Itabapoana,"(2016, 10, 7, 3, 30, 50)",Facebook,iOS | 10.0.2
+390,239367f0e2645ea71ffbef7a7abfea6dfa2c5cc96df00d59a661bda1d7db747a,UFMG,Matemática,Mensal,"(2017, 11, 5, 16, 19, 0)",Minas Gerais,Bambui,"(2016, 10, 9, 18, 0, 11)",Google,Website
+391,0654c4dbde8abbf6b12698fa4529719b44d2453a6a1362d631d4cb579ab6d3c2,UNIP,Psicologia,Mensal,"(2017, 11, 13, 1, 54, 8)",Goiás,Goiânia,"(2016, 10, 10, 16, 53, 12)",Facebook,
+392,be775fcd5f3d392179c5c77eeafe0e966512651693c578043497f179a67935aa,ESTÁCIO,Administração,Mensal,"(2017, 11, 13, 15, 17, 43)",Ceará,Fortaleza,"(2016, 10, 11, 10, 40, 31)",Google,
+393,548b50e368a315b6a4e98bc63770fadd7bec97a24361836b4e33739df54d7660,CEUT,Direito,Mensal,"(2017, 11, 4, 21, 14, 38)",Piauí,Teresina,"(2016, 10, 11, 21, 53, 26)",Facebook,Webapp
+394,31811d2d1d1468496778fd1bf8b16aa5b3a2aa19f0e6f97eba397407803cccdc,FAL,Direito,Mensal,"(2017, 11, 7, 13, 7, 9)",,,"(2016, 10, 13, 19, 48, 33)",Email,PDJobs
+395,743df72cde8826573a41be390525454531e0d57e57ca36b072ea66b9ceec5bc6,ESTÁCIO,Psicologia,Anual,"(2017, 11, 12, 20, 25, 46)",Rio de Janeiro,Rio de Janeiro,"(2016, 10, 14, 11, 44, 13)",Facebook,Website
+396,4be154b5f3fd9b14d5151e03b25cd40405b47065ea3c3b9a79e1ab3797571504,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 18, 12, 45, 52)",Maranhão,Imperatriz,"(2016, 10, 15, 14, 29, 16)",Google,
+397,13e87c5f9e8a57c94139e883f82742d07990b2c098abc004e925fa4e68c31250,ESTÁCIO,Gestão Pública,Mensal,"(2017, 11, 14, 18, 21, 3)",Goiás,Goiânia,"(2016, 10, 16, 20, 51, 55)",Google,
+398,5c1807a68d9821ad831bbe3eb610e4db3f191753fd68d6c75965a13790fb1ba1,ESTÁCIO,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 15, 16, 21, 32)",Pernambuco,Recife,"(2016, 10, 17, 18, 10, 28)",Google,
+399,6efc18b52c122b65bfcd28c8bc6aaba451b00097d26396777f59161daebe6bda,UFS,Processos Gerenciais,Mensal,"(2017, 11, 7, 17, 28, 28)",Sergipe,Aracaju,"(2016, 10, 18, 16, 42, 5)",Facebook,Website
+400,fe51a65fec41386b104425a9f2a2de6e0ef4ed240304b5abf8b6c889b7fd46d7,UNOPAR,Letras e Línguas - Estudos Linguísticos,Mensal,"(2017, 11, 3, 13, 31, 48)",Alagoas,Maceió,"(2016, 10, 23, 17, 58, 56)",Facebook,Website
+401,7dd35421b1f583f319bb5a8070ab4b76cccd57627e003d80bc1aa7d2da13b9ff,FACEAR,Engenharia Elétrica,Mensal,"(2017, 11, 29, 11, 24, 7)",,,"(2016, 10, 23, 21, 47, 55)",Google,Website
+402,6f0b30e043eec2c52d4616fa73693f211f8355a408bef47b372c81f4712fcef0,ESTÁCIO,Educação Física,Mensal,"(2017, 11, 14, 21, 11, 7)",Minas Gerais,Igarape,"(2016, 10, 26, 11, 42, 54)",Facebook,Website
+403,aed435333493c8c4d540933d04f8625145fb970f3a85c502c890c27915548f28,UCB,Veterinária / Medicina Veterinária,Mensal,"(2017, 11, 30, 19, 8, 16)",Rio de Janeiro,Rio de Janeiro,"(2016, 10, 28, 17, 15, 38)",Facebook,Website
+404,d91f09fa0dc5107382d2c0ac561e87efa79c2d3fba21b5e51aaeae659f24eb3a,ESTÁCIO EAD,Administração,Anual,"(2017, 11, 2, 12, 30, 29)",Rio de Janeiro,Rio de Janeiro,"(2016, 10, 29, 16, 55, 17)",Google,Android | 6.0 | sdk 23
+405,9924d5953385b526a0843761623c9fd8ab92b281ee111cca28d7946c0b481a42,UNINTER,Pedagogia,Anual,"(2017, 11, 16, 11, 24, 8)",Minas Gerais,Montes Claros,"(2016, 11, 2, 17, 45, 42)",Facebook,
+406,873d66e93f275a1214afd3d899a9e094528ef726a35cc6f21dde404d765df254,CEUCLAR,Engenharia de Energia,Mensal,"(2017, 11, 6, 15, 40, 42)",São Paulo,Carapicuíba,"(2016, 11, 4, 14, 48, 4)",Facebook,
+407,37f09c6df8b9a7d28745c3b81ab656bc2a55e58fcae23ff2231ae613e68938b5,ESTÁCIO,Gestão da Informação,Mensal,"(2017, 11, 4, 15, 49, 12)",Rio de Janeiro,Rio de Janeiro,"(2016, 11, 5, 10, 17, 26)",Facebook,Website
+408,60121859445e584026150b7cdd2220917b87b20f0c7558398e913c25cd5c535a,ESTÁCIO EAD,Pedagogia,Mensal,"(2017, 11, 4, 17, 9, 36)",Amazonas,Manaus,"(2016, 11, 5, 19, 1, 54)",Facebook,Website
+409,5c20a3585999b22b230bfafc947ef87aa565d54d4d649fbbe03929c590ea7de4,UNINTER,Licenciatura em Filosofia,Mensal,"(2017, 11, 3, 11, 28, 27)",Rio Grande do Sul,Cachoeirinha,"(2016, 11, 6, 13, 28, 31)",Facebook,
+410,568a5c0c077019fbe613e44e0a70c31900cb309dac7f04f18b94cfcae4f92c09,ESTÁCIO,Administração,Mensal,"(2017, 11, 9, 23, 54, 10)",Rio de Janeiro,Rio de Janeiro,"(2016, 11, 8, 20, 21, 18)",Facebook,
+411,78fde7f831c5e36fc6457a9e1ef4363443ea0cbee4760d66eb7737c76d9b3777,ESTÁCIO,Nutrição,Mensal,"(2017, 11, 17, 10, 3, 47)",Pernambuco,Paudalho,"(2016, 11, 12, 14, 51, 6)",Facebook,iOS | 10.1.1
+412,cfe60335fffc0b062c158a987e3931e288f4eb23924218ee79e36cdce426eea6,ESTÁCIO EAD,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 10, 0, 35, 49)",Ceará,Fortaleza,"(2016, 11, 16, 22, 1, 0)",Google,Webapp
+413,cd6cee968508a672f16a218ddfd09c04436136a251c1b6568055e5054dab9ba3,UNIUBE,Engenharia Civil,Anual,"(2017, 11, 10, 12, 47, 27)",Minas Gerais,São João del Rei,"(2016, 11, 16, 23, 31, 28)",Google,
+414,6ac7997d49b9adc94d9692c58ef0c61c56696e99bcdfa8345939cd23c4346066,ESTÁCIO EAD,Gestão de Comércio / Gestão Comercial,Mensal,"(2017, 11, 14, 15, 4, 19)",Rio Grande do Norte,Natal,"(2016, 11, 19, 10, 31, 56)",Facebook,Webapp
+415,f0f7742be3382e5923bd99cb48c04b6c5982100b9c68bc8d21d5fc69f168c324,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 7, 18, 24, 35)",Rio de Janeiro,Rio de Janeiro,"(2016, 11, 19, 12, 28, 9)",Facebook,Android | 4.4.2 | sdk 19
+416,d5b005b2e43f99816e5043f72b2c60d91949ba7cb1e82d91f104e79d3fdc371d,ESTÁCIO,Gestão de Recursos Humanos,Mensal,"(2017, 11, 19, 15, 22, 43)",Mato Grosso do Sul,Campo Grande,"(2016, 11, 20, 12, 36, 27)",Facebook,Website
+417,359d0031075f23a746768340356f3d37f1785bfd913ea1b3c25024b92dee395e,ANHANGUERA,Logística,Mensal,"(2017, 11, 16, 0, 8, 22)",Pernambuco,Igarassu,"(2016, 11, 21, 0, 8, 7)",Facebook,Website
+418,04794a01a26bd4edf314f9f8edcde6089afbd3d948cefed940c1dc8a4fb2f917,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 5, 21, 35, 52)",Pará,Belém,"(2016, 11, 21, 10, 3, 4)",Facebook,
+419,1cef657dce57b659e977edbe83389e6d0de7f6f4ed762084ce4b863750e1fe9c,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 6, 22, 32, 46)",Rio de Janeiro,Porto Real,"(2016, 11, 21, 21, 2, 39)",Google,Android | 6.0 | sdk 23
+420,7b851e92d0361022b653c9fcf8ffe81c6399eaffb3a4f2381522e445998c70dc,ESTÁCIO,Direito,Mensal,"(2017, 11, 20, 0, 45, 27)",Ceará,Maracanau,"(2016, 11, 22, 1, 16, 29)",Facebook,
+421,bf4bab26a4d26ef5c9d1fba85c5b5a0b3e235ebddab3012c47be85c211bf698e,ESTÁCIO,Manutenção Industrial,Mensal,"(2017, 11, 5, 19, 2, 39)",Pará,Ananindeua,"(2016, 11, 22, 23, 18, 38)",Google,Website
+422,f78c0e8b9e93b8a5f88c15300b9e91d059f82e7fb222e5976b536825b559bf1e,UNIP,Pedagogia,Mensal,"(2017, 11, 30, 15, 47, 31)",São Paulo,São Paulo,"(2016, 11, 23, 16, 4, 2)",Facebook,Website
+423,09fc09c52356ca9251882b1641879004ee7e513533ef6e77633c6abc5bc2e169,UNIP,Pedagogia,Mensal,"(2017, 11, 10, 23, 29, 52)",São Paulo,Campinas,"(2016, 11, 25, 11, 45, 48)",Facebook,
+424,df54c5af7b69574cfce26e6896ce34d157a67f46372e4b6c191dd898f79e6131,UNINTER,Administração,Mensal,"(2017, 11, 8, 21, 24, 51)",Paraná,Curitiba,"(2016, 11, 27, 18, 50, 59)",Google,Website
+425,1e2581b7170ed8bf457cf4a78100fe8ea5ba3c2bd663e0fd1a3c4d263da5bdb0,ESTÁCIO,Direito,Mensal,"(2017, 11, 3, 17, 38, 53)",Ceará,Fortaleza,"(2016, 11, 28, 9, 49, 43)",Facebook,iOS | 10.1.1
+426,d05352a48a962400e87b2cd78e958ab8274c2059b9dcda066ee4dcac63d36fcf,UNINTER,Administração,Mensal,"(2017, 11, 24, 20, 24, 14)",Rio Grande do Sul,Porto Alegre,"(2016, 11, 29, 13, 35, 2)",Facebook,Website
+427,fe4cbd343204c83d8e98d7740d278ca4534189ec953362c00bd4ceb8dcf9658d,UNINTER,Engenharia de Produção,Mensal,"(2017, 11, 3, 21, 40, 32)",São Paulo,Nova Odessa,"(2016, 11, 30, 18, 36, 26)",Facebook,Website
+428,c00945a4cda820e40abeac9eddd15e07cdf70bc2235e9fe61b54fb1400b68f50,ESTÁCIO,Psicologia,Mensal,"(2017, 11, 9, 12, 30, 46)",Rio de Janeiro,Rio de Janeiro,"(2016, 12, 3, 21, 54, 13)",Facebook,
+429,833181ee42b27feb1e7535059af68189825d494a1693a3e285b4b1d50053d3ee,ESTÁCIO,Engenharia Industrial Elétrica,Mensal,"(2017, 11, 4, 13, 45, 13)",Paraná,Almirante Tamandare,"(2016, 12, 5, 11, 23, 18)",Facebook,
+430,ec9776dca98c2c82e87ebad795d14ab97aff157f3ac83d675b0be88f8f4c8bed,FAC,Direito,Mensal,"(2017, 11, 9, 16, 18, 47)",,,"(2016, 12, 5, 19, 6, 2)",Google,
+431,0add9f56a1b6bf1d75d9b546e2dd6a36286d7f83293af94983362b6704d5d85f,ESTÁCIO,Psicologia,Mensal,"(2017, 11, 4, 14, 10, 49)",Rio de Janeiro,Rio de Janeiro,"(2016, 12, 6, 15, 3, 33)",Facebook,Website
+432,39c69cd9e2ef36b35202c0ab3b4c0693b1e2752d8ec6ecb2babed97bda40e463,ESTÁCIO,Farmácia / Ciências Farmacêuticas,Anual,"(2017, 11, 19, 20, 4, 38)",Santa Catarina,Florianópolis,"(2016, 12, 7, 7, 59, 27)",Google,Website
+433,485429e1456118612f19f3206aeb7f60763f93800c0c309f3b9c52324f4f0d5a,ESTÁCIO,Gestão de Comércio / Gestão Comercial,Mensal,"(2017, 11, 8, 12, 21, 13)",Rio de Janeiro,Rio de Janeiro,"(2016, 12, 9, 12, 11, 55)",Facebook,iOS | 10.1.1
+434,c69c32bcc8afdf20c3c24b2630dae60b20f1fc38470a8a2e99ae9f6ba871b4f9,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 8, 2, 8, 49)",Rio de Janeiro,Duque de Caxias,"(2016, 12, 13, 8, 52, 26)",Facebook,Webapp
+435,344a5af7bc7985aa441e78eece9713b11c648df2d1ceb2cf1b2a5a426d1c4217,ESTÁCIO,Engenharia Automotiva,Mensal,"(2017, 11, 5, 15, 8, 22)",Ceará,Fortaleza,"(2016, 12, 15, 6, 41, 5)",Google,
+436,8f8ba1be795546e58d394b49520c036ca657c899847537448923c08a00f7fed8,UPE,Estética e Cosmética,Mensal,"(2017, 11, 13, 18, 53, 10)",Bahia,Salvador,"(2017, 1, 6, 10, 57, 15)",Facebook,
+437,605653ec348554bdf64f67f8d3bcb07f765bd0d6db0bd5f8ec876b3958d66e83,UNISUAM,Engenharia Mecânica,Mensal,"(2017, 11, 21, 19, 4, 20)",Rio de Janeiro,Rio de Janeiro,"(2017, 2, 17, 19, 10, 46)",Google,Webapp
+438,da9a2386526464ed2ecff9323b15b4d919d7e0e5c0333dd0e1d348af74b9198a,UNIASSELVI,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 7, 9, 54, 49)",Amazonas,Manaus,"(2017, 2, 20, 8, 48, 59)",Google,Website
+439,6cad897b993d732fe026ecd64b210e0bb3b5ad7ba8b70fbb04574b06e6240bd6,ESTÁCIO,Administração,Mensal,"(2017, 11, 7, 10, 29, 37)",Rio de Janeiro,Rio de Janeiro,"(2017, 2, 20, 11, 11, 16)",Facebook,
+440,6dc335edd6c3651d796fa0fcd8394d44a1d31c245f1dbdc8b7814fa81a73d5e1,PITÁGORAS,Fisioterapia,Mensal,"(2017, 11, 28, 19, 58, 17)",Bahia,Salvador,"(2017, 2, 21, 15, 29, 36)",Google,Website
+441,83b8bc95954bfc654b6712fc74719a90db3b0bde795504f8dc0b8e550b8c7e29,UNIC,Engenharia Elétrica,Mensal,"(2017, 11, 27, 0, 12, 23)",Mato Grosso,Barra do Garças,"(2017, 2, 27, 18, 24, 25)",Google,
+442,0bbc8266e06bb64aa1f7f1507a74c924a3e7cb60115d05c34b3fbd460b22b7a2,ESTÁCIO EAD,Letras - Português e Inglês,Mensal,"(2017, 11, 13, 20, 34, 40)",São Paulo,São Paulo,"(2017, 3, 2, 8, 46, 16)",Google,Website
+443,99f82136a17deae68b1529497414a0fca8103e27da9d9242ce555659cf6fbc9d,UNINTER,Engenharia Industrial Elétrica,Anual,"(2017, 11, 12, 22, 58, 1)",Minas Gerais,Lavras,"(2017, 3, 6, 21, 20, 11)",Google,
+444,87cce83eed561251b612a35d42a9a5b752d1b6bc66f1b1e816ec93fa311eb522,UNINTER,Secretariado e Secretariado Executivo,Mensal,"(2017, 11, 13, 12, 54, 42)",Distrito Federal,Brasília,"(2017, 3, 9, 8, 43, 59)",Google,Website
+445,2cdff053d4365be1d983a4b1aeb32a377a720fdc3caeaf990d654c79e49b772e,UNINTER,Pedagogia,Mensal,"(2017, 11, 6, 22, 54, 3)",Rio Grande do Sul,Canela,"(2017, 3, 10, 13, 35, 46)",Facebook,Website
+446,12c089d0b4cfe485879c14ce476e8d271e59b5d220f96dc49e61f6426ad9d637,ESTÁCIO,Engenharia Civil e Ambiental ,Anual,"(2017, 11, 12, 0, 34, 3)",Santa Catarina,Sao Jose Do Cedro,"(2017, 3, 11, 8, 42, 28)",Google,Website
+447,ddd168ef48b0a9efe86c3075c8532572cc3800fecc8963fd9f72a7177bd5eab8,ESTÁCIO EAD,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 14, 8, 28, 59)",Rio de Janeiro,Duque de Caxias,"(2017, 3, 12, 17, 29, 48)",Facebook,Website
+448,b700df2a5319ea7e6d397d10b8ea5770992538dc5e0864403e976c51e4f73e2c,UNIP,Letras - Português e Inglês,Mensal,"(2017, 11, 16, 22, 35, 54)",São Paulo,São Paulo,"(2017, 3, 13, 21, 24, 14)",Facebook,Website
+449,9ccedca1542a941d59003380ecd8a094853fa955484b60b5fbd1a040373bf377,UNINTER,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 27, 20, 7, 20)",São Paulo,São José do Rio Preto,"(2017, 3, 13, 22, 40, 50)",Google,
+450,fc25934aa7ac26b30d9e0dab682289a140c25fda36544c7fb0a02121c52bb08d,Anhanguera,Gestão Pública,Mensal,"(2017, 11, 21, 1, 55, 32)",Pernambuco,Limoeiro,"(2017, 3, 15, 0, 5, 7)",Facebook,
+451,e40eac2cea93366143770be6e8e55281ed70c204b0159d7e284e8c0be5ebdc75,IFSP,Engenharia de Controle e Automação,Anual,"(2017, 11, 23, 14, 27, 1)",São Paulo,Sorocaba,"(2017, 3, 15, 9, 16, 27)",Facebook,Website
+452,7608210e32088d983ee5be9c10565ca2dd191cde6c4455b368b83e51ba7b0882,ESTÁCIO EAD,Direito,Mensal,"(2017, 11, 19, 23, 14, 16)",Rio Grande do Sul,Novo Hamburgo,"(2017, 3, 15, 14, 39, 6)",Google,Website
+453,5c5a4bd98c3b5a7b434fc447e4742095cec3a8a9472ce7bf7519389e869919a3,ESTÁCIO,Administração,Anual,"(2017, 11, 9, 18, 0, 32)",Rio de Janeiro,Rio de Janeiro,"(2017, 3, 16, 20, 53, 28)",Facebook,iOS | 10.2.1
+454,4a5038866f771fe9a7cdd4eb74ea17a31c312f7c1bdd3ae18af03ac44c381f7d,URI,Engenharia Agronômica,Mensal,"(2017, 11, 4, 18, 39, 38)",Rio Grande do Sul,Porto Alegre,"(2017, 3, 17, 11, 7, 1)",Facebook,Website
+455,17181e315b7773a550da55676f84b707669c7209b5c6fa089d41bd08c10af774,UFC,Engenharia da Computação,Mensal,"(2017, 11, 20, 20, 44, 9)",Ceará,Icó,"(2017, 3, 19, 11, 28, 24)",Google,Android | 5.1 | sdk 22
+456,8d436ef3fa7bc2a732c77c5c02c6dba256aaca0288b88560b2213e30e94a088b,ESTÁCIO,Direito,Mensal,"(2017, 11, 5, 19, 4, 0)",Rio de Janeiro,Rio de Janeiro,"(2017, 3, 19, 22, 17, 17)",Facebook,
+457,eca5da5fcef047528c1489b02640ee0920731dedb05fe4c7e00ed89ef578b7d1,ESTÁCIO,Pedagogia,Mensal,"(2017, 11, 19, 13, 11, 24)",São Paulo,Campinas,"(2017, 3, 19, 22, 30, 54)",Facebook,
+458,ff630d650d3cb2461b5b4c8494523e064542ba1e77dd23b204dba3a027deaae0,UNISEB,Engenharia de Produção,Mensal,"(2017, 11, 12, 18, 11, 39)",,,"(2017, 3, 20, 9, 16, 35)",Google,Website
+459,835b397c856f2d4a1ddeb3c533e6ef3ca6ef8c7b6152b10d11c211de91c48848,Anhanguera,Gestão Financeira,Mensal,"(2017, 11, 22, 10, 48, 43)",São Paulo,São Paulo,"(2017, 3, 20, 14, 22, 24)",Google,Website
+460,d544fa0266f96929ff01e14b605466fe25765c607cb498c841acb095cbe89902,ESTÁCIO,Gestão da Segurança,Mensal,"(2017, 11, 11, 21, 42, 11)",Espírito Santo,Vitória,"(2017, 3, 20, 21, 33, 58)",Google,
+461,4d5c11cf653fe26624853be5382253bca60cd0008c4e44e68557d58026e1e6b9,ESTÁCIO,Direito,Mensal,"(2017, 11, 13, 13, 14, 6)",Bahia,Barreiras,"(2017, 3, 21, 17, 49, 8)",Facebook,Website
+462,5e4eba715d0b881ddeebb4087c72532677f7d026a3f09ab44c1312b85a44ef05,ESTÁCIO,Fisioterapia,Mensal,"(2017, 11, 4, 15, 37, 2)",Paraná,Cornélio Procópio,"(2017, 3, 21, 20, 16, 55)",Facebook,iOS | 10.2.1
+463,3e2e520349090a4e899f3706310f3ad836d7d4fae997c2dd5cf73d20a5c7e872,ESTÁCIO EAD,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 10, 14, 31, 5)",Rio de Janeiro,Marica,"(2017, 3, 23, 11, 53, 48)",Google,Website
+464,77f8dde84cff7744498a3426866c40d7b9654e663db65ce99e50c3bf8bc2474f,UFC,Ciência da Computação,Mensal,"(2017, 11, 17, 16, 24, 10)",Ceará,Fortaleza,"(2017, 3, 23, 17, 48, 21)",Google,Website
+465,fc79d73e9ef959fcd55adee4866e8f40e2bd49efd893d96ba50f0eb0f3852f37,ESTÁCIO,Nutrição,Mensal,"(2017, 11, 11, 23, 41, 53)",Santa Catarina,Joinville,"(2017, 3, 23, 21, 11, 29)",Facebook,
+466,e7cd41feeb5b75e012d1b5194d0e50c528e6b438b55fd6a1389f8f199eeed259,ESTÁCIO,Nutrição,Mensal,"(2017, 11, 1, 20, 58, 50)",Sergipe,Propria,"(2017, 3, 25, 15, 17, 53)",Facebook,Website
+467,59b6af9a36f0fe8917f79dd5b573c0d1e54dda706eb729fc60ffe53b427c1245,UNIP,Pedagogia,Mensal,"(2017, 11, 22, 0, 47, 21)",São Paulo,São Paulo,"(2017, 3, 25, 21, 54, 44)",Facebook,Website
+468,4f86380604a031c5c1ad872f60e17e2ee9c094dc3382355d2116eb011e4cfdce,ESTÁCIO,Nutrição,Mensal,"(2017, 11, 4, 23, 50, 51)",Rio de Janeiro,Rio de Janeiro,"(2017, 3, 26, 17, 40, 36)",Google,
+469,0ab82167506414cdd6d8fa2898ff3ce50c076203078c99cc55d870b399df6909,ESTÁCIO EAD,Letras e Línguas - Português,Mensal,"(2017, 11, 12, 13, 49, 35)",Ceará,Fortaleza,"(2017, 3, 27, 17, 44, 1)",Facebook,
+470,8f6ebd51216a1e02da4858a38ab996a063f0108cd7e018adbfb46972f583057f,UNINTER,Matemática,Mensal,"(2017, 11, 30, 20, 37, 9)",São Paulo,Tatuí,"(2017, 3, 28, 19, 42, 21)",Facebook,
+471,69169c99faca350fccc904bdf512d8d695309a5d4fc48b05e7c7fbbb4885323e,UNIP,Serviço Social,Anual,"(2017, 11, 20, 16, 51, 31)",São Paulo,Osasco,"(2017, 3, 29, 11, 54, 57)",Facebook,Website
+472,76a446ef91e6a0d9a49373055cfc96e742e45f17922d0fe522ab07781f5b9705,ESTÁCIO EAD,Pedagogia,Mensal,"(2017, 11, 1, 14, 17, 44)",Goiás,Goias,"(2017, 3, 31, 20, 18, 46)",Facebook,Website
+473,ce0eb4fafdc4b8d6339c077f4d0833a66a3c60c993c8bddac038366e26b73729,UNIP,Biologia / Ciências Biológicas,Mensal,"(2017, 11, 28, 20, 17, 0)",São Paulo,Barra Bonita,"(2017, 4, 1, 16, 47, 5)",Google,Website
+474,08a4425d784ce5494a82912376e5d739978cefa2e1db756b7a31e159cb549765,UNISEB,Administração,Mensal,"(2017, 11, 13, 12, 35, 5)",,,"(2017, 4, 3, 13, 53, 22)",Google,Website
+475,f6c59315b76f3783625474396801e33f4f190f7eeb1fbfdea36c36eb9e3ddbfe,UNINTER,Pedagogia,Mensal,"(2017, 11, 12, 20, 41, 3)",São Paulo,Avaré,"(2017, 4, 4, 11, 22, 42)",Facebook,
+476,1060f13f2ae2f1df2101e3d264a1fb9780be6d7f39de2455578a690cdd0a6c00,Anhanguera,Gestão Logística,Mensal,"(2017, 11, 17, 0, 26, 25)",Rio Grande do Sul,Porto Alegre,"(2017, 4, 6, 11, 21, 41)",Facebook,
+477,2bc623e13b4aa3b33bac6d9a595607b300836fe775b54cba355b76745946ac64,ESTÁCIO,Biomedicina,Mensal,"(2017, 11, 3, 23, 21, 54)",Maranhão,São Luís,"(2017, 4, 6, 17, 29, 7)",Facebook,Website
+478,7b63067f9475c2e824608e412d1014e289997f9730cf918e975237136104016e,ESTÁCIO EAD,Processos Gerenciais,Mensal,"(2017, 11, 1, 0, 30, 50)",Rio de Janeiro,Rio de Janeiro,"(2017, 4, 7, 9, 26, 36)",Facebook,
+479,7b63067f9475c2e824608e412d1014e289997f9730cf918e975237136104016e,ESTÁCIO EAD,Processos Gerenciais,Mensal,"(2017, 11, 30, 8, 34, 57)",Rio de Janeiro,Rio de Janeiro,"(2017, 4, 7, 9, 26, 36)",Facebook,
+480,c594450386c4558f1c7b3db5d6491700dc16c8e938fa8cdf0bfd0031ee5a9d7c,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 12, 14, 35, 58)",Rio de Janeiro,Rio de Janeiro,"(2017, 4, 8, 8, 44, 28)",Facebook,
+481,8eaf4e545ad5d00bb0bb766df27b31acfaafb6f3ec4bc36604631da5c7618424,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 14, 0, 53, 22)",Rio de Janeiro,Niterói,"(2017, 4, 9, 2, 8, 4)",Facebook,
+482,8b38890f41f35f1f9399f6a3cf1ec397d5c01f1c41b9b682e19509901c3cd29f,ESTÁCIO,Direito,Mensal,"(2017, 11, 4, 18, 43, 38)",Rio de Janeiro,Rio de Janeiro,"(2017, 4, 9, 9, 7, 36)",Facebook,
+483,0eac105dc7aaf66ac61965ad5dbc0aea4d46adfab45b65c9d73f6d2b344a42ec,UNIP,Pedagogia,Mensal,"(2017, 11, 13, 10, 25, 17)",São Paulo,Serra Negra,"(2017, 4, 9, 19, 25, 53)",Facebook,
+484,cfbb0c85eb4c8fdfcf7be08466b151a893834a72dfb52cacf520f87fc918a83b,ESTÁCIO,Administração,Mensal,"(2017, 11, 16, 15, 15, 37)",São Paulo,Boituva,"(2017, 4, 10, 16, 3, 1)",Facebook,
+485,4dd2870e46a5055111feed1283a08a32bdabf3a482db6e8774257adcabfbdc8c,ESTÁCIO,Pedagogia,Mensal,"(2017, 11, 13, 20, 57, 17)",Pernambuco,Paudalho,"(2017, 4, 11, 13, 47, 13)",Google,
+486,be6d67ac4dfaac2ff7381ab68193af102dfbe75fcfa92f92f48e0ab20c31fb5d,FAITER,Análise e Desenvolvimento de Sistemas,Anual,"(2017, 11, 6, 21, 58, 13)",,,"(2017, 4, 11, 23, 49, 36)",Google,
+487,2b8f1f5560c5ff3db80e651265ef4dc34949c06c62ec8f72411031e6f3d5fded,ESTÁCIO EAD,Pedagogia,Anual,"(2017, 11, 13, 17, 31, 46)",Rio de Janeiro,Campos dos Goytacazes,"(2017, 4, 12, 23, 17, 13)",Google,
+488,7c88ca8f80a2cdfc9d24fea9b98572b7338e3deaef026624c9055d1256ca8834,ESTÁCIO EAD,Engenharia Elétrica,Mensal,"(2017, 11, 20, 11, 49, 17)",Rio de Janeiro,Miguel Pereira,"(2017, 4, 13, 9, 11, 26)",Google,
+489,0bd726f27c8ab835bf1e904e374424d2fa6a17706f05e26b56b371fb28608124,UNIP,Pedagogia,Anual,"(2017, 11, 15, 3, 54, 46)",São Paulo,Buritama,"(2017, 4, 13, 21, 46, 27)",Facebook,
+490,4860f72248b8c41c1af0a5cf08b9d64e28ecd27ab2960fe40764912a5af09f5f,FMABC,Farmácia / Ciências Farmacêuticas,Mensal,"(2017, 11, 19, 23, 0, 7)",São Paulo,Santo André,"(2017, 4, 14, 17, 56, 15)",Facebook,
+491,a283adf2d87a37e169f3a4e98c096886ae4701a183e5d28a74707ddf1898717a,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 8, 17, 51, 35)",São Paulo,Ribeirão Preto,"(2017, 4, 16, 17, 33, 19)",Facebook,
+492,18fb976986f04eccc0233be844dd1c514bceaaf7577967faf6339e0dae79ce72,UNIP,Tecnologia da Informação,Mensal,"(2017, 11, 8, 13, 50, 20)",Pernambuco,Salgueiro,"(2017, 4, 16, 22, 12, 51)",Google,
+493,b7fa67e2c8d36b1009032861200f35c77411d61641d4bda216a9a5bef68fecd9,ESTÁCIO,Direito,Mensal,"(2017, 11, 5, 10, 6, 7)",Rio Grande do Sul,Porto Alegre,"(2017, 4, 18, 2, 17, 46)",Google,
+494,5cfc8e5d1ef2c2df8ac9e9ac4b6a834ee07daf17438dc23ddde48d1ecdb30243,UNISUAM,Administração,Mensal,"(2017, 11, 8, 23, 43, 20)",Rio de Janeiro,Rio de Janeiro,"(2017, 4, 18, 18, 58, 20)",Facebook,
+495,bf3282ded0a6292ba29688325540752940a6565bed6b404d4e6c2fbac30c53e8,ESTÁCIO,Direito,Mensal,"(2017, 11, 5, 1, 37, 16)",Ceará,Fortaleza,"(2017, 4, 19, 14, 54, 43)",Facebook,
+496,a721b31f2f50635684bab8b0e8ac8795abaeb18c836e196e9fa5906a1e9a5b69,UNINTER,Gestão Financeira,Anual,"(2017, 11, 14, 18, 51, 43)",Minas Gerais,Belo Horizonte,"(2017, 4, 20, 20, 26, 4)",Google,
+497,c90ce994f4d64b913ed9f7e81d881aa9a8b29adb70f72bcb266bd4479602e5ed,UNIP,Pedagogia,Mensal,"(2017, 11, 17, 19, 3, 55)",Distrito Federal,Brasília,"(2017, 4, 21, 8, 26, 35)",Facebook,
+498,67b424beda775716f6e4196b05b7ee8f6aa7dd0dc2fb2d263fb4e95dcfffb91d,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 8, 13, 32, 52)",Minas Gerais,Esmeraldas,"(2017, 4, 22, 14, 39, 0)",Google,
+499,dcfc1ec2d7afa26dd4978951548cc5c0b1bd47e8443ab3a48f4f59c51ab975e8,ESTÁCIO,Educação Física,Mensal,"(2017, 11, 15, 22, 8, 4)",Rio de Janeiro,Rio de Janeiro,"(2017, 4, 24, 17, 12, 3)",Facebook,
+500,a70148ecc7d5847d501ab609833539cdaa626a3cbef127bfda70e7d4bdcf1631,ESTÁCIO EAD,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 4, 13, 13, 51)",Rio de Janeiro,Petrópolis,"(2017, 4, 25, 15, 27, 42)",Google,
+501,b070c883042663dc44186c54a18d3e2dca1e39e14f45e5771e6d04f14d03026b,ESTÁCIO,Educação Física,Mensal,"(2017, 11, 4, 20, 10, 30)",Rio de Janeiro,Macaé,"(2017, 4, 26, 13, 8, 38)",Google,Website
+502,1b1c56353e37afd56c34f77bc1ce6a434a8430264b83dbb0c856104b628c0dd0,ESTÁCIO EAD,Letras - Português e Inglês,Mensal,"(2017, 11, 6, 16, 18, 11)",Rio de Janeiro,Duque de Caxias,"(2017, 4, 26, 16, 4, 47)",Google,Website
+503,c59a76823199ae085ceb9fc7cde19f4015e35697b6944ed8e7c066c43fc153e1,ESTÁCIO,Tecnologia da Informação,Mensal,"(2017, 11, 10, 21, 29, 40)",São Paulo,Campinas,"(2017, 4, 29, 18, 41, 14)",Facebook,Website
+504,856171af96b3005810ee8032527d092104dc7fc64d0833be272a0ed69e531894,UNIP,Psicologia,Anual,"(2017, 11, 18, 9, 56, 16)",São Paulo,Valinhos,"(2017, 5, 1, 14, 23, 16)",Google,iOS | 10.3.1
+505,d2c9aacdfac1b815c23d84644fa2d527011bf3df868f230e26c265cc2d1481bd,ESTÁCIO EAD,Gestão de Qualidade,Mensal,"(2017, 11, 9, 0, 18, 58)",Pernambuco,Olinda,"(2017, 5, 1, 19, 24, 56)",Facebook,Website
+506,d5273caf06372762437e24009fec5148060dc661f73a50c325697d4b49af5bb4,FAL,Direito,Mensal,"(2017, 11, 1, 13, 12, 33)",,,"(2017, 5, 4, 10, 14, 16)",Facebook,Website
+507,bfbc1452a349d277eac366cf7f6743d3fe507708293af4280bdc2b4c3a4b3fba,UNIP,Psicologia,Anual,"(2017, 11, 10, 1, 2, 30)",São Paulo,Tambau,"(2017, 5, 4, 18, 48, 2)",Facebook,Website
+508,b75eadd0ec29ef8eab43357c6dbd4e686036a0bff92f7f09535cf6cd8e0c73e8,ESTÁCIO,Direito,Mensal,"(2017, 11, 6, 1, 23, 35)",Rio de Janeiro,Rio de Janeiro,"(2017, 5, 4, 21, 29, 4)",Google,Website
+509,b082e377d9e03b12d4074a3c54c2634814a05b385b9413d7c022ab3d10719c22,ESTÁCIO,Enfermagem,Mensal,"(2017, 11, 3, 2, 1, 59)",Amazonas,Manaus,"(2017, 5, 6, 23, 50, 49)",Facebook,Website
+510,8c91bcb992b1b6d818cabbc89c071e55369eb28a31c1b1ad8d1155192cd5383c,ESTÁCIO,Administração,Mensal,"(2017, 11, 5, 17, 49, 23)",Rio de Janeiro,Niterói,"(2017, 5, 8, 9, 40, 27)",Google,Website
+511,1e64ffd09efc438754599ab0071b329e97435ae101c70739ec3774f007255e7a,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 19, 22, 51, 29)",Rio de Janeiro,Iguaba Grande,"(2017, 5, 8, 19, 19, 37)",Google,Website
+512,bfe18b0d12f610cb57b02bf20300ab3fd19bbc7817263689de93f8b23b299121,ESTÁCIO,Pedagogia,Mensal,"(2017, 11, 2, 21, 18, 45)",São Paulo,São Joaquim da Barra,"(2017, 5, 9, 23, 10, 19)",Facebook,Android | 6.0.1 | sdk 23
+513,09c87ee48abf0467a5a9b45f0105d93ebf87e4b0f571a2b8a6d315f3eed4ee88,ESTÁCIO,Nutrição,Mensal,"(2017, 11, 6, 22, 40, 13)",Santa Catarina,Porto Belo,"(2017, 5, 10, 18, 12, 15)",Facebook,Website
+514,507316240ee280387b2e77a3ff73dfe66a86d03278f2c08c2a5ff97acea7adbc,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 4, 13, 51, 51)",Rio de Janeiro,Rio de Janeiro,"(2017, 5, 13, 17, 17, 46)",Facebook,Webapp
+515,5fe71d91ee783fcb58b114e02c8085c4ebce2e2c72b08127a64bc4e405855054,ESTÁCIO EAD,Fisioterapia,Mensal,"(2017, 11, 1, 20, 12, 43)",Goiás,Goiânia,"(2017, 5, 15, 12, 3, 23)",Facebook,Website
+516,0b30208c1d84b5aa2a6c91ba42751c9ac12b8d71ebd7df3d4a9162c444e2342a,UNIP,Pedagogia,Mensal,"(2017, 11, 26, 22, 17, 30)",Rondônia,Cacoal,"(2017, 5, 16, 10, 38, 56)",Facebook,Website
+517,5c04ed16fa75216c5e73c4a400a647a201478bb57b1a1ab6bf397b9850ae17b8,ESTÁCIO,Gestão Financeira,Mensal,"(2017, 11, 4, 17, 8, 47)",São Paulo,Embu,"(2017, 5, 16, 14, 42, 22)",Facebook,Website
+518,44fe87dea6d68f10c480fee49a10c0c8e4df971d8af2d775535df2b41066ac08,CHRISTUS,Direito do Trabalho e Segurança Social,Mensal,"(2017, 11, 18, 3, 28, 14)",,,"(2017, 5, 19, 1, 37, 5)",Google,Webapp
+519,e555e789763155a744efecffa49b91dfe6ec314e12f61925d9c7fb0c1b14789e,UNINASSAU RECIFE,Letras e Línguas - Português,Mensal,"(2017, 11, 20, 20, 50, 21)",Pernambuco,Petrolina,"(2017, 5, 19, 16, 26, 20)",Facebook,Website
+520,e5c424e9bed9f70fecfed974ff83fdae11e7216d667d0b92c89bb1c2bd760906,UNINTER,Administração,Mensal,"(2017, 11, 25, 15, 30, 31)",São Paulo,Sorocaba,"(2017, 5, 20, 12, 32, 45)",Facebook,Website
+521,4a7d3713319886120f493ff9b2299915de0cd59800d1ec442cb0ea179d31abdd,UNIRIO,Pedagogia,Mensal,"(2017, 11, 27, 21, 22, 54)",Rio de Janeiro,Nova Iguacu,"(2017, 5, 21, 17, 52, 59)",Facebook,Website
+522,a5bc08c2bc33dcbce459ed46dcf717af11e756014eef0cb06eed8128a5f7a260,ESTÁCIO EAD,Engenharia Civil,Mensal,"(2017, 11, 16, 19, 53, 57)",Ceará,Brejo Santo,"(2017, 5, 22, 0, 2, 7)",Facebook,Website
+523,41f41c3ced6706a0d426dcad49ed6aeae3ae7660f753f9714dcfc5ad3d02213c,UNIP,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 11, 23, 55, 10)",São Paulo,Ribeirão Preto,"(2017, 5, 23, 14, 35, 55)",Facebook,Website
+524,c19e6a5f5ccf92cce9dc564ac1f43e4c1a1b4da6e8f737943ec96e1d27776a80,ESTÁCIO,Gestão de Comércio / Gestão Comercial,Mensal,"(2017, 11, 1, 15, 16, 0)",Rio de Janeiro,Rio de Janeiro,"(2017, 5, 24, 16, 24, 29)",Google,Website
+525,269924c0ec5b76ed62850ef481e7e79217078b70c2f76ef3d0dca3d56d298747,UNINTER,Engenharia Mecânica,Anual,"(2017, 11, 16, 19, 5, 41)",São Paulo,Assis,"(2017, 5, 26, 4, 49, 34)",Facebook,Website
+526,f9db899460418c0593ec5e24e335170b0b253c377c040570d634fc752428ec3c,UNIDERP - ANHANGUERA,Gestão de Recursos Humanos,Mensal,"(2017, 11, 17, 10, 36, 56)",São Paulo,Osasco,"(2017, 5, 29, 12, 24, 48)",Facebook,Website
+527,185d862915dd39f92a78a2de220cd9094749528e29b162eba1bc45ac39a51346,ESTÁCIO,Administração,Mensal,"(2017, 11, 29, 15, 25, 37)",Ceará,Caucaia,"(2017, 5, 29, 17, 1, 14)",Facebook,Website
+528,f2f71cd448cdecc137a80162428f3a623f603e7ae4b2a15f93b25633c52b56db,ESTÁCIO,Gestão de Recursos Humanos,Mensal,"(2017, 11, 14, 1, 19, 28)",Mato Grosso do Sul,Dourados,"(2017, 5, 30, 0, 1, 12)",Facebook,Website
+529,afd47d3f62e2022e7261866d3a29bb36253acf037d68b1513f04572c6ea76854,UFSM,Matemática,Mensal,"(2017, 11, 10, 19, 35, 45)",Rio Grande do Sul,Uruguaiana,"(2017, 5, 30, 1, 33, 14)",Facebook,Website
+530,9f8a1157a0ded0df99ee34eb2a065eb5d223643c42ba7a1eed9ccb6c61f59f59,UNINTER,Pedagogia,Mensal,"(2017, 11, 8, 11, 1, 0)",Goiás,Goiânia,"(2017, 5, 30, 19, 10, 49)",Facebook,Website
+531,0badf9f4d661a5172ca0201dfba0a2f0d529b3cacab4c6008c838df155e5f42e,UNIP,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 28, 3, 25, 13)",São Paulo,Campinas,"(2017, 5, 30, 16, 50, 47)",Google,Website
+532,93fbf5e68086ea9e9a198f37fb1044bd13b165aee71dbe3bde53be7ddb102610,Anhanguera,Logística,Mensal,"(2017, 11, 20, 19, 30, 58)",São Paulo,São Bernardo do Campo,"(2017, 5, 30, 19, 48, 51)",Google,Website
+533,cfe6a931384ab22731d7472fdc203600122d193799e69c9b4cd348f0800de010,ESTÁCIO,Administração,Mensal,"(2017, 11, 3, 23, 31, 21)",Rio Grande do Norte,Natal,"(2017, 5, 30, 21, 14, 26)",Google,Website
+534,02d2140c6008824ebdd2f0cc4e5367b64039b3ac185cbb7dff177e27819bbf4c,UNIP,Engenharia Mecânica,Mensal,"(2017, 11, 17, 10, 56, 16)",São Paulo,Ribeirão Preto,"(2017, 5, 31, 11, 33, 10)",Google,Website
+535,285917f950657a3c6c9ca430e9b657353ab86cbb13ab2270dde93313a2bff295,ESTÁCIO,Engenharia Elétrica,Mensal,"(2017, 11, 15, 19, 6, 18)",Rio de Janeiro,Rio de Janeiro,"(2017, 6, 3, 13, 12, 18)",Google,Website
+536,85938f9388ec966e026994002fe1049e108bc29c27ac100e24f6ad1419f53bcf,ESTÁCIO,Engenharia de Produção,Mensal,"(2017, 11, 13, 14, 16, 37)",Rio de Janeiro,Belford Roxo,"(2017, 6, 3, 17, 43, 9)",Facebook,Website
+537,52eff7dd05aae00ea0e05ce99ebf5d213b83048737091e86975a7e011d82c2aa,ESTÁCIO,Administração,Mensal,"(2017, 11, 13, 22, 23, 7)",Rio de Janeiro,Rio de Janeiro,"(2017, 6, 3, 19, 2, 50)",Facebook,Website
+538,c5f342e2dc7fac772f164035ce586e9758b12a03501d1348ab788a1adcf06a7b,ESTÁCIO,Gestão de Recursos Humanos,Mensal,"(2017, 11, 13, 2, 45, 58)",Bahia,Salvador,"(2017, 6, 4, 2, 6, 31)",Facebook,Website
+539,88ac4de227342631552d944c35357549181c4858a4192d79b7676004591c3033,ESTÁCIO,Administração,Mensal,"(2017, 11, 12, 12, 40, 7)",Goiás,Catalão,"(2017, 6, 4, 17, 37, 9)",Facebook,Website
+540,89d22ecf1e6fbc1ff465d906fcf93ccfe50c1a445c9782905487808de6f9d669,UNIP,Pedagogia,Anual,"(2017, 11, 19, 18, 37, 10)",Goiás,Goias,"(2017, 6, 5, 16, 23, 56)",Google,Website
+541,7763a7404c16f274e86da050a371e4cc0bc425b084c5fcf0c9a6bee35d7f4ff6,FEF,Nutrição,Mensal,"(2017, 11, 10, 9, 38, 17)",,,"(2017, 6, 6, 22, 55, 9)",Facebook,Webapp
+542,8af5fd444c16b826dc06e1e6576b53aa7b4bf8e28599a2bfc5698ea939850153,FSA,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 11, 17, 20, 43)",Piauí,Teresina,"(2017, 6, 6, 23, 41, 15)",Facebook,Website
+543,c489e8f223bfce8436b7f22860fc3b019b3d5defed9616b1a26ff2221237466e,UNIP,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 15, 23, 8, 9)",Distrito Federal,Brasília,"(2017, 6, 7, 11, 37, 8)",Facebook,Website
+544,e13245af5e70215dcb334ee5a780cdfda29bbed61789e0785f3c33fbd79115d6,ESTÁCIO,Administração,Mensal,"(2017, 11, 1, 13, 13, 50)",São Paulo,São Paulo,"(2017, 6, 8, 10, 36, 27)",Google,Website
+545,2299b49b0ce8d55d6242a8070bcce4d4a8b68d591ed4b38a50aa5ca0f90114bc,ESTÁCIO,Sistemas de Informação / Informática,Mensal,"(2017, 11, 14, 0, 13, 27)",Rio de Janeiro,Rio de Janeiro,"(2017, 6, 8, 21, 54, 50)",Google,Website
+546,179a9f51c08cd779d546f7da535dfb8065b582309070d1d8fdcc37dc09445a74,ESTÁCIO,Direito,Anual,"(2017, 11, 16, 21, 51, 23)",Rio Grande do Sul,Porto Alegre,"(2017, 6, 9, 1, 43, 2)",Facebook,Website
+547,8c61a695d11f2b5ee108510f47d6ce66aa9e3d33bbe503da65e8cca0076f1984,ESTÁCIO,Marketing,Mensal,"(2017, 11, 4, 22, 58, 3)",Rio de Janeiro,Rio de Janeiro,"(2017, 6, 11, 18, 52, 23)",Google,Android | 4.4.4 | sdk 19
+548,7927b0eb54bbfc66ecc6c0497bc2149f7fa1850a01b0bf8058edd45206b6762f,UNIP,Administração,Mensal,"(2017, 11, 6, 16, 4, 54)",São Paulo,Lins,"(2017, 6, 11, 21, 18, 21)",Google,Website
+549,2cadc0d130c36d1fc9fd967e9913d2bafb219c94321440ca6685d85ef2f11762,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 19, 14, 47, 52)",Bahia,Feira de Santana,"(2017, 6, 12, 11, 23, 23)",Google,Website
+550,5c369057d9ea686752f24a2ccb72f67604234e55c36f32b5eebfb4a413178b36,ESTÁCIO,Gestão de Comércio / Gestão Comercial,Mensal,"(2017, 11, 10, 1, 45, 33)",São Paulo,Praia Grande,"(2017, 6, 15, 13, 19, 21)",Google,Website
+551,96ceee084c69ef5fd293d205c5545f55eea448ad08693625c39b83677fddd809,UNINTER,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 25, 14, 56, 53)",Rio Grande do Sul,Dois Irmaos,"(2017, 6, 17, 18, 38, 4)",Facebook,Website
+552,83caf57dfd2357082847a1fd8e84109b1840cbf9cd061c03c6ca6197741a7b39,ESTÁCIO,Letras e Línguas - Português,Mensal,"(2017, 11, 14, 22, 13, 59)",Rio de Janeiro,Rio de Janeiro,"(2017, 6, 17, 17, 21, 26)",Google,Website
+553,9950a7a95e5191926602893ce1683544f2fae5513bdce885f4437cac870c41b2,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 9, 18, 34, 16)",Ceará,Fortaleza,"(2017, 6, 18, 12, 17, 11)",Facebook,Android | 6.0.1 | sdk 23
+554,a3b9bb0c05741de244b432d9fe97bf1bbe698fe7c994b16bf1e3636b7e086c80,ESTÁCIO,Redes de Computadores,Mensal,"(2017, 11, 12, 12, 58, 50)",São Paulo,Ribeirão Preto,"(2017, 6, 19, 10, 43, 57)",Google,Website
+555,82b0f5105c81357108b36f6b3cc2ab1c42ba540d4521ef97d847551b2612ae78,UNINTER,Engenharia de Produção,Anual,"(2017, 11, 20, 0, 14, 49)",Amapá,Macapá,"(2017, 6, 19, 21, 11, 43)",Google,Website
+556,7c8d5913903506799bb31bb91d0f723da26a5b1600cd8350ee510e222c9d1495,UNINTER,Administração,Anual,"(2017, 11, 15, 12, 33, 18)",Minas Gerais,Belo Horizonte,"(2017, 6, 20, 23, 11, 12)",Facebook,Website
+557,5b03820fee62f8cd33f38091e90a0bc78eb9b0288d70854ba24ffa8d08ef96d5,ESTÁCIO,Direito,Mensal,"(2017, 11, 13, 17, 21, 13)",Rio de Janeiro,Nova Iguacu,"(2017, 6, 23, 1, 12, 2)",Facebook,Website
+558,21fb5c41ce6b05f2e3573c0f8979666cbbdbe92bec74b479a187bffac99a654e,CEFET/MG,Engenharia Civil,Mensal,"(2017, 11, 3, 16, 49, 59)",Minas Gerais,Contagem,"(2017, 6, 23, 2, 35, 39)",Facebook,iOS | 9.3.5
+559,606c3e65c6bc7db8390835acd2cf6b88f1fd745ec2fe78a44961ce6cdd90fc8f,UNINTER,Engenharia Elétrica,Mensal,"(2017, 11, 16, 16, 18, 33)",Rio Grande do Sul,Santa Maria,"(2017, 6, 23, 12, 40, 13)",Google,Website
+560,50a3678cb18399bebce3d8b3a63b95506048ea943dc77044739eeeab9a313984,ESTÁCIO,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 6, 16, 21, 8)",Amazonas,Manaus,"(2017, 6, 24, 0, 7, 44)",Google,Website
+561,54f3ee6cfec99bc33d7f87732d3e8d5f80cc468e4d973873a180de7f5caa917b,UNINTER,Engenharia Elétrica,Anual,"(2017, 11, 16, 0, 39, 30)",Rio Grande do Sul,Porto Alegre,"(2017, 6, 25, 14, 7, 41)",Facebook,Website
+562,0932209453bafbcd9deaad46cb25fb9ddf5b4e0eebffe845bc35ebbea7d54f50,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 6, 12, 27, 20)",Rio de Janeiro,Rio de Janeiro,"(2017, 6, 30, 23, 46, 56)",Facebook,Website
+563,ca84de440c98afb839a40e7673ed5abd65cf8bfaad78fc954afe7fccba5431bd,UNINTER,Pedagogia,Mensal,"(2017, 11, 17, 21, 12, 48)",Santa Catarina,Mafra,"(2017, 7, 7, 20, 28, 49)",Facebook,Website
+564,c91c11d2a078b3d6d1f6a255c4f69d530a03e0fc27d9831f7a250c6f3be857d6,UNINTER,Licenciatura em Artes Visuais,Mensal,"(2017, 11, 15, 13, 23, 10)",Rio Grande do Sul,Nova Palma,"(2017, 7, 11, 16, 59, 59)",Google,Website
+565,16cbf3e778047144837bf6a05b4c6b34be20738411db5805e30b0c002cd176b3,UNINTER,Matemática,Mensal,"(2017, 11, 5, 20, 44, 0)",Paraná,Curitiba,"(2017, 7, 16, 12, 32, 49)",Google,Website
+566,cf6c016220a25658ca42cbdd460ff8d963ba01b0995f66a549fdc4d178b46df5,UNINTER,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 3, 17, 23, 3)",Rio Grande do Sul,Porto Alegre,"(2017, 7, 26, 19, 42, 0)",Google,Website
+567,96b110d5d80e813593915bf8bd42e798ab073b41ca75aab7d90eda73b2b19507,ESTÁCIO,Fisioterapia,Mensal,"(2017, 11, 14, 22, 45, 51)",Sergipe,Aracaju,"(2017, 7, 28, 13, 41, 12)",Google,iOS | 7.1.2
+568,987573ca4d2caffe252fcf1b40cb487d9a6523163f98f9c3588949c5dbd44c4e,UNINTER,Administração,Mensal,"(2017, 11, 14, 22, 45, 51)",Paraná,Maringá,"(2017, 7, 30, 23, 7, 5)",Google,iOS | 10.3.3
+569,870fd0fb30fb09fd76980e84bfb020bb46e43e96960cf53daa441c92d754dd18,UNOPAR,Contabilidade / Ciências Contábeis,Anual,"(2017, 11, 17, 18, 5, 55)",Minas Gerais,Itacarambi,"(2017, 8, 2, 20, 14, 21)",Facebook,Website
+570,d2d7600674a32912cdf8cdba2fbbfacb4f2a3f9200e4a4880219157d205c155d,UNIASSELVI,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 12, 22, 9, 41)",Santa Catarina,Blumenau,"(2017, 8, 7, 9, 31, 34)",Google,Website
+571,26a81c536f61c79a5689efd9d69477b3b4610bd4d7e5db63ec890f4a8427522a,UNINTER,Gestão da Tecnologia da Informação,Mensal,"(2017, 11, 14, 17, 10, 16)",São Paulo,Bauru,"(2017, 8, 9, 12, 27, 48)",Facebook,Website
+572,e7432bb827bbe4a043026fb052ebd953cafa2e1d27db359b3c2ea72a50287e7d,UNINTER,Pedagogia,Mensal,"(2017, 11, 26, 16, 15, 7)",Paraná,Laranjeiras do Sul,"(2017, 8, 11, 2, 32, 21)",Facebook,Website
+573,53a6b0be835164f9017a09fed22b7c3b80239947f23f06bf639c8dc7bffbc55a,FEMA,Medicina,Mensal,"(2017, 11, 15, 23, 12, 47)",São Paulo,Assis,"(2017, 8, 11, 16, 44, 17)",Facebook,Website
+574,cc6074ebf466247342bb5822f15d524e05c554b2eedef4acff23d85f59ae079b,UNINTER,Gestão de Comércio / Gestão Comercial,Mensal,"(2017, 11, 28, 0, 30, 23)",Rio Grande do Sul,Jaguarao,"(2017, 8, 11, 14, 1, 28)",Google,Website
+575,81d2903d121603be76813c7e93393e5d3da968e65789f714cd28f0c11e698674,ESTÁCIO EAD,Gestão de Recursos Humanos,Mensal,"(2017, 11, 21, 12, 45, 56)",Rio de Janeiro,Rio de Janeiro,"(2017, 8, 11, 16, 13, 31)",Google,Android | 6.0.1 | sdk 23
+576,b730bba16bad2f5b13afb959b1af21222298c4d64754797057ed575092d36f9b,UNINTER,Administração,Mensal,"(2017, 11, 1, 11, 48, 32)",São Paulo,São Paulo,"(2017, 8, 14, 15, 18, 45)",Facebook,Website
+577,d614017bffd39565f898bd52d0de1eb1e88290ffaf46332d8f29dea61c8e64f8,FIS,Direito,Anual,"(2017, 11, 23, 1, 28, 16)",Pernambuco,Serra Talhada,"(2017, 8, 14, 21, 37, 23)",Google,Website
+578,9c4e4f605251ffff0f8288dc432ce7c84f209a3a798ddcc8c3770e91d5b19ac0,UNOPAR,Letras e Línguas - Estudos Linguísticos,Mensal,"(2017, 11, 13, 8, 42, 9)",Rondônia,Ouro Preto do Oeste,"(2017, 8, 16, 11, 18, 21)",Google,Android | 6.0.1 | sdk 23
+579,072c84515627aaf4995f1fe3b104924ddd3a32aac5ded581b1725eb3193149b4,UNOPAR,Direito,Anual,"(2017, 11, 20, 14, 35, 51)",Goiás,Neropolis,"(2017, 8, 17, 22, 42, 27)",Google,Website
+580,1b2c8416376a806c1d8b014026143acfdacf643724c419f00f233a4118261858,UNIP,Odontologia,Mensal,"(2017, 11, 16, 23, 33, 42)",São Paulo,São Paulo,"(2017, 8, 18, 20, 19, 25)",Google,Website
+581,ed6f654d1ab3ced4c8a27548a9b31c98c25b2c33686e4b06a3f4b896aa3793c4,ESTÁCIO,Pedagogia,Mensal,"(2017, 11, 28, 1, 13, 5)",Alagoas,Maceió,"(2017, 8, 18, 22, 47, 40)",Google,Website
+582,3f2df27e9874db49678e5d6f70d43b945ca13ea7ae067d490cbea24988ee5b33,ESTÁCIO,Gestão Financeira,Mensal,"(2017, 11, 19, 13, 43, 58)",Pernambuco,Jaboatão dos Guararapes,"(2017, 8, 19, 16, 4, 32)",Facebook,Website
+583,8959fe24632c3c7c0895e14abe89d017d873508333a56b7490f8622c377acbaa,UNIDERP - ANHANGUERA,Gestão Financeira,Mensal,"(2017, 11, 15, 0, 49, 57)",Pará,Capanema,"(2017, 8, 21, 11, 51, 5)",Google,Website
+584,21dc929b0d4f4c89e92f7e4eee5f65ef7a47f3612a9080640e49240bbdc70cea,IBMEC,Engenharia de Produção,Mensal,"(2017, 11, 10, 12, 49, 23)",Minas Gerais,Belo Horizonte,"(2017, 8, 22, 19, 10, 22)",Google,Website
+585,e161c4f891405737406cbe73cf2a00310b97e2540ff6f3bbc10c90f6dffb15c6,ESTÁCIO,Gestão de Recursos Humanos,Mensal,"(2017, 11, 17, 13, 11, 8)",Rio Grande do Norte,Santa Cruz,"(2017, 8, 23, 15, 12, 28)",Google,Website
+586,b72a144ca55420a329ceaaedb162a1afec0e676cf3315b7902ccc29752244e7a,UNIP,Educação Física,Mensal,"(2017, 11, 15, 13, 32, 31)",Paraíba,Sousa,"(2017, 8, 25, 1, 31, 16)",Facebook,Website
+587,5e8cb84a7090d15f0b27b8981d201c582250214ffab5015151a07db11e771604,UNIFOR,Enfermagem,Mensal,"(2017, 11, 3, 21, 6, 19)",Minas Gerais,Belo Horizonte,"(2017, 8, 26, 14, 50, 8)",Google,Android | 5.1 | sdk 22
+588,852802bb3b2e5acc26353382234482878f5037aef3d9bc378092958ca4275abe,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 14, 14, 5, 20)",Sergipe,Aracaju,"(2017, 8, 28, 14, 13, 39)",Google,Website
+589,4c6c09ae2c9facfb3a39ad9391063dc9c9659942506ea67fb05b96906389a75d,UNINTER,Gestão da Tecnologia da Informação,Mensal,"(2017, 11, 6, 0, 5, 55)",Rio Grande do Sul,Canoas,"(2017, 8, 28, 22, 6, 3)",Google,Website
+590,b2bc31eba3909b0c2bae5dc8868a9bd7101169f503b964d03b1d6ad64dc1cce0,UNIP,Gestão Pública,Mensal,"(2017, 11, 24, 10, 18, 22)",São Paulo,Indaiatuba,"(2017, 8, 29, 9, 43, 11)",Google,Website
+591,52a7cbab32840c748682bfd0eab3a1da22d90eb45897b508b28ba90765d33d61,UNINTER,Logística,Mensal,"(2017, 11, 7, 18, 16, 26)",Rio Grande do Sul,Venancio Aires,"(2017, 8, 29, 13, 29, 38)",Google,Website
+592,e334acf984bd155ff66988b121ed239e5c645766b9b76b20af868f554ec73bda,UNIP,Pedagogia,Anual,"(2017, 11, 23, 19, 52, 43)",São Paulo,São Paulo,"(2017, 8, 29, 19, 40, 0)",Google,Website
+593,a588e097c8781c157f0c0bf4b517337cd1eb1d5d3476a17b6d37adf4c897cc20,ESTÁCIO,Pedagogia,Mensal,"(2017, 11, 21, 14, 20, 16)",Rio de Janeiro,Rio de Janeiro,"(2017, 8, 30, 23, 31, 53)",Facebook,Website
+594,8799dad7b43a213b3d4c5fe28c47fc5b6de413d58c40a0f2f1bc7f5ed37386f3,ESTÁCIO,Direito,Mensal,"(2017, 11, 3, 10, 22, 35)",Rio de Janeiro,Rio de Janeiro,"(2017, 8, 31, 15, 41, 24)",Google,Webapp
+595,052437675981dd1ae4e149f383756a5a77d3a543d382901d5c68c2e280c3ed04,ESTÁCIO,Direito,Mensal,"(2017, 11, 13, 22, 50, 10)",Minas Gerais,Sabará,"(2017, 9, 1, 14, 24, 57)",Facebook,Website
+596,8d73e47129cc4df5b224ff2bd591a455710c5783ffe83a42caf4e4630481b977,CEFET/RJ,Engenharia Mecânica,Mensal,"(2017, 11, 19, 22, 11, 7)",Rio de Janeiro,Rio de Janeiro,"(2017, 9, 4, 16, 50, 12)",Google,Website
+597,13437a7bf942fd80cd938bca72a209831c320135d28984804f332f628c6a2921,UNINTER,Engenharia de Produção,Anual,"(2017, 11, 20, 15, 14, 56)",Minas Gerais,Belo Horizonte,"(2017, 9, 4, 23, 53, 19)",Facebook,Website
+598,9ef87fb00e2c3266cf05cefb18cf913b9ae4c17565ad5a0f0b382d8ace59c301,FMP,Administração,Anual,"(2017, 11, 30, 1, 27, 28)",,,"(2017, 9, 5, 0, 43, 21)",Facebook,Website
+599,e27ea5d22cd50348c58454c68f4b36195bd346d66aad04dc16852d95a2a8eb64,ESTÁCIO,Nutrição,Mensal,"(2017, 11, 16, 2, 49, 58)",Ceará,Fortaleza,"(2017, 9, 5, 1, 25, 48)",Facebook,Website
+600,76a6b6a50f32d564a6fbd12d808468d377d86a9cb45ca704b508326e6f233058,ESTÁCIO,Pedagogia,Mensal,"(2017, 11, 6, 11, 53, 54)",Santa Catarina,São José,"(2017, 9, 6, 16, 1, 10)",Google,Website
+601,d880a54c97afcc71c3e4669f697476cc935cb611406f33caeaaa050c4eeb5932,ESTÁCIO,Administração Hospitalar / Gestão Hospitalar,Mensal,"(2017, 11, 7, 21, 20, 27)",Sergipe,Aracaju,"(2017, 9, 6, 16, 58, 41)",Google,Website
+602,12305a9a653db3618d31be078bef8c7eb4f7b253afa9cdcdcf244bd9f9ec117a,ESTÁCIO,Logística,Anual,"(2017, 11, 12, 20, 53, 42)",Rio de Janeiro,São Gonçalo,"(2017, 9, 6, 20, 19, 34)",Google,Website
+603,efa79f6a17b793c5c90ddc69119daf3736ab79bdf58cd24cb104776abac2e120,ESTÁCIO,Direito,Mensal,"(2017, 11, 18, 1, 5, 28)",Rio de Janeiro,Rio de Janeiro,"(2017, 9, 10, 0, 21, 40)",Facebook,Website
+604,cdf4346c6ef7ceb304ad5496ba6772304b97e02522552c694736b058bd20106f,ESTÁCIO,Nutrição,Anual,"(2017, 11, 4, 1, 23, 36)",Rio de Janeiro,Resende,"(2017, 9, 11, 9, 48, 50)",Google,Website
+605,da27fc4978ff4226ffef493bcead212bc160c5c1fe1587c3cdd1b484ee23ed33,UNINTER,Marketing,Mensal,"(2017, 11, 27, 14, 24, 26)",Paraná,Curitiba,"(2017, 9, 13, 15, 11, 35)",Facebook,Website
+606,454df00ea562aa74e7aa71d66777c002a1b2b3f2f9c9e73b1b82429897a1cd09,UVA,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 1, 19, 47, 31)",Rio de Janeiro,Rio de Janeiro,"(2017, 9, 13, 19, 36, 33)",Facebook,Website
+607,ea294bd3780ae270c1af9aa3789abe29d4d92c304639855ad3a2d16ff2f3d9c2,UNIP,Pedagogia,Mensal,"(2017, 11, 23, 18, 37, 12)",São Paulo,Santana De Parnaiba,"(2017, 9, 14, 10, 41, 27)",Google,Website
+608,cd2f66f780af524a9d678fe9b29a36f2623c0fcd153a8e748fd002fa740943db,UNIP,Administração,Mensal,"(2017, 11, 6, 16, 59, 41)",Espírito Santo,Vitória,"(2017, 9, 14, 11, 33, 30)",Google,Website
+609,56f0af08a5f198ef69799ecf2cb5eeac8b22a5a5e8f671d6f8fcb36e718d71eb,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 5, 23, 35, 35)",Tocantins,Paraíso do Tocantins,"(2017, 9, 15, 0, 4, 20)",Facebook,iOS | 10.3.3
+610,fe4c9349d4957b09568ab74bd1f7e5937f432049590ce86cb864a92e736f9c64,UERN,Letras e Línguas - Estudos Linguísticos,Mensal,"(2017, 11, 22, 2, 4, 58)",Rio Grande do Norte,Natal,"(2017, 9, 16, 2, 5, 57)",Facebook,Website
+611,f1ade4d119ccfd9585569659ef03ed14dae6fd349262bf9b6bdbdc48c5995116,UNINTER,Administração,Anual,"(2017, 11, 23, 17, 11, 6)",Alagoas,Maceió,"(2017, 9, 18, 10, 54, 32)",Facebook,Website
+612,fd7923b82e8c567ac811e2d98dda68ae8dbf96a398eed30474e3ac47921bb054,ESTÁCIO,Letras - Português e Inglês,Mensal,"(2017, 11, 24, 0, 32, 32)",Rio de Janeiro,Rio de Janeiro,"(2017, 9, 19, 15, 42, 6)",Google,Website
+613,3ab11abc5d0a18f8a1c9d08703593adf9c2660c59072f1a21d71583428a43284,UNIP,Administração,Mensal,"(2017, 11, 18, 18, 46, 2)",Distrito Federal,Brasília,"(2017, 9, 19, 19, 47, 18)",Google,Website
+614,3a5c2b94546d9fc3e7854bf6d34952dfb4299da2fa4ec75693234b5f813a31ff,UNIPLAN,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 11, 22, 41, 48)",Goiás,Goiânia,"(2017, 9, 20, 21, 14, 54)",Facebook,Website
+615,c5f02a71447ab436e19d3d3a2905dcf477c9827e103622ba974e1ca2056f2c54,UNINTER,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 27, 13, 30, 47)",Santa Catarina,Ilhota,"(2017, 9, 20, 22, 16, 18)",Facebook,iOS | 10.3.3
+616,344b86e61cec7d5e6a4842e017981dd62a2b27312d772f6b49ee54b33172ecd1,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 2, 17, 30, 2)",São Paulo,São Paulo,"(2017, 9, 20, 23, 24, 18)",Facebook,Website
+617,47a909948fc043ce87b4bbe2f554cb7883327b11f7ffc38a8765bbe605369176,UFMT,Física / Ciências Físicas,Mensal,"(2017, 11, 28, 22, 55, 22)",Mato Grosso,Rondonópolis,"(2017, 9, 20, 23, 44, 47)",Google,Webapp
+618,5fa9fe531ffd9965ded763f7aab1521a87a8d0e46941518c0255ecfe44670468,ESTÁCIO EAD,Gestão Pública,Mensal,"(2017, 11, 8, 13, 41, 48)",Ceará,Fortaleza,"(2017, 9, 21, 11, 8, 42)",Google,Website
+619,6bb94792f72013e7c505f0c1fd527b64868be8b9c270f9e63cc572ffcb138719,UNIP,Contabilidade / Ciências Contábeis,Anual,"(2017, 11, 17, 14, 24, 54)",Distrito Federal,Brasília,"(2017, 9, 21, 18, 8, 3)",Facebook,Website
+620,5a0759130680a10370f90ede0849cb1489fab1a7f514d7907e8ea9c6c76705ba,CEUT,Direito,Mensal,"(2017, 11, 2, 12, 3, 40)",Piauí,Teresina,"(2017, 9, 21, 18, 50, 25)",Facebook,Website
+621,9c822504d2a0a4d7557426683b2f4c1efa66bcce7f1fb126eb1812ab13df4a0d,ESTÁCIO,Direito,Mensal,"(2017, 11, 27, 18, 52, 18)",Rio de Janeiro,Queimados,"(2017, 9, 21, 22, 24, 19)",Google,Website
+622,fdd84fd84b1263f0ebf9a3aa245ccdf3d441844e0d031139969ad9cecdd355e1,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 3, 23, 8, 31)",Rio de Janeiro,Angra Dos Reis,"(2017, 9, 22, 7, 17, 28)",Google,Website
+623,c7bc7cdead1bf1d43c5cd84d2902ab1096d48b26d20e4d74dfa619835f6f7af6,UNINTER,Pedagogia,Mensal,"(2017, 11, 15, 22, 18, 2)",Paraná,Curitiba,"(2017, 9, 22, 11, 31, 24)",Facebook,Website
+624,1c466354914aa17365723441eeeacf6afa3ddbe48d52a3fa81faa1a4ce85d7b8,UNIBH,Engenharia Mecânica,Mensal,"(2017, 11, 15, 10, 55, 44)",Minas Gerais,Belo Horizonte,"(2017, 9, 24, 10, 28, 52)",Google,Android | 4.4.4 | sdk 19
+625,fac41e757e2c3268b766fa0002143219f819c221537622ee4d526e7fdf847961,UNIVERSO,Direito,Mensal,"(2017, 11, 27, 16, 42, 1)",Goiás,Jussara,"(2017, 9, 24, 19, 17, 5)",Facebook,Website
+626,cf4003977cf6ed6253ff93a6c371b6bfb8264f41b0d4dbb23f56f505b8580b9c,ESTÁCIO,Farmácia / Ciências Farmacêuticas,Mensal,"(2017, 11, 6, 14, 51, 28)",Bahia,Vitória da Conquista,"(2017, 9, 24, 16, 21, 41)",Google,Website
+627,ac53a7ca7a73f2c220479f2c0240ff06154f4fba2f63960b875a6a91cf1a346a,UNIP,Pedagogia,Anual,"(2017, 11, 22, 18, 45, 33)",São Paulo,São Carlos,"(2017, 9, 25, 14, 57, 52)",Facebook,Website
+628,04e6ab2a0fd73f052c729024f745b055a78282b46823554f2427bd424b118d0c,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 20, 19, 34, 20)",Ceará,Fortaleza,"(2017, 9, 25, 13, 29, 6)",Google,Website
+629,cf6fb4796df5d56ec0e5004b6b191668dfef0166ee0f01e1dcbfa1b2701fe58d,UNIP,Gestão Ambiental,Mensal,"(2017, 11, 21, 17, 56, 32)",São Paulo,Santos,"(2017, 9, 26, 3, 42, 33)",Facebook,Website
+630,58da69eef5c7959cc5a3980d0efe4b49206578e8c1a902acfcc6d3d1d79b4e3d,PUC-MINAS,Engenharia de Produção,Mensal,"(2017, 11, 27, 12, 32, 21)",Minas Gerais,Belo Horizonte,"(2017, 9, 26, 10, 28, 45)",Google,Website
+631,627b1309ca0daa40a6195ec63bcc331cb67ed904d13a9633da1c233aaafe1a38,UCBR,Economia / Ciências Econômicas,Mensal,"(2017, 11, 14, 11, 3, 59)",Distrito Federal,Brasília,"(2017, 9, 27, 9, 29, 42)",Google,Website
+632,e29c1a869a024045ec132354eba34d0b3c1bb648ee0fbbf988c2652ea2ff1c74,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 4, 18, 12, 57)",Minas Gerais,Belo Horizonte,"(2017, 9, 27, 17, 4, 24)",Facebook,Website
+633,39d28a64e36565ac9d8b7de31bb3eda6d8d6dc08c670d0d4f9b0544a1e88b14a,UNIP,Direito,Mensal,"(2017, 11, 21, 13, 19, 48)",Alagoas,Maceió,"(2017, 9, 27, 21, 30, 9)",Google,Website
+634,ec4c48f7d4b2c47babf7e3e1fa4f8b0b64ac9a3e6dd8226e2e694cdc40c17ecb,UNINTER,Gestão da Produção Industrial,Mensal,"(2017, 11, 13, 21, 1, 39)",Paraná,Curitiba,"(2017, 9, 28, 0, 44, 13)",Facebook,Website
+635,fa88f469320132293f5c618b7b87eac9c1b9e148a6005c8def09256d808d2628,UNIP,Pedagogia,Anual,"(2017, 11, 23, 15, 47, 48)",São Paulo,São Carlos,"(2017, 9, 28, 12, 9, 36)",Facebook,Website
+636,37b122dbef558f524766e98e233b762e4ef4ca61416444c8babfc03a51d6ec3b,Anhanguera,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 12, 15, 23, 9)",Mato Grosso do Sul,Campo Grande,"(2017, 9, 28, 17, 4, 27)",Facebook,Website
+637,4a57109f6918adacee83ebbcfcfa9ee33182a3e567ef278111a116cfcbe06187,ESTÁCIO,Administração,Mensal,"(2017, 11, 2, 19, 50, 39)",Ceará,Caucaia,"(2017, 9, 28, 18, 16, 2)",Facebook,Website
+638,3719a0d7d5481b751739ca8ef397203e42a76aa293571933ef28d6b0418c5c3e,ESTÁCIO,Direito,Mensal,"(2017, 11, 13, 0, 44, 4)",Rio de Janeiro,Rio de Janeiro,"(2017, 9, 28, 21, 41, 38)",Google,Website
+639,dff1c96bec024183cb6cc4ae44549bde43726a97ca9fd3ae65b3f6281e9d1608,UNIDERP - ANHANGUERA,Gestão de Recursos Humanos,Mensal,"(2017, 11, 22, 12, 38, 19)",Goiás,Goiânia,"(2017, 9, 29, 13, 21, 11)",Google,Website
+640,65ef053f3b9af541b422d73ca26059eac4eca489fb87872f9841eca3a9d9463b,UNIASSELVI,Pedagogia,Anual,"(2017, 11, 28, 15, 50, 6)",Rio Grande do Sul,Santa Maria,"(2017, 9, 29, 18, 26, 16)",Facebook,Webapp
+641,393a5ffaa91cf49f4881c27aa73c2579981858ea4aaddc53d8c817d15593b580,UNIP,Pedagogia,Mensal,"(2017, 11, 17, 19, 57, 57)",São Paulo,Campinas,"(2017, 9, 30, 13, 26, 32)",Facebook,Webapp
+642,fd7d20500ddbb0b7715319d7328f0e2cc28e56cc84b4efe788e9bebe60aad9b6,PITÁGORAS,Direito,Mensal,"(2017, 11, 4, 12, 58, 0)",Maranhão,São Luís,"(2017, 10, 1, 21, 9, 49)",Facebook,Website
+643,f25061995a6ebb76a5fc6d70a0a70fec4f293524dbedb5443c5ba144c373300e,UAM,Engenharia Civil,Mensal,"(2017, 11, 23, 22, 34, 3)",São Paulo,Boituva,"(2017, 10, 2, 23, 24, 42)",Facebook,Website
+644,c7038dd00a29eb81545106a400312472534e4ff1712d262c09ebc546cf58e504,ESTÁCIO,Administração,Mensal,"(2017, 11, 14, 13, 5, 41)",Maranhão,Imperatriz,"(2017, 10, 4, 16, 28, 49)",Google,Website
+645,d82943717bbe7716b5c3a5da0d8e82da972dde1bae2900c72944ca7a20075047,ESTÁCIO,Educação Física,Mensal,"(2017, 11, 5, 17, 57, 30)",Rio de Janeiro,Rio de Janeiro,"(2017, 10, 4, 21, 52, 32)",Facebook,Website
+646,94b3153a0d9620386919537fb1d63ec27fed166d29cedce11fb901ef12c6d7d3,UNIP,Direito,Mensal,"(2017, 11, 8, 15, 52, 5)",Maranhão,São Luís,"(2017, 10, 7, 12, 3, 34)",Google,Website
+647,95254b37faa3c69db2e1c5ac88ad0ff434e546c5d29cf9244e1471f097c6b7d4,UNIP,Pedagogia,Mensal,"(2017, 11, 28, 15, 22, 58)",São Paulo,Osasco,"(2017, 10, 7, 16, 20, 44)",Facebook,Website
+648,633e92c9365b030e6f1f7d712278238677eed107c91ac33685a52f3d7f3eb001,UNIP,Nutrição,Mensal,"(2017, 11, 3, 3, 14, 23)",São Paulo,São Paulo,"(2017, 10, 8, 21, 45, 29)",Facebook,Android | 6.0.1 | sdk 23
+649,ef0c53af2cdb85f0190f3add3b9b1b746469423885fa05d96939c3f442b2c1ab,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 5, 14, 36, 5)",Minas Gerais,São João del Rei,"(2017, 10, 8, 22, 1, 3)",Facebook,Website
+650,660b8e3d0ec2700b3c56da2d24ef3dc0c9f29c6cd724e98440c84501804f2427,ESTÁCIO,Gestão de Recursos Humanos,Mensal,"(2017, 11, 11, 0, 1, 36)",Rio de Janeiro,Sao Joao De Meriti,"(2017, 10, 9, 13, 15, 24)",Facebook,iOS | 10.3.3
+651,f5495a4a89024839e5ca3570c167784fa013ffc60cb3494ff06b2a3fd47d0d20,ESTÁCIO,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 4, 15, 19, 48)",Paraná,Paranaguá,"(2017, 10, 9, 22, 0, 32)",Facebook,Website
+652,1555c88d8b1e9ad77b0fa44824a3edd479e78d148ec169e0132078886dfac7d3,ESTÁCIO,Serviço Social,Mensal,"(2017, 11, 2, 23, 46, 9)",São Paulo,Ituverava,"(2017, 10, 9, 20, 47, 22)",Google,Website
+653,c62026009e4d54417fd8b81627a26557935fdd5d36eaafc2d8b43c5891eff49d,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 6, 18, 20, 49)",Paraná,Curitiba,"(2017, 10, 10, 1, 25, 5)",Facebook,Website
+654,b4f744a0ad29b358cc8661a8776bf4c6cee1b4774f7d288923e7c93ee2040660,UNIP,Educação Física,Mensal,"(2017, 11, 5, 23, 57, 52)",Goiás,Goiânia,"(2017, 10, 10, 20, 38, 56)",Google,Website
+655,dcd1dad0fb8f327768dc29bc6accb472ff992e42fd11c929e533420ebd21943d,UNIP,Pedagogia,Mensal,"(2017, 11, 20, 22, 11, 42)",Paraíba,Campina Grande,"(2017, 10, 11, 11, 54, 4)",Facebook,Website
+656,59bf780b2a261d49e544d39b21048babe8c8252ebff9830f7bfdf62e0ba0987d,UNINTER,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 7, 11, 21, 5)",Pará,Altamira,"(2017, 10, 11, 15, 22, 26)",Google,Website
+657,328b6a0c85a745982d3d0c5ec48463477b19ea7d8cec9a60612c779322399c55,UNINTER,Pedagogia,Mensal,"(2017, 11, 24, 17, 45, 56)",São Paulo,São Paulo,"(2017, 10, 12, 12, 1, 41)",Google,Website
+658,f6ba00c4c78b413bd9dfef48199fccfd30dbba7d4fef95bf315dad43a68d288c,ESTÁCIO,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 13, 18, 55, 49)",Rio Grande do Norte,Natal,"(2017, 10, 13, 17, 3, 46)",Google,Website
+659,b27216687cd540353187de6990e1da3ca3e116ad685498016073b8c26cb60279,ESTÁCIO EAD,Logística,Mensal,"(2017, 11, 13, 12, 28, 41)",Rio de Janeiro,Rio de Janeiro,"(2017, 10, 16, 12, 27, 48)",Facebook,Website
+660,6306468a587cc4b2342ff4be0422fecf0b9a7991dadfe66149c44d69b82c9510,ESTÁCIO,Licenciatura em Matemática,Mensal,"(2017, 11, 6, 13, 9, 41)",Sergipe,Aracaju,"(2017, 10, 16, 11, 31, 31)",Google,Website
+661,87fd7cc8e06081e7e597c1cb242f228b52182925109b1efa8f53fd306a565ec6,ESTÁCIO,Logística,Mensal,"(2017, 11, 9, 19, 32, 0)",São Paulo,Barueri,"(2017, 10, 16, 20, 17, 9)",Google,Website
+662,663d831ed10a57bc4ef85dd6308ccc9dd7cc4fca795d316fb7981ea9c9c805d8,UNINOVE,Medicina,Mensal,"(2017, 11, 29, 11, 11, 12)",São Paulo,Ourinhos,"(2017, 10, 17, 14, 50, 26)",Google,Android | 7.0 | sdk 24
+663,211d96f5ae10784e58c5b0a7ae283507a6d14e7c7ed25700bc9e928da44ab1f8,UNIP,Serviço Social,Mensal,"(2017, 11, 15, 21, 23, 38)",São Paulo,São Paulo,"(2017, 10, 19, 14, 22, 41)",Facebook,Website
+664,6510e156ceee2b10790311bdb35dd5259392f0beb74b15da171ae71e876594e4,ESTÁCIO,Educação Física,Mensal,"(2017, 11, 10, 15, 26, 35)",Minas Gerais,Lavras,"(2017, 10, 20, 22, 6, 6)",Facebook,Website
+665,2b08d9beef3517153aa3a7c19cb777c316c3c1957f305e5e6a237cd44dd5e4d5,ESTÁCIO,Design Gráfico,Mensal,"(2017, 11, 4, 19, 1, 12)",Ceará,Fortaleza,"(2017, 10, 22, 19, 3, 11)",Facebook,Website
+666,2894f2d437d379e47000c03af066ec3cb282f3ec4197ad9da33568f4b02a9728,UNINTER,Pedagogia,Mensal,"(2017, 11, 28, 21, 21, 21)",São Paulo,Guarulhos,"(2017, 10, 23, 13, 5, 21)",Facebook,Website
+667,95a28e1a022fb24601efc9ba1b0fbc2d3577124129e47e85c3881efae2a47ab2,ESTÁCIO,Engenharia Elétrica,Mensal,"(2017, 11, 8, 0, 27, 44)",Rio de Janeiro,Rio de Janeiro,"(2017, 10, 23, 22, 45, 21)",Facebook,Website
+668,325a4a2e2c449eefa32becce93abb6a884202b1b478df29fd851a0390f298d63,ESTÁCIO,Administração,Mensal,"(2017, 11, 2, 22, 6, 35)",Alagoas,Rio Largo,"(2017, 10, 24, 16, 10, 26)",Google,Android | 5.0.2 | sdk 21
+669,4719c3ccec5e4e7c2ce9067da425df229a2e45bd4debc663adb485993d5ea781,ESTÁCIO,Direito,Mensal,"(2017, 11, 15, 16, 0, 37)",Amazonas,Manaus,"(2017, 10, 24, 23, 11, 39)",Google,Website
+670,7a1893fafb26532451d8cef298a790dca86d6dda64e6ca4295f60eb789bb4033,ESTÁCIO,Engenharia Eletrônica,Mensal,"(2017, 11, 12, 23, 29, 14)",Minas Gerais,Belo Horizonte,"(2017, 10, 25, 15, 10, 45)",Google,Website
+671,d6fdf67b1cef64c9e6ebd16dace3af9c58439a6d794339953b4bdc3baff0bf25,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 9, 19, 5, 0)",Mato Grosso do Sul,Campo Grande,"(2017, 10, 27, 10, 40, 10)",Google,Website
+672,d65e125af0a0994151d29025c3b32b6fcaab4ee9fd47412057b673837a6462c0,ULBRA,Marketing,Mensal,"(2017, 11, 24, 18, 12, 43)",Rio Grande do Sul,Passo Fundo,"(2017, 10, 27, 18, 13, 39)",Facebook,Website
+673,1edf46a00cda0ef701f3b86e1e450b7fff3aa5525fedd1fc6b42b6d584116075,ESTÁCIO,Gestão Financeira,Mensal,"(2017, 11, 11, 14, 58, 7)",Ceará,Iguatu,"(2017, 10, 28, 22, 59, 5)",Facebook,Website
+674,ad216237a0632fa9239d4765315ef21ca9d2293a6f1c89d33aff0325cf6745ef,UNIP,Direito,Mensal,"(2017, 11, 17, 12, 40, 10)",Goiás,Anápolis,"(2017, 10, 29, 10, 0, 10)",Google,Website
+675,0e4bbe92c681a1b0587134ab04f71cfb672f2c77f76c02aabbd84985f456f0ea,ESTÁCIO EAD,Administração,Mensal,"(2017, 11, 12, 14, 53, 21)",Rio de Janeiro,Duque de Caxias,"(2017, 10, 29, 12, 52, 33)",Facebook,Website
+676,39ad11e5af70ae9a7ec37cbb52dbdaf7dfc469d29cb69da3702d9934a8c5b06e,ESTÁCIO,Licenciatura em História,Mensal,"(2017, 11, 19, 14, 37, 54)",Rio Grande do Norte,Natal,"(2017, 10, 29, 16, 25, 54)",Facebook,Website
+677,110003bf9c2ee3210e7aafa4e8868c2e1d61a2bf73ed5cd742642fb98051e155,UNIT,Direito,Mensal,"(2017, 11, 12, 17, 26, 10)",Alagoas,Maceió,"(2017, 10, 29, 18, 51, 37)",Facebook,Website
+678,5736e88d78c55cfe69591dcc44193f87befddafdc7d74f3f5b75b1b951ed321a,ESTÁCIO,Gestão de Recursos Humanos,Mensal,"(2017, 11, 3, 9, 57, 40)",Rio de Janeiro,Rio de Janeiro,"(2017, 10, 31, 15, 36, 49)",Google,Website
+679,0a50ad7e744bb4c06dc8fafe5024216f563d0391eeba66ce234c956ee7a8da71,ESTÁCIO,Direito,Anual,"(2017, 11, 2, 12, 20, 34)",Paraná,Irati,"(2017, 10, 31, 18, 14, 37)",Facebook,Website
+680,308a29d8d37388ed84b6b1930bf084f50249c15c244df26a3491ed5751917af2,UFVJM,Bacharelado Interdisciplinar em Ciência e Tecnologia,Mensal,"(2017, 11, 1, 0, 34, 0)",Minas Gerais,Diamantina,"(2017, 10, 31, 22, 18, 51)",Google,Website
+681,308a29d8d37388ed84b6b1930bf084f50249c15c244df26a3491ed5751917af2,UFVJM,Bacharelado Interdisciplinar em Ciência e Tecnologia,Mensal,"(2017, 11, 30, 8, 4, 26)",Minas Gerais,Diamantina,"(2017, 10, 31, 22, 18, 51)",Google,Website
+682,de1ca8c749817e8324aabee31560f6ed2a966af1e5cf3c727b7346c062eb30aa,ESTÁCIO,Direito,Mensal,"(2017, 11, 14, 20, 29, 10)",Santa Catarina,Florianópolis,"(2017, 11, 1, 10, 59, 8)",Facebook,Website
+683,77018e320dc5820e90984103896fbb42790c60308681725b8f5a7471ed69044f,FATE,Pedagogia,Mensal,"(2017, 11, 4, 14, 33, 0)",Ceará,Barbalha,"(2017, 11, 1, 16, 10, 23)",Google,Website
+684,4586cc7179ae45f2b402eaeef04b75eead77418cd162ff0f3733e0852f75f9ac,ESTÁCIO,Nutrição,Mensal,"(2017, 11, 7, 23, 28, 33)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 1, 21, 20, 8)",Google,Website
+685,c1608aa715e816250d50dfc342ae63bdf569d5a66ba7986a066bb5b6fa0d3921,ESTÁCIO,Direito,Mensal,"(2017, 11, 2, 0, 24, 1)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 1, 22, 22, 36)",Google,Website
+686,70404a0f3335d0a6378479836eeb64bde4460bf5cc3a520dfe2cdf10a3dafef3,ESTÁCIO EAD,Gestão de Recursos Humanos,Mensal,"(2017, 11, 2, 11, 46, 5)",São Paulo,São Paulo,"(2017, 11, 2, 9, 32, 46)",Google,Website
+687,7d1529b605317e535c152af381970edf5754ec61c8bce1f66bad429ad8b5fad4,ESTÁCIO,Arquitetura,Mensal,"(2017, 11, 2, 14, 45, 42)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 2, 12, 27, 48)",Google,Website
+688,e92849934b586e1fac2d19ae739cc8f3ea650cc42533cb92605e4149e85cf763,ESTÁCIO,Administração,Mensal,"(2017, 11, 2, 17, 0, 50)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 2, 14, 57, 10)",Google,Website
+689,99d49429724329e12acc43ed560f80eea512ab663936a73bbbbb4c2418aeb3d6,ESTÁCIO,Psicologia,Mensal,"(2017, 11, 2, 18, 50, 7)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 2, 18, 43, 15)",Facebook,Website
+690,a2bfeb22065a0a1f4c92bfe324d765fbcfab35483cced9b8d9dadd1c35438e49,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 3, 0, 53, 34)",São Paulo,São Paulo,"(2017, 11, 2, 21, 2, 41)",Google,Website
+691,db1014e0face45c39fd501658bac60e3255b3f52a7b2e7f9ab0729ad5b86df6f,UNINASSAU TERESINA,Odontologia,Mensal,"(2017, 11, 24, 23, 48, 41)",,,"(2017, 11, 3, 20, 8, 0)",Google,iOS | 11.0.3
+692,08fa9ea57a6b869c5af3d759a727cffdda3d7bbb94397947224df9d57a4d1201,UNICSUL,Engenharia de Produção,Mensal,"(2017, 11, 14, 15, 24, 29)",São Paulo,Barueri,"(2017, 11, 4, 12, 58, 12)",Google,Website
+693,6da20d2e0564be9ad86a39bced596473628e189de7a322d3e50406ea8b8daf3b,ESTÁCIO,Fisioterapia,Mensal,"(2017, 11, 4, 18, 43, 15)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 4, 16, 31, 59)",Google,Website
+694,b4b0d00eb296bc8ae8abb8c75c66e624a081f90120af570bbf7048a7e515757a,UAM,Engenharia de Produção,Mensal,"(2017, 11, 4, 21, 27, 58)",São Paulo,São Paulo,"(2017, 11, 4, 19, 24, 3)",Google,Website
+695,2786790b3c4a65fb9bd9ddd407cd8baaf0c065ebae49dcb5ed910a2eb95536f9,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 4, 22, 53, 44)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 4, 20, 51, 18)",Google,Website
+696,d75687e6bfed7c0226e8132613faaa3e3267de2a65b5d0f9fe066c07856f217d,UNOPAR,Administração,Mensal,"(2017, 11, 5, 1, 18, 52)",Minas Gerais,Divinópolis,"(2017, 11, 4, 23, 8, 35)",Google,Website
+697,ede2bc01b45a51460107772f0b5cb16c3fa6e1a3bf399575a29b46f384ba371d,ESTÁCIO,Direito,Mensal,"(2017, 11, 5, 13, 49, 18)",Paraná,Mallet,"(2017, 11, 5, 13, 31, 50)",Facebook,Website
+698,ac06e090a8d9d3555b7f230fe4477c991dcb80c650987367e0f639c704b62ce2,ESTÁCIO,Negócios Internacionais e Comércio Exterior,Mensal,"(2017, 11, 5, 14, 35, 52)",Rio de Janeiro,Nova Iguacu,"(2017, 11, 5, 12, 26, 59)",Google,Website
+699,d8741bdc7f82838d4d2098ccec0ef70c6946aa65bc76af72e349a924242cb056,ESTÁCIO,Comunicação Social - Jornalismo e Telejornalismo,Mensal,"(2017, 11, 22, 17, 44, 41)",Pará,Belém,"(2017, 11, 5, 21, 7, 32)",Google,Website
+700,b672a76a68c28978d7caad97e5628d9ec02b67e7d5a87aac537e28bba2cc0804,UNB,Administração,Mensal,"(2017, 11, 8, 4, 5, 33)",Distrito Federal,Brasília,"(2017, 11, 6, 0, 11, 15)",Facebook,Website
+701,25d6c1fe45614698161996946000068e324f40af712e64734c56a51a286ed886,ESTÁCIO,Enfermagem,Mensal,"(2017, 11, 13, 3, 46, 12)",Amazonas,Manaus,"(2017, 11, 6, 2, 19, 41)",Google,Website
+702,7df433862552116e2a399114bcc480bf9cdde2a023e804a9a33d272b8159b56c,UNINTER,Engenharia de Gestão,Mensal,"(2017, 11, 7, 11, 11, 22)",São Paulo,São José dos Campos,"(2017, 11, 6, 9, 4, 43)",Google,Website
+703,cf50abe77fdcd5b74e769b461b1e7ff06d3f9a44f6ea11356c45a53138d39b73,ESTÁCIO,Gestão Ambiental,Mensal,"(2017, 11, 6, 17, 42, 28)",Rio de Janeiro,Duque de Caxias,"(2017, 11, 6, 15, 17, 12)",Google,Website
+704,aa4b63476ef8c5158f1a1c3b79805b6551ac6f0b846ff40ebedc2b484b33f5c5,ESTÁCIO,Administração,Mensal,"(2017, 11, 6, 18, 21, 44)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 6, 15, 52, 17)",Google,Website
+705,ea4af2fb32382d8891039a6d64dc7f3d2d207d4be118d3000e6455e2ea136ca6,ESTÁCIO,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 6, 23, 22, 16)",Paraná,Marechal Cândido Rondon,"(2017, 11, 6, 16, 20, 52)",Google,Android | 7.0 | sdk 24
+706,2d0a71069b2298af11e4e3e78293568e9144617fc1d4b19f1250b4028a9c5212,ESTÁCIO,Direito,Mensal,"(2017, 11, 6, 20, 38, 9)",Santa Catarina,São José,"(2017, 11, 6, 20, 30, 55)",Facebook,Website
+707,77a7d178413fc6f4c1b625f3b9a4a8bbdd6cae44674b26a963dd165dc63c0b9c,UNIG,Engenharia Mecânica,Mensal,"(2017, 11, 7, 0, 4, 20)",Rio de Janeiro,São Gonçalo,"(2017, 11, 6, 21, 35, 24)",Facebook,Webapp
+708,8998e128e98cc6605e73e62127438b16aec1dea13c933d8b30ece14ea45716a6,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 14, 0, 2, 27)",Rio de Janeiro,Campos dos Goytacazes,"(2017, 11, 6, 22, 52, 57)",Facebook,Website
+709,b5213a8d5966c25031134721c9baa457e97ff719cee07cc39d67ee2cb57bf672,ESTÁCIO,Redes de Computadores,Mensal,"(2017, 11, 6, 23, 37, 3)",Ceará,Caucaia,"(2017, 11, 6, 21, 34, 54)",Google,Website
+710,9722b1ff554bf8b0b01c679c739ce19b6e0271298eb007e8df33c90edf210015,UNISANTA,Pedagogia,Mensal,"(2017, 11, 12, 14, 56, 39)",,,"(2017, 11, 7, 11, 16, 20)",Facebook,Android | 4.4.4 | sdk 19
+711,ee7ebde691292f6681d44cb4a3fa7a71d956f4f8e031580206cb03baabd8527f,ESTÁCIO,Direito,Mensal,"(2017, 11, 7, 14, 45, 47)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 7, 12, 9, 5)",Facebook,Android | 6.0.1 | sdk 23
+712,158451fd8b5ad0d917fa8a4027079be8c1885e6c12ac7914f26b9ebb748b3855,UNISINOS,Engenharia Industrial Elétrica,Mensal,"(2017, 11, 7, 19, 45, 2)",Rio Grande do Sul,Erechim,"(2017, 11, 7, 15, 0, 45)",Facebook,Webapp
+713,ad14a2e88bac6f27f8c921190e2f9e46ea10a85a6ba0a146144398b7c28b6f19,FDDJ,Direito,Mensal,"(2017, 11, 7, 18, 39, 19)",,,"(2017, 11, 7, 18, 35, 49)",Facebook,Website
+714,09c08e721730fe514b4f1fb58dee63c7efbb848b541fe07be1092b0579c9d9f7,UNIP,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 8, 1, 23, 35)",Espírito Santo,São Mateus,"(2017, 11, 8, 1, 19, 44)",Facebook,Website
+715,b52cfeb76ce70119e1d3ce89efebad7a3c89363a9b629959819877b1c6ef7f14,UFMG,Engenharia de Produção,Mensal,"(2017, 11, 8, 10, 46, 29)",Minas Gerais,Belo Horizonte,"(2017, 11, 8, 10, 34, 10)",Facebook,Website
+716,588b3915144cdaea15d09e987c9270297eae3d2fe0c9de8e00bdd78b8a72560a,UNINTER,Gestão da Informação,Mensal,"(2017, 11, 8, 14, 58, 7)",Paraná,Quatro Barras,"(2017, 11, 8, 13, 24, 54)",Facebook,Website
+717,036c3b936b15c041abf9b7335f1953603730998c5d378f41822a330d03a9faf4,UNIDERP - ANHANGUERA,Logística,Mensal,"(2017, 11, 8, 19, 52, 12)",São Paulo,São Paulo,"(2017, 11, 8, 15, 45, 45)",Google,Website
+718,74d3454e717d76177a5f367b15cde404da3e0134c08e928a024998c1574cc75d,ESTÁCIO,Administração,Mensal,"(2017, 11, 9, 13, 22, 12)",Bahia,Salvador,"(2017, 11, 9, 10, 58, 31)",Google,Website
+719,bda0d70e07ab42c753ec68dc014b8c550aa7762690608531411a719924d12f90,Uni - Anhanguera,Direito,Mensal,"(2017, 11, 9, 15, 24, 24)",Goiás,Goiânia,"(2017, 11, 9, 13, 5, 53)",Google,Website
+720,c833c606ab32094ed82a04177cd33b547bc621d9202694a8ca9810699be00073,UNIDAVI,Engenharia Civil,Mensal,"(2017, 11, 9, 17, 46, 59)",,,"(2017, 11, 9, 17, 40, 36)",Facebook,Website
+721,be88378d9971360d7cd9c5b8594762a7cd2b81329ae194ac14109914d900cdc7,ESTÁCIO,Logística,Mensal,"(2017, 11, 12, 18, 51, 20)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 9, 21, 2, 1)",Google,Website
+722,bd44a35d8e68b5b3c9279915a8b95213072ebf6bfb6ee38e559e9472e5096ab9,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 13, 14, 3, 44)",São Paulo,Jundiaí,"(2017, 11, 10, 18, 25, 18)",Facebook,Website
+723,d744cce19657896b5bdce1c48ab532d08555caf48d6c3728c4af1ac5a340332e,ESTÁCIO EAD,Gestão de Recursos Humanos,Mensal,"(2017, 11, 11, 17, 8, 33)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 11, 9, 33, 44)",Facebook,Android | 7.0 | sdk 24
+724,8ed7748ed8dab386c3ad87a3d44dc47c5fdf426fb20bc33548dd9a6cf410d321,UNOPAR,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 11, 11, 4, 49)",Paraná,Curitiba,"(2017, 11, 11, 8, 56, 33)",Google,Website
+725,93d74a1a15aa5d5723c738b4e672aa40acbc7f14b7f26b779a525dc34c7fce5d,ESTÁCIO,Administração,Mensal,"(2017, 11, 11, 15, 20, 24)",Pernambuco,Recife,"(2017, 11, 11, 14, 58, 58)",Facebook,Website
+726,ef227137db281c82fdd5fa622b05a2c3ee47e439f3accf0517adae693dd42171,UNINTER,Administração,Anual,"(2017, 11, 11, 22, 40, 27)",Tocantins,Sao Miguel Do Tocantins,"(2017, 11, 11, 22, 21, 23)",Facebook,Website
+727,1f7d6a2305217230caf5c346b491cd581a486d2248cdad92aee98a8d29bad4a7,UNICID,Engenharia de Produção,Mensal,"(2017, 11, 30, 18, 37, 38)",São Paulo,Campinas,"(2017, 11, 11, 22, 2, 39)",Google,Android | 4.4.2 | sdk 19
+728,9d174c708f5a0eec41ccc2f20eb3bc6c3f82eeb16c7f8f8e14044de17a0d3a64,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 12, 13, 8, 24)",Rio Grande do Norte,Natal,"(2017, 11, 12, 11, 5, 38)",Google,Website
+729,58bf67be6b238fb3498a43f59c5f537431b25b731bbc402f19f95cadc0e061ef,UNIP,Pedagogia,Mensal,"(2017, 11, 12, 19, 33, 39)",São Paulo,Hortolândia,"(2017, 11, 12, 18, 28, 3)",Facebook,Website
+730,3a47dd5a4097c3f81f355329b984328eaf8ee2ace9a4856a747527352feea395,CDL,Administração,Mensal,"(2017, 11, 12, 19, 14, 36)",,,"(2017, 11, 12, 19, 12, 1)",Facebook,Website
+731,d75cdc5e6560b229680b4fe084fb70a3238d2897b6b627e01b07cb466d66e9e9,ESTÁCIO,Direito,Mensal,"(2017, 11, 13, 0, 26, 1)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 12, 22, 20, 29)",Google,Website
+732,e715d902d1e1fe93544fb77eea2200236ef483330bfc9c4c9a8dee7bf13728bf,ESTÁCIO,Engenharia Industrial Elétrica,Mensal,"(2017, 11, 13, 13, 28, 22)",Rio de Janeiro,Nova Iguacu,"(2017, 11, 13, 11, 22, 1)",Google,Website
+733,85e40dbc39a6ea49ace8ee99b82665c048fe1694f417cab53711840a342f7ca2,UNIDERP,Medicina,Mensal,"(2017, 11, 13, 16, 4, 44)",,,"(2017, 11, 13, 15, 57, 11)",Facebook,Website
+734,3c00e271692717cc009f842a7be591fa39f23f5ba8317b4535217cc2b936f182,ESTÁCIO,"Educação em Ciências, Matemática e Linguagens",Mensal,"(2017, 11, 13, 16, 39, 53)",Rio de Janeiro,Rio Bonito,"(2017, 11, 13, 14, 16, 23)",Google,Website
+735,305b935d395242b57c59b054697ad6a31e94ba3a99b947504b2bd92591c8bb9a,ESTÁCIO,Gestão da Tecnologia da Informação,Mensal,"(2017, 11, 13, 16, 34, 43)",São Paulo,São Paulo,"(2017, 11, 13, 14, 26, 49)",Google,Website
+736,6bd1053cf21a2bbd211f95da7590788610a017e20b1e09dccc97c18861135b82,UNINTER,Análise e Desenvolvimento de Sistemas,Mensal,"(2017, 11, 13, 21, 38, 9)",Santa Catarina,Mafra,"(2017, 11, 13, 19, 25, 56)",Google,Website
+737,aac3108d82b80d795fed7e1d769fa2f9805ada3c254f58ddcebaa8ded33f9a87,UNIP,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 13, 22, 3, 24)",Mato Grosso,Alta Floresta,"(2017, 11, 13, 19, 47, 3)",Google,Website
+738,165daa978138dc35751ee87e260ef1b514efe87c01b3c0595e6d196dd2374a2c,ESTÁCIO,Administração,Mensal,"(2017, 11, 14, 19, 7, 22)",São Paulo,Praia Grande,"(2017, 11, 13, 21, 51, 50)",Facebook,Website
+739,5904d93f28aac222573ee276f13cc960d4a3e853d74564c8a6cee994589e5f7e,ESTÁCIO,Processos Gerenciais,Mensal,"(2017, 11, 14, 0, 54, 19)",Santa Catarina,Palhoca,"(2017, 11, 14, 0, 37, 51)",Facebook,Website
+740,fbdd8374af79f668bc67e7fe03db0c328b1bc7783f16a3eacab58d26a6704106,ESTÁCIO EAD,Gestão Financeira,Mensal,"(2017, 11, 20, 13, 48, 49)",Minas Gerais,Mario Campos,"(2017, 11, 13, 23, 2, 33)",Google,Android | 5.0.2 | sdk 21
+741,19bee7b5526ba9ec8a510dff7ea77e4c28de148d171f17d45948e52c8428e6d9,ESTÁCIO,Gestão Imobiliária / Negócios Imobiliários,Mensal,"(2017, 11, 14, 1, 47, 3)",Minas Gerais,Betim,"(2017, 11, 13, 23, 39, 59)",Google,Website
+742,b0d9514438e7d79ecb82ff1b8a7f416ee9bcc6da42c155d8063e1a1fd7406841,ESTÁCIO,Logística,Mensal,"(2017, 11, 14, 2, 30, 4)",Amazonas,Manaus,"(2017, 11, 13, 23, 52, 19)",Google,Website
+743,6b4fc69dcf30183e1e02b35eaf32ee3a617c6adc47df4eed71f6c12e289259c7,UNIASSELVI,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 14, 14, 20, 1)",Santa Catarina,Florianópolis,"(2017, 11, 14, 10, 43, 25)",Facebook,Website
+744,fde8303bd4e4e66bf1813bb92896b17e21951e30f4e26d10f4e1fe06888dc818,UNIP,Administração,Mensal,"(2017, 11, 14, 12, 19, 19)",São Paulo,São Paulo,"(2017, 11, 14, 12, 17, 47)",Facebook,Website
+745,30516b07e37d0e0a545633e17b6d1336d2e62a421490350d225cb52fade4c614,ESTÁCIO EAD,Engenharia Civil,Mensal,"(2017, 11, 14, 13, 25, 30)",Pernambuco,Recife,"(2017, 11, 14, 10, 44, 23)",Google,Android | 5.0 | sdk 21
+746,247e37de08d5bbff0133b17a7e91f6e312c1df560e7fb94edca41c454870c463,ESTÁCIO,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 14, 13, 0, 58)",São Paulo,São Paulo,"(2017, 11, 14, 10, 53, 59)",Google,Website
+747,db276cf92bd9e06a3129c10eb8335ee89fbcaf458b23069a94c934f47021ba63,ESTÁCIO,Administração,Mensal,"(2017, 11, 14, 16, 4, 50)",Ceará,Aurora,"(2017, 11, 14, 12, 28, 37)",Google,Website
+748,f45d9c0936b6c9249190474d684f4124680921b505baf334a36d5fdea97c5b82,ESTÁCIO EAD,Gestão de Comércio / Gestão Comercial,Mensal,"(2017, 11, 14, 22, 32, 17)",Minas Gerais,Belo Horizonte,"(2017, 11, 14, 18, 7, 7)",Facebook,Website
+749,faec09f987ca792645001e115896df1ab43a6dfea4c9e0fcb24d9a1787be63ea,ESTÁCIO,Letras - Português e Inglês,Mensal,"(2017, 11, 14, 21, 50, 30)",Ceará,Fortaleza,"(2017, 11, 14, 19, 26, 34)",Google,Website
+750,73a277466aa0b7284da4168e45d0512444d51a188591cd57dc5f3988d6687d56,ESTÁCIO,Pedagogia,Mensal,"(2017, 11, 14, 23, 53, 37)",Minas Gerais,Montes Claros,"(2017, 11, 14, 23, 9, 48)",Facebook,Website
+751,1e5289af8620672ea1d43c0eeef21e1107bc9e59f0a50f38b2b410e3611cc96f,UFU,Engenharia de Agrimensura e Cartográfica,Mensal,"(2017, 11, 15, 12, 12, 8)",Minas Gerais,Ipatinga,"(2017, 11, 14, 23, 57, 43)",Facebook,Website
+752,0742745b45cd41189adc790c48660067ee65928594aea1eeebdc477e58596a95,ESTÁCIO,Administração,Mensal,"(2017, 11, 15, 1, 33, 22)",Santa Catarina,Florianópolis,"(2017, 11, 15, 0, 55, 29)",Facebook,Website
+753,3316a98d03d2b50b801f5101c633ee283df0bae7aef24363c564c128d1647c3f,UNIJALES,Contabilidade / Ciências Contábeis,Mensal,"(2017, 11, 15, 11, 21, 59)",,,"(2017, 11, 15, 11, 10, 1)",Facebook,Website
+754,820e0ea1b4a2bcebae2724c7925910ba646f44aa7e63b5ed49cb6aa6d34ea29a,UNIDERP - ANHANGUERA,Serviço Social,Mensal,"(2017, 11, 15, 12, 28, 40)",Mato Grosso,Nova Mutum,"(2017, 11, 15, 10, 18, 34)",Google,Website
+755,ddf9cd85e5139197adbc4f2a73c4044a8991e154d20e0f32cb6b84b4b6179a56,ESTÁCIO,Farmácia / Ciências Farmacêuticas,Anual,"(2017, 11, 21, 1, 13, 20)",Ceará,Fortaleza,"(2017, 11, 15, 11, 15, 59)",Google,Website
+756,1f10cc19751bb98b756a146f87a9b1ee17a15574949d60dd55dd29eda95da3b2,UNIDERP - ANHANGUERA,Pedagogia,Mensal,"(2017, 11, 15, 20, 27, 18)",Minas Gerais,Belo Horizonte,"(2017, 11, 15, 15, 24, 57)",Google,Website
+757,7c896f6f884961ca8cb13ed3d5f328d18c087242cc4ba3b25dfe8a7454d468e5,UNIP,Pedagogia,Mensal,"(2017, 11, 22, 11, 56, 9)",São Paulo,Jales,"(2017, 11, 15, 17, 27, 33)",Facebook,Website
+758,ba452a6d120b32a0cfa58c22f331f0635907f0d9d4247caf320001f5c4e15be3,UNIP,Pedagogia,Mensal,"(2017, 11, 15, 19, 4, 10)",São Paulo,São Paulo,"(2017, 11, 15, 16, 39, 0)",Google,Website
+759,693b232f4b88827863279ba1ffe4f21ecde1a537707c9e0e81d612afaae71a21,ESTÁCIO,Engenharia de Energia,Mensal,"(2017, 11, 16, 0, 26, 53)",Santa Catarina,Palhoca,"(2017, 11, 15, 22, 12, 13)",Google,Website
+760,1f233845da4db21e3fab9943e00d11ef732a56f622c615336098a47581b47a26,UNINTER,Processos Gerenciais,Mensal,"(2017, 11, 27, 12, 23, 8)",Rio Grande do Sul,Gravataí,"(2017, 11, 16, 8, 32, 37)",Google,Website
+761,58e1999e87f6f8ea7e21a778f720e68f53d52a03e534cb7daa6fc9088fb16443,UNIP,Pedagogia,Mensal,"(2017, 11, 16, 11, 20, 55)",São Paulo,Araçatuba,"(2017, 11, 16, 9, 8, 58)",Google,Website
+762,189787f984d15a78086ecd8b3354aca91026dacbf1b0b833edbf28e4e18b8f76,ESTÁCIO EAD,Gestão de Marketing,Mensal,"(2017, 11, 16, 11, 36, 16)",Pernambuco,Recife,"(2017, 11, 16, 11, 12, 59)",Facebook,Website
+763,b1dd3e351faa2af9a0b0157883895917a3aa2da008256f0a8dbfefee8b9de2a5,UNINTER,Pedagogia,Mensal,"(2017, 11, 16, 16, 35, 36)",Paraná,Curitiba,"(2017, 11, 16, 11, 18, 34)",Google,Website
+764,2adcb55aec373a873cbd65412d71912564242b70ff53f02dde75067ee240f4e2,UNINTER,Negócios Internacionais e Comércio Exterior,Mensal,"(2017, 11, 16, 15, 3, 14)",São Paulo,São Paulo,"(2017, 11, 16, 12, 59, 13)",Google,Website
+765,871f4a2d0182b5fe05e2afdf7c59c03655f2c97c1073aae76d61214eb424e75f,ESTÁCIO,Engenharia Civil e Ambiental ,Mensal,"(2017, 11, 16, 19, 52, 56)",Minas Gerais,Juiz de Fora,"(2017, 11, 16, 17, 41, 25)",Google,Website
+766,2f90577bdaca34c31e1eaeda42c3e5828d096f65ca95378490639becae49312f,UNINASSAU MACEIÓ,Enfermagem,Mensal,"(2017, 11, 16, 21, 54, 40)",,,"(2017, 11, 16, 19, 49, 35)",Google,Website
+767,2ec7d18c064c7e9753e112525ea54ee4e29a1b0a22ed3b14609a1ad7f3b5ed71,UNIP,Gestão de Comércio / Gestão Comercial,Mensal,"(2017, 11, 17, 2, 27, 28)",Minas Gerais,Divinópolis,"(2017, 11, 16, 23, 31, 58)",Google,Website
+768,009dbffeb8378b8e3be8f90971d2c0625d4d2bd0a46e1e91b824665509575d7a,UFPE,Enfermagem,Mensal,"(2017, 11, 26, 19, 56, 34)",Pernambuco,Recife,"(2017, 11, 17, 0, 53, 48)",Google,Website
+769,ad4193b4eb63098e67abe01f12c250e85d592ae2204725871b699cd31a932222,ESTÁCIO,Administração,Mensal,"(2017, 11, 17, 18, 51, 32)",Minas Gerais,Conceicao Da Aparecida,"(2017, 11, 17, 12, 32, 48)",Google,Website
+770,372a920721a640f074a7539f236d2aa21b366e12da74a18af44302567f121cad,UNIP,Processos Gerenciais,Mensal,"(2017, 11, 27, 19, 35, 18)",São Paulo,São Paulo,"(2017, 11, 17, 20, 17, 33)",Facebook,Website
+771,eb828aacca4d4214f80abb4528a3518c0175e7269be07f41edeff697827cb77c,UFRRJ,Administração,Mensal,"(2017, 11, 17, 23, 18, 26)",Rio de Janeiro,Resende,"(2017, 11, 17, 21, 14, 17)",Google,Website
+772,48a71b0fd14b9d5b455b43d8be55ebdf2678182a8170cf6901b935c4d9ba0396,ESTÁCIO,Administração,Mensal,"(2017, 11, 18, 11, 41, 45)",São Paulo,Ribeirão Preto,"(2017, 11, 18, 9, 17, 55)",Google,Website
+773,07e3c935cce942a2b5bc80ad36685e0fe465928e14f7cced752e3c0a071fcab9,ESTÁCIO,Fisioterapia,Mensal,"(2017, 11, 18, 14, 49, 53)",Santa Catarina,Florianópolis,"(2017, 11, 18, 12, 2, 49)",Google,Website
+774,5f385fa346b303c21d7440731732bfdb5bbb726a655e9fe1563da8649e149b29,ESTÁCIO,Enfermagem,Mensal,"(2017, 11, 18, 18, 21, 26)",Bahia,Salvador,"(2017, 11, 18, 15, 37, 30)",Google,Website
+775,07f6ed9625fd466f8e03f5dcd77782968d5ac1726ef729157add1eae70bfdabf,ESTÁCIO,Engenharia Civil,Mensal,"(2017, 11, 18, 21, 56, 27)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 18, 17, 25, 33)",Google,Website
+776,56c9afc0946a2324b76ac9e590de1281f1e2a9187a638df8cc6c86030def6409,UNITRI,Veterinária / Medicina Veterinária,Mensal,"(2017, 11, 18, 22, 45, 55)",Minas Gerais,Belo Horizonte,"(2017, 11, 18, 20, 17, 1)",Google,Website
+777,5d64d8ac94fb2eb4b80582c912c88d9a2faf2c10e3530193a4610295a94b1e2f,ESTÁCIO,Engenharia Elétrica,Mensal,"(2017, 11, 19, 1, 36, 41)",Pará,Belém,"(2017, 11, 18, 23, 15, 41)",Google,Website
+778,12caffc4d7fd81a2802844bcf28b069ee6cd7532a964acbd903c0dd0c81a309b,UNOPAR,Gestão de Recursos Humanos,Mensal,"(2017, 11, 19, 2, 27, 12)",Pará,Belém,"(2017, 11, 18, 23, 36, 20)",Google,Website
+779,69d71d612c455d9dcec6f203f17604d35f0d34fe20ae63d11ed14275301ad44b,UNINTER,Engenharia Eletrônica,Mensal,"(2017, 11, 25, 14, 27, 39)",Rio de Janeiro,São Gonçalo,"(2017, 11, 19, 3, 23, 36)",Google,Website
+780,2b8aab2d4b665628ae9e6bb208da1a129602dbede3bc0c90f46cb19b580cb971,ESTÁCIO,Direito,Mensal,"(2017, 11, 19, 20, 37, 52)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 19, 20, 14, 48)",Facebook,Website
+781,0bb8225148338e47b2f78634db272d73970232887df125b62a94685dc41afa75,UNIDERP - ANHANGUERA,Administração,Mensal,"(2017, 11, 24, 20, 42, 35)",São Paulo,Limeira,"(2017, 11, 20, 16, 46, 6)",Facebook,Website
+782,06ba399985a68e9d8808855eeaea0a9a9ef43444c9319b4ba5649e2a301cf5cc,UNIFACS,Veterinária / Medicina Veterinária,Anual,"(2017, 11, 22, 22, 40, 55)",Bahia,Boa Nova,"(2017, 11, 20, 21, 37, 17)",Google,Website
+783,a6d95f3a410981dbb9fab80049bce3639cf7aba9ecd138c50930ca01fbaa2d7d,UNINTER,Engenharia Civil,Mensal,"(2017, 11, 27, 19, 50, 13)",Espírito Santo,Vila Velha,"(2017, 11, 20, 22, 36, 34)",Google,Website
+784,063a2ccec66fc4adb68572e2647c9bfe8112703555b6990d44b822c048e3a7bf,ESTÁCIO,Psicologia,Mensal,"(2017, 11, 27, 22, 47, 49)",Santa Catarina,Florianópolis,"(2017, 11, 21, 15, 52, 27)",Google,Website
+785,995379d14dd5e82dc4f97501414e6b1c1f896138d2d15a4ed9f8826aa81efed5,UNIP,Pedagogia,Mensal,"(2017, 11, 23, 0, 42, 15)",São Paulo,Rio Claro,"(2017, 11, 22, 0, 51, 24)",Facebook,Website
+786,ac5f041e2d44fa1458d23e1e004893ec9ab19da8e772c2fb2cac697b68d779bf,UNIMONTE,Direito,Mensal,"(2017, 11, 28, 11, 8, 24)",São Paulo,São Carlos,"(2017, 11, 22, 0, 8, 12)",Google,Website
+787,60265e3e002c5d20587ba523f0a1a0ef3d6bc2fb8b8e6bd93cf8a635ebd7f879,IFPI,Gestão de Recursos Humanos,Mensal,"(2017, 11, 26, 11, 54, 48)",,,"(2017, 11, 22, 14, 27, 0)",Facebook,Website
+788,28200930c47f93ec9001efe55092ebc87b5a22732ba90407381c559b7b5d699c,UNIP,Pedagogia,Mensal,"(2017, 11, 23, 0, 21, 34)",Pernambuco,Recife,"(2017, 11, 22, 20, 37, 25)",Facebook,Android | 4.2.2 | sdk 17
+789,55447968597df8e305bf7bc966b4ea149eb07e491744ad636503708ed816c599,UNIP,Educação Física,Mensal,"(2017, 11, 24, 12, 46, 44)",São Paulo,Carapicuíba,"(2017, 11, 24, 10, 32, 30)",Google,Website
+790,8717eb608cf1b75ea7f48a1df92e25e6c7b04693660318d7921a8b160ab8015c,UVA,Administração,Mensal,"(2017, 11, 26, 18, 35, 28)",Rio de Janeiro,Nova Friburgo,"(2017, 11, 25, 17, 28, 22)",Google,Website
+791,32fdf98aae6fca4ded428a10bd042fa4ad66c2c1dd910cb2af744df4551c27ca,FAPAM,Enfermagem,Mensal,"(2017, 11, 26, 21, 29, 48)",,,"(2017, 11, 26, 17, 55, 15)",Facebook,Website
+792,df2a27c44c7dbe11e8665949ce425d8b180568d67ba61a0cfd041359a1618c35,ANHANGUERA,Gestão Financeira,Mensal,"(2017, 11, 26, 18, 43, 10)",Rio Grande do Sul,Porto Alegre,"(2017, 11, 26, 18, 32, 13)",Facebook,Website
+793,6df2d89102fb7c105e32530c749ec754947ccd4c9b52fca032ee28a7b844b466,UPE,Engenharia Mecânica,Mensal,"(2017, 11, 28, 0, 45, 53)",Pernambuco,Recife,"(2017, 11, 27, 22, 45, 29)",Facebook,Website
+794,d23285a8b35a8f1010c7b63a8b122948a8807739cfc769d67e5b0107d85bfbbb,CEULP,Engenharia Civil,Mensal,"(2017, 11, 28, 2, 47, 49)",Tocantins,Gurupi,"(2017, 11, 28, 2, 30, 51)",Facebook,Website
+795,655a9c022a25c4cf218b0f5a455a1c27850ee01f65c725b681a1ccbff9d47378,UNOPAR,Pedagogia,Mensal,"(2017, 11, 30, 19, 14, 25)",São Paulo,Cubatao,"(2017, 11, 28, 22, 18, 58)",Google,Website
+796,88351600fb4fc9095827c54a09aafbef44c0ba6b1fea34db0cac641afbba0496,FACIG,Engenharia Civil,Mensal,"(2017, 11, 30, 22, 27, 18)",,,"(2017, 11, 29, 14, 20, 57)",Facebook,Webapp
+797,346af5f521ef693edd6fe144a7a202b7f12a5ecb1c33a8e49d8207fb5b718b9c,ESTÁCIO,Gestão Pública,Mensal,"(2017, 11, 30, 21, 37, 3)",Rio de Janeiro,Rio de Janeiro,"(2017, 11, 30, 21, 13, 35)",Facebook,Website
+798,0cde7b5c3228dec794d2dfd3443d12af2e3d931010d0530bededec00ff57c0a4,UNIP,Arquitetura,Mensal,"(2017, 11, 30, 23, 56, 24)",São Paulo,São Joaquim da Barra,"(2017, 11, 30, 21, 45, 26)",Google,Website
